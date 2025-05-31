@@ -53,3 +53,9 @@
 - Description
 - Links
 - Upload file to GitHub
+
+###Contact
+- (+44) 7786 416 459
+- <a href="mailto:joe.scott.boyle@gmail.com">joe.scott.boyle@gmail.com</a>
+- <a href="https://www.linkedin.com/in/joe-scott-boyle/">LinkedIn</a>
+- 
