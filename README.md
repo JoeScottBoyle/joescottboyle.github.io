@@ -4,8 +4,9 @@
 
 ###Research
 - Description
-- Wu, H., Soleiman, J., Bolam, J., <b>Boyle, J.S.</b>, 2025. Exploring a unified definition of ecological complexity towards restoration. Total Environment Advances 14, 200125. https://doi.org/10.1016/j.teadva.2025.200125
 - Wedding, L.M., Agardy, T., Green, S., <b>Boyle, J.S.</b>, Frazão Santos, C., Malhi, Y., Crowder, L.B., 2025. Bridging Land and Seascape Restoration for Ecoscape Recovery. npj Ocean Sustainability www.nature.com/npjoceansustain/collections.
+- Wu, H., Soleiman, J., Bolam, J., <b>Boyle, J.S.</b>, 2025. Exploring a unified definition of ecological complexity towards restoration. Total Environment Advances 14, 200125. https://doi.org/10.1016/j.teadva.2025.200125
+- Wilhelm, K., Lomax, T., McCarthy, L., <b>Boyle, J.S.</b>, Menon, S., Hart, A., Coombes, M., Cox, T., Hall, J., Freebody, J., 2025. The role of hybrid green spaces in secure psychiatric care. Department of Psychiatry, University of Oxford.
 - Wright-Arora, G., James, M., Troiano, M., Sidwell, N., <b>Boyle, J.S.</b>, Barbrook-Johnson, P., Hirons, M., 2024. The role of publics and deliberation at the environmental science-policy interface. Agile Initiative, Oxford Martin School. https://dx.doi.org/10.5287/ora-4rgdzpjnd
 - Wedding, L.M., Pittman, S.J., Lepczyk, C.A., Parrain, C., Puniwai, N., <b>Boyle, J.S.</b>, Goldberg, E.G., Young, M., Marty, P., Wilhelm, K., Taylor, S., Crowder, L.B., 2024. Integrating the multiple perspectives of people and nature in place-based marine spatial planning. npj Ocean Sustain 3, 43. https://doi.org/10.1038/s44183-024-00071-9
 - Troiano, M., Sidwell, N., <b>Boyle, J.S.</b>, James, M., Wright, G., Barbrook-Johnson, P., Hirons, M., 2024. Impact and collaboration in environmental research: moving universities from evidence producers to co-producers. Agile Initiative, Oxford Martin School. https://dx.doi.org/10.5287/ora-8rny1gaj9
