@@ -4,7 +4,25 @@ Researcher, science communicator, and diver supporting people as nature
 
 Thanks for making it this far, I hope you find something interesting. This website is still under construction, so don't hesitate to let me know if something isn't working.
 
-## Projects
+### Projects
+<details> 
+<summary> Lead </summary>
+  
+- Meadows, Memories, and Missing Layers (2022-)
+- Just Maps (2023-5)
+- Green Connectors (2020-2?)
+- Integrating Community Management of Green Space (2013-7)
+
+</details> 
+
+<details> 
+<summary> Support </summary>
+
+- Generación SEA
+- 
+
+</details> 
+
 ### Research 
 <details> 
 <summary> Publications </summary>
@@ -36,39 +54,67 @@ Thanks for making it this far, I hope you find something interesting. This websi
 <details> 
 <summary> Conferences </summary>
 
-- United Nations Ocean Conference, 2025, Nice, France **(workshop)**. Affiliation: Kilómetro Uno x Walter Munk Foundation for the Oceans
-- Digital Dimensions of Nature Recovery, 2024, Oxford, UK. Affiliation: University of Oxford
-- Equality, Diversity, and Inclusion in Environmental Research, 2024, Solihull, UK. Affiliation: University of Oxford
-- The 2024 World Seagrass Conference (WSC2024) & 15th International Seagrass Biology Workshop (ISBW15), 2024, Napoli, Italy **(poster)**. Affiliation: University of Oxford
-- American Association of Geographer's Annual Meeting 2024, Honolulu, HI, USA **(talk)**. Affiliation: University of Oxford
-- Complexity Theory and Systems Thinking with Government, 2023, Oxford, UK **(talk)**. Affiliation: University of Oxford
-- COP26, 2021, Glasgow, UK **(community organising and activities)**. Affiliation: RSPB
-- ArcticNet, 2020, online **(poster award)**. Affiliation: University of Edinburgh
-- London Recorders’ Day, 2019, Natural History Museum, London, UK **(poster)**. Affiliation: Tooting Common Heritage Project
+- United Nations Ocean Conference, 2025, Nice, France **(workshop)**.
+  Affiliation: Kilómetro Uno x Walter Munk Foundation for the Oceans
+- Digital Dimensions of Nature Recovery, 2024, Oxford, UK.
+  Affiliation: University of Oxford
+- Equality, Diversity, and Inclusion in Environmental Research, 2024, Solihull, UK.
+  Affiliation: University of Oxford
+- The 2024 World Seagrass Conference (WSC2024) & 15th International Seagrass Biology Workshop (ISBW15), 2024, Napoli, Italy **(poster)**.
+  Affiliation: University of Oxford
+- American Association of Geographers' Annual Meeting, 2024, Honolulu, HI, USA **(talk)**.
+  Affiliation: University of Oxford
+- Complexity Theory and Systems Thinking with Government, 2023, Oxford, UK **(talk)**.
+  Affiliation: University of Oxford
+- COP26, 2021, Glasgow, UK **(community organising and activities)**.
+  Affiliation: RSPB
+- ArcticNet, 2020, online **(poster award)**.
+  Affiliation: University of Edinburgh
+- London Recorders’ Day, 2019, Natural History Museum, London, UK **(poster)**.
+  Affiliation: Tooting Common Heritage Project
 
 </details>
 
 <a href="https://scholar.google.co.uk/citations?user=578O47kAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.researchgate.net/profile/Joseph-Boyle-6?ev=hdr_xprf">ResearchGate</a>
 
-<details> <summary> Arts </summary> 
+### Arts
+<details> <summary> Writing </summary> 
 
 - Gentili, G., <b>Boyle, J.S.</b>, Zurowski, M., 2025. Gripping a Wet Rock. Exhibition at Mote102 Gallery, Edinburgh, now held within The University of Edinburgh Collection. Text available here: LINK
 - <b>Boyle, J.S.</b>, Randhawa, H., 2024. Who Grieves for Rivers? A Correspondence. *Art Review Oxford*. https://artreviewoxford.com/issues/ARO%208.pdf
+
+<details> <summary> Workshops </summary> 
+
+- Gentili, G., <b>Boyle, J.S.</b>, 2025. Gripping a Wet Rock. Emotion mapping workshop at Mote102 Gallery, Edinburgh, supporting the exhibition.  
 - <b>Boyle, J.S.</b>, Randhawa, H., Stanković, A.T., 2024. Floating Leaves and Unsettled Seeds. Workshop in Oxford. LINK to poster
 - <b>Boyle, J.S.</b>, Randhawa, H., Stanković, A.T., 2024. Critical Cartographies: Mapping & Resistance. Workshop in Oxford. LINK to poster
-- Artistic collaborations (Giulia Gentili, Harmanpreet Randhawa, Anka Stanković, Liz Willoughby, Jonny Circles, Xinyue Liu, Valerie Asiimwe Amani)
+
+</details>
+
+<details> <summary> Artistic collaborations </summary> 
+
+- Giulia Gentili
+- Harmanpreet Randhawa
+- Anka Stanković
+- Liz Willoughby
+- Jonny Circles
+- Ross Taylor
+- Xinyue Liu
+- Valerie Asiimwe Amani
 
 </details>
 
 ### Invited Talks
 
-- Mapping the sea: place, power, and participation. CETYS University, Tijuana, Mexico, 10/4/25
+- Mapping the Sea: Place, Power, and Participation (with participatory mapping workshop). CETYS University, Tijuana, Mexico, 10/4/25
 - Just Maps: Critical Cartography at Sea. The University of Oxford, Oxford, UK, 12/3/25
 - Practices and principles of re-engaging young people with nature (with Kim Polgreen). Healthy Ecosystem Restoration in Oxfordshire, Oxford, UK, 12/3/25
+- Mapping Seagrass Space and Place. Project Seagrass, online 14/1/25
 - Meadows, Memories, and Missing Layers. Oxford Deep Blue, Oxford, UK, 26/11/24
-- Critical Cartography. Oxford Action for Palestine Summer School, UK, 28/8/25
+- Critical Cartography. Oxford Action for Palestine Summer School, UK, 28/8/24
 - Mapping & Resistance. Oxford Liberated Zone, UK, 20/5/24
 - Meadows, Memories, and Missing Layers. Leverhulme Centre for Nature Recovery, Oxford, UK, 8/2/24
+- Mapping Seagrass Space and Place. Orkney Seagrass Gathering, Kirkwall, UK, 19/6/23
 - The Flora of the Changing Arctic. South London Botanical Institute, London, UK, 14/11/20
 - Several talks, webinars, and sympsia organised indeoendtly, for the RSPB, and the University of Oxford.
 
@@ -100,13 +146,6 @@ Thanks for making it this far, I hope you find something interesting. This websi
 
 </details>
 
-<details> 
-<summary> Talks </summary>
-
-- List
-- List
-
-</details>
 
 ### Education & Engagement
 
@@ -141,7 +180,8 @@ Thanks for making it this far, I hope you find something interesting. This websi
 - <a href="mailto:joe.scott.boyle@gmail.com">joe.scott.boyle@gmail.com</a>
 - <a href="https://www.linkedin.com/in/joe-scott-boyle/">LinkedIn</a>
 - <a href="https://www.inaturalist.org/people/4331911">iNaturalist</a>
-
+- <a href="https://x.com/JoeScottBoyle">Twitter</a>
+- <a href="https://orcid.org/0000-0001-6694-1020">ORCID</a>
 
 ### Partnerships
 
