@@ -1,6 +1,6 @@
 Joseph Scott Boyle (he/him)
 
-Transdisciplinary researcher, science communicator, and diver supporting people as nature
+Researcher, science communicator, and diver supporting people as nature
 
 Thanks for making it this far, I hope you find something interesting. This website is still under construction, so don't hesitate to let me know if something isn't working.
 
@@ -29,7 +29,6 @@ Thanks for making it this far, I hope you find something interesting. This websi
 - <b>Boyle, J.S.</b>, Lilley, R.J., Thomsen, E., Wedding, L.W., 2024. Meadows, Memories & Missing Layers: Transdisciplinary seagrass mapping towards restorative marine spatial planning (WSC2024), https://doi.org/10.13140/RG.2.2.25890.44482
 - <b>Boyle, J.S.</b>, Angers-Blondin, S., Assmann, J.J., Myers-Smith, I.H., 2020. Summer and autumn temperatures – but not growing season length – influence growth of a dwarf willow in coastal Arctic tundra (ArcticNet 2020 poster award), https://doi.org/10.13140/RG.2.2.31734.01601/1 
 - <b>Boyle, J.S.</b>, 2019. Biological Monitoring on Tooting Common (London Recorders’ Day 2019), https://doi.org/10.13140/RG.2.2.15114.08646
-- 
 - OTHERS from ResearchGate, including for where they were produced
 
 </details>
@@ -56,14 +55,15 @@ Thanks for making it this far, I hope you find something interesting. This websi
 - Gentili, G., <b>Boyle, J.S.</b>, Zurowski, M., 2025. Gripping a Wet Rock. Exhibition at Mote102 Gallery, Edinburgh, now held within The University of Edinburgh Collection. Text available here: LINK
 - <b>Boyle, J.S.</b>, Randhawa, H., 2024. Who Grieves for Rivers? A Correspondence. *Art Review Oxford*. https://artreviewoxford.com/issues/ARO%208.pdf
 - <b>Boyle, J.S.</b>, Randhawa, H., Stanković, A.T., 2024. Floating Leaves and Unsettled Seeds. Workshop in Oxford. LINK to poster
-- - <b>Boyle, J.S.</b>, Randhawa, H., Stanković, A.T., 2024. Critical Cartographies: Mapping & Resistance. Workshop in Oxford. LINK to poster
-- Artistic collaborations **CHECK SPELLINGS** (Giulia Gentili, Harmanpreet Randhawa, Anka Stankovic, Liz Willoughby, Jonny Circles, Xinyue Liu, Valerie Asiimwe Amani)
+- <b>Boyle, J.S.</b>, Randhawa, H., Stanković, A.T., 2024. Critical Cartographies: Mapping & Resistance. Workshop in Oxford. LINK to poster
+- Artistic collaborations **CHECK SPELLINGS** (Giulia Gentili, Harmanpreet Randhawa, Anka Stanković, Liz Willoughby, Jonny Circles, Xinyue Liu, Valerie Asiimwe Amani)
 
 ### </details>
 
 ### Invited Talks
 
 - Mapping the sea: place, power, and participation. CETYS University, Tijuana, Mexico, 10/4/25
+- Just Maps: Critical Cartpgraphy at Sea, The University of Oxford, UK, 12/3/25
 - Practices and principles of re-engaging young people with nature (with Kim Polgreen), Oxford, UK, 12/3/25
 - Meadows, Memories, and Missing Layers. Oxford Deep Blue, Oxford, UK, 26/11/24
 - Critical Cartigraphy. Oxford Action for Palestine Summer School, UK, 28/8/25
@@ -146,5 +146,4 @@ Thanks for making it this far, I hope you find something interesting. This websi
 ### Partnerships
 
 - Current (Oxford, LCNR, KM1, WMF)
-- Former (Edinburgh, RSPB, TCHP (Enable), Project Seagrass, Mozambique Wildlife Conservation, ???)
-- Artistic collaborations (Giulia Gentili, Harmanpreet Randhawa, Anka Stankovic, Liz Willoughby, Jonny Circles)
+- Former (University of Edinburgh, RSPB, TCHP (Enable), Project Seagrass, Mozambique Wildlife Conservation, Conservación, Información y Estudio sobre Cetáceos)
