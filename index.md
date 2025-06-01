@@ -6,8 +6,7 @@ Researcher, science communicator, and diver supporting people as nature
 theme: jekyll-theme-minimal
 
 ## Projects
-### <details>
-<summary>Research</summary>
+### <details> <summary> Research </summary> 
 #### Publications
 - Wedding, L.M., Agardy, T., Green, S., <b>Boyle, J.S.</b>, Frazão Santos, C., Malhi, Y., Crowder, L.B., 2025. Bridging Land and Seascape Restoration for Ecoscape Recovery. npj Ocean Sustainability www.nature.com/npjoceansustain/collections.
 - Wu, H., Soleiman, J., Bolam, J., <b>Boyle, J.S.</b>, 2025. Exploring a unified definition of ecological complexity towards restoration. Total Environment Advances 14, 200125. https://doi.org/10.1016/j.teadva.2025.200125
