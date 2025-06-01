@@ -1,9 +1,8 @@
----
-layout: home
-author_profile: true
----
-
-# JoeScottBoyle.github.io
+title: Joe Boyle
+#logo
+subtitle: Joseph Scott Boyle (he/him). Researcher, science communicator, and diver supporting people as nature
+#show_download: true
+theme: jekyll-theme-minimal
 
 ##Projects
 
