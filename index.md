@@ -62,9 +62,9 @@ Researcher, science communicator, and diver supporting people as nature
 <details> 
 <summary> Writing </summary>
 
-- Oxford Scientist article
-- Worcester Magazine article
-- ABC article?
+- City Nature Challenge at Worcester, 2024. *Worcester Magazine* https://www.worc.ox.ac.uk/wp-content/uploads/2024/08/WORCESTER-Magazine-2024.pdf
+- Super-whales, metalmarks, and troubling charisma in conservation, 2023. *The Oxford Scientist* https://oxsci.org/super-whales_metalmarks_and_troubling_charisma_in_conservation/
+- Build a Bug Hotel, 2017. *ABC Magazine* LINK (pdf on desktop)
 - What else?
 
 </details>
@@ -115,6 +115,8 @@ Researcher, science communicator, and diver supporting people as nature
 - (+44) 7786 416 459
 - <a href="mailto:joe.scott.boyle@gmail.com">joe.scott.boyle@gmail.com</a>
 - <a href="https://www.linkedin.com/in/joe-scott-boyle/">LinkedIn</a>
+- <a href="https://www.inaturalist.org/people/4331911">iNaturalist</a>
+
 
 ### Partnerships
 
