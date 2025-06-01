@@ -19,10 +19,10 @@ Thanks for making it this far, I hope you find something interesting. This websi
 <details> 
 <summary> Support </summary>
 
-- Generación SEA (2024-)
-- Gripping a Wet Rock (2024-5)
-- Biosecurity for Life (2021-2)
-- COP26 Nature-based Solutions Garden (2021)
+- Generación SEA (2024- , lead Kilómetro Uno)
+- Gripping a Wet Rock (2024-5, lead Giulia Gentili)
+- Biosecurity for Life (2021-2, lead RSPB Biosecurity for Life)
+- COP26 Nature-based Solutions Garden (2021, lead RSPB Giving Nature a Home Glasgow)
 
 </details> 
 
