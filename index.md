@@ -121,7 +121,7 @@ Thanks for making it this far, I hope you find something interesting. This websi
 - Meadows, Memories, and Missing Layers. Leverhulme Centre for Nature Recovery, Oxford, UK, 8/2/24
 - Mapping Seagrass Space and Place. Orkney Seagrass Gathering, Kirkwall, UK, 19/6/23
 - The Flora of the Changing Arctic. South London Botanical Institute, London, UK, 14/11/20
-- Several talks, webinars, and sympsia organised indeoendtly, for the RSPB, and the University of Oxford.
+- Several talks, webinars, and sympsia organised independently, for the RSPB, and the University of Oxford.
 
 ### Other Media
 <details> 
