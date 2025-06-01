@@ -9,8 +9,9 @@ Thanks for making it this far, I hope you find something interesting. This websi
 <summary> Lead </summary>
   
 - Meadows, Memories, and Missing Layers (2022-)
-- Just Maps (2023-5)
+- Just Maps (2023-)
 - Green Connectors (2020-2?)
+- That festival with RSPB
 - Integrating Community Management of Green Space (2013-7)
 
 </details> 
@@ -18,8 +19,10 @@ Thanks for making it this far, I hope you find something interesting. This websi
 <details> 
 <summary> Support </summary>
 
-- Generación SEA
-- 
+- Generación SEA (2024-)
+- Gripping a Wet Rock (2024-5)
+- Biosecurity for Life (2021-2)
+- COP26 Nature-based Solutions Garden (2021)
 
 </details> 
 
@@ -82,6 +85,8 @@ Thanks for making it this far, I hope you find something interesting. This websi
 
 - Gentili, G., <b>Boyle, J.S.</b>, Zurowski, M., 2025. Gripping a Wet Rock. Exhibition at Mote102 Gallery, Edinburgh, now held within The University of Edinburgh Collection. Text available here: LINK
 - <b>Boyle, J.S.</b>, Randhawa, H., 2024. Who Grieves for Rivers? A Correspondence. *Art Review Oxford*. https://artreviewoxford.com/issues/ARO%208.pdf
+
+</details> 
 
 <details> <summary> Workshops </summary> 
 
