@@ -50,27 +50,27 @@ Thanks for making it this far, I hope you find something interesting. This websi
 
 <a href="https://scholar.google.co.uk/citations?user=578O47kAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.researchgate.net/profile/Joseph-Boyle-6?ev=hdr_xprf">ResearchGate</a>
 
-### <details> <summary> Arts </summary> 
+<details> <summary> Arts </summary> 
 
 - Gentili, G., <b>Boyle, J.S.</b>, Zurowski, M., 2025. Gripping a Wet Rock. Exhibition at Mote102 Gallery, Edinburgh, now held within The University of Edinburgh Collection. Text available here: LINK
 - <b>Boyle, J.S.</b>, Randhawa, H., 2024. Who Grieves for Rivers? A Correspondence. *Art Review Oxford*. https://artreviewoxford.com/issues/ARO%208.pdf
 - <b>Boyle, J.S.</b>, Randhawa, H., Stanković, A.T., 2024. Floating Leaves and Unsettled Seeds. Workshop in Oxford. LINK to poster
 - <b>Boyle, J.S.</b>, Randhawa, H., Stanković, A.T., 2024. Critical Cartographies: Mapping & Resistance. Workshop in Oxford. LINK to poster
-- Artistic collaborations **CHECK SPELLINGS** (Giulia Gentili, Harmanpreet Randhawa, Anka Stanković, Liz Willoughby, Jonny Circles, Xinyue Liu, Valerie Asiimwe Amani)
+- Artistic collaborations (Giulia Gentili, Harmanpreet Randhawa, Anka Stanković, Liz Willoughby, Jonny Circles, Xinyue Liu, Valerie Asiimwe Amani)
 
-### </details>
+</details>
 
 ### Invited Talks
 
 - Mapping the sea: place, power, and participation. CETYS University, Tijuana, Mexico, 10/4/25
-- Just Maps: Critical Cartpgraphy at Sea, The University of Oxford, UK, 12/3/25
-- Practices and principles of re-engaging young people with nature (with Kim Polgreen), Oxford, UK, 12/3/25
+- Just Maps: Critical Cartography at Sea. The University of Oxford, Oxford, UK, 12/3/25
+- Practices and principles of re-engaging young people with nature (with Kim Polgreen). Healthy Ecosystem Restoration in Oxfordshire, Oxford, UK, 12/3/25
 - Meadows, Memories, and Missing Layers. Oxford Deep Blue, Oxford, UK, 26/11/24
-- Critical Cartigraphy. Oxford Action for Palestine Summer School, UK, 28/8/25
+- Critical Cartography. Oxford Action for Palestine Summer School, UK, 28/8/25
 - Mapping & Resistance. Oxford Liberated Zone, UK, 20/5/24
 - Meadows, Memories, and Missing Layers. Leverhulme Centre for Nature Recovery, Oxford, UK, 8/2/24
 - The Flora of the Changing Arctic. South London Botanical Institute, London, UK, 14/11/20
-- Several talks and webinars organised.
+- Several talks, webinars, and sympsia organised indeoendtly, for the RSPB, and the University of Oxford.
 
 ### Other Media
 <details> 
