@@ -1,7 +1,8 @@
-# Joe Boyle
 Joseph Scott Boyle (he/him)
 
-Researcher, science communicator, and diver supporting people as nature
+Transdisciplinary researcher, science communicator, and diver supporting people as nature
+
+Thanks for making it this far, I hope you find something interesting. This website is still under construction, so don't hesitate to let me know if something isn't working.
 
 ## Projects
 ### Research 
@@ -35,15 +36,16 @@ Researcher, science communicator, and diver supporting people as nature
 
 <details> 
 <summary> Conferences </summary>
-- United Nations Ocean Conference 2025, Nice, France. Affiliation: Kilómetro Uno x Walter Munk Foundation for the Oceans
-- Digital Dimensions of Nature Recovery 2024, Oxford, UK. Affiliation: University of Oxford
-- The 2024 World Seagrass Conference (WSC2024) & 15th International Seagrass Biology Workshop (ISBW15), Napoli, Italy (poster). Affiliation: University of Oxford
-- American Association of Geographer's Annual Meeting 2024, Honolulu, HI, USA (talk). Affiliation: University of Oxford
-- ArcticNet 2020, online (poster award). Affiliation: University of Edinburgh
-- London Recorders’ Day 2019, Natural History Museum, London, UK (poster). Affiliation: Tooting Common Heritage Project
-- Complexity theory one in Oxford
-- EDI retreat
-- Organised symposia (intro, tech, diss)
+
+- United Nations Ocean Conference, 2025, Nice, France **(workshop)**. Affiliation: Kilómetro Uno x Walter Munk Foundation for the Oceans
+- Digital Dimensions of Nature Recovery, 2024, Oxford, UK. Affiliation: University of Oxford
+- Equality, Diversity, and Inclusion in Environmental Research, 2024, Solihull, UK. Affiliation: University of Oxford
+- The 2024 World Seagrass Conference (WSC2024) & 15th International Seagrass Biology Workshop (ISBW15), 2024, Napoli, Italy **(poster)**. Affiliation: University of Oxford
+- American Association of Geographer's Annual Meeting 2024, Honolulu, HI, USA **(talk)**. Affiliation: University of Oxford
+- Complexity Theory and Systems Thinking with Government, 2023, Oxford, UK **(talk)**. Affiliation: University of Oxford
+- COP26, 2021, Glasgow, UK **(community organising and activities)**. Affiliation: RSPB
+- ArcticNet, 2020, online **(poster award)**. Affiliation: University of Edinburgh
+- London Recorders’ Day, 2019, Natural History Museum, London, UK **(poster)**. Affiliation: Tooting Common Heritage Project
 
 </details>
 
@@ -54,9 +56,21 @@ Researcher, science communicator, and diver supporting people as nature
 - Gentili, G., <b>Boyle, J.S.</b>, Zurowski, M., 2025. Gripping a Wet Rock. Exhibition at Mote102 Gallery, Edinburgh, now held within The University of Edinburgh Collection. Text available here: LINK
 - <b>Boyle, J.S.</b>, Randhawa, H., 2024. Who Grieves for Rivers? A Correspondence. *Art Review Oxford*. https://artreviewoxford.com/issues/ARO%208.pdf
 - <b>Boyle, J.S.</b>, Randhawa, H., Stanković, A.T., 2024. Floating Leaves and Unsettled Seeds. Workshop in Oxford. LINK to poster
-- Links
+- - <b>Boyle, J.S.</b>, Randhawa, H., Stanković, A.T., 2024. Critical Cartographies: Mapping & Resistance. Workshop in Oxford. LINK to poster
+- Artistic collaborations **CHECK SPELLINGS** (Giulia Gentili, Harmanpreet Randhawa, Anka Stankovic, Liz Willoughby, Jonny Circles, Xinyue Liu, Valerie Asiimwe Amani)
 
 ### </details>
+
+### Invited Talks
+
+- Mapping the sea: place, power, and participation. CETYS University, Tijuana, Mexico, 10/4/25
+- Practices and principles of re-engaging young people with nature (with Kim Polgreen), Oxford, UK, 12/3/25
+- Meadows, Memories, and Missing Layers. Oxford Deep Blue, Oxford, UK, 26/11/24
+- Critical Cartigraphy. Oxford Action for Palestine Summer School, UK, 28/8/25
+- Mapping & Resistance. Oxford Liberated Zone, UK, 20/5/24
+- Meadows, Memories, and Missing Layers. Leverhulme Centre for Nature Recovery, Oxford, UK, 8/2/24
+- The Flora of the Changing Arctic. South London Botanical Institute, London, UK, 14/11/20
+- Several talks and webinars organised.
 
 ### Other Media
 <details> 
@@ -94,25 +108,36 @@ Researcher, science communicator, and diver supporting people as nature
 
 </details>
 
-### Education
+### Education & Engagement
 
-- Description
+- Kilómetro Uno (2024-)
 - RGS project (2024)
-- Oxford (2023-5)
+- University of Oxford (2023-5)
 - RSPB (2019-22)
 - Tooting Common Heritage Project (2019)
+- Mozambique Wildlife Conservation (2018)
+- Skills for Change (2013-7)
 - Summary of prior experience
-- Links
+
+### Fieldwork & Outdoor Leadership
+
+- Orkney/Cairngorms/Renfrewshire, Scotland (2017-)
+- Tijuana, Mexico (2024, 2025)
+- Thailand (2025)
+- Poros, Greece (2024)
+- Oxford, UK (2022-5)
+- Tete Province, Mozambique (2018)
+- Hurghada, Egypt (2018)
+- Yukon, Canada (2015)
+- Straits of Gibraltar, Spain (2013, 2014)
 
 ### CV
 
-- Description
-- Links
 - Upload file to GitHub
 
 ### Contact
 
-- (+44) 7786 416 459
+- <a href="tel:+447786416459">(+44) 7786 416 459</a>
 - <a href="mailto:joe.scott.boyle@gmail.com">joe.scott.boyle@gmail.com</a>
 - <a href="https://www.linkedin.com/in/joe-scott-boyle/">LinkedIn</a>
 - <a href="https://www.inaturalist.org/people/4331911">iNaturalist</a>
@@ -121,5 +146,5 @@ Researcher, science communicator, and diver supporting people as nature
 ### Partnerships
 
 - Current (Oxford, LCNR, KM1, WMF)
-- Former (Edinburgh, RSPB, TCHP (Enable), Project Seagrass, ???)
-- Interpersonal collaborations (Giu, Harman, Anka)
+- Former (Edinburgh, RSPB, TCHP (Enable), Project Seagrass, Mozambique Wildlife Conservation, ???)
+- Artistic collaborations (Giulia Gentili, Harmanpreet Randhawa, Anka Stankovic, Liz Willoughby, Jonny Circles)
