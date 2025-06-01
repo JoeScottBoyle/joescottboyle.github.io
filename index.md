@@ -1,7 +1,6 @@
-title: Joe Boyle
-#logo
-subtitle: Joseph Scott Boyle (he/him). Researcher, science communicator, and diver supporting people as nature
-#show_download: true
+#Joe Boyle
+#Joseph Scott Boyle (he/him). Researcher, science communicator, and diver supporting people as nature
+
 theme: jekyll-theme-minimal
 
 ##Projects
