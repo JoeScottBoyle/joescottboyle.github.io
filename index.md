@@ -1,8 +1,7 @@
-Joseph Scott Boyle (he/him)
+_Joseph Scott Boyle (he/him)
+Researcher, science communicator, and diver supporting people as nature_
 
-Researcher, science communicator, and diver supporting people as nature
-
-Thanks for making it this far, I hope you find something interesting. This website is still under construction, so don't hesitate to let me know if something isn't working.
+Thanks for making it this far, I hope you find something interesting. This website is still under construction, so don't hesitate to let me know if something isn't working, I'd welcome any feedback.
 
 ### Featured Work
 Just a holding space for recent things I'm excited about:
