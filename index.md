@@ -4,12 +4,18 @@ Researcher, science communicator, and diver supporting people as nature
 
 Thanks for making it this far, I hope you find something interesting. This website is still under construction, so don't hesitate to let me know if something isn't working.
 
+### Featured Work
+Just a holding space for recent things I'm excited about:
+##### Wedding, L.M., Agardy, T., Green, S., <b>Boyle, J.S.</b>, Frazão Santos, C., Malhi, Y., Crowder, L.B., 2025. Bridging Land and Seascape Restoration for Ecoscape Recovery. *npj Ocean Sustainability* www.nature.com/npjoceansustain/collections.
+
+
 ### Projects
 <details> 
 <summary> Lead </summary>
   
 - Meadows, Memories, and Missing Layers (2022-)
 - Just Maps (2023-)
+- Principles (2024-)
 - Green Connectors (2020-2?)
 - That festival with RSPB
 - Integrating Community Management of Green Space (2013-7)
