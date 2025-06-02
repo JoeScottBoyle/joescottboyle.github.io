@@ -1,4 +1,4 @@
-_Joseph Scott Boyle (he/him)
+_Joseph Scott Boyle (he/him).
 Researcher, science communicator, and diver supporting people as nature_
 
 Thanks for making it this far, I hope you find something interesting. This website is still under construction, so don't hesitate to let me know if something isn't working, I'd welcome any feedback.
@@ -21,6 +21,7 @@ Just a holding space for recent things I'm excited about:
 
 </details> 
 
+
 <details> 
 <summary> Support </summary>
 
@@ -30,6 +31,7 @@ Just a holding space for recent things I'm excited about:
 - COP26 Nature-based Solutions Garden at Glasgow Botanic Gardens (2021, lead RSPB Giving Nature a Home Glasgow)
 
 </details> 
+
 
 ### Research 
 <details> 
@@ -48,9 +50,9 @@ Just a holding space for recent things I'm excited about:
 - Myers-Smith, I.H., Grabowski, M.M., Thomas, H.J.D., Angers‐Blondin, S., Daskalova, G.N., Bjorkman, A.D., Cunliffe, A.M., Assmann, J.J., <b>Boyle, J.S.</b>, McLeod, E., McLeod, S., Joe, R., Lennie, P., Arey, D., Gordon, R.R., Eckert, C.D., 2019. Eighteen years of ecological monitoring reveals multiple lines of evidence for tundra vegetation change. *Ecological Monographs 89*, e01351. https://doi.org/10.1002/ecm.1351
 </details>
 
+
 <details> 
 <summary> Posters </summary>
-
 
 - <b>Boyle, J.S.</b>, Lilley, R.J., Thomsen, E., Wedding, L.W., 2024. Meadows, Memories & Missing Layers: Transdisciplinary seagrass mapping towards restorative marine spatial planning (WSC2024), https://doi.org/10.13140/RG.2.2.25890.44482
 - <b>Boyle, J.S.</b>, Angers-Blondin, S., Assmann, J.J., Myers-Smith, I.H., 2020. Summer and autumn temperatures – but not growing season length – influence growth of a dwarf willow in coastal Arctic tundra (ArcticNet 2020 poster award), https://doi.org/10.13140/RG.2.2.31734.01601/1 
@@ -58,6 +60,7 @@ Just a holding space for recent things I'm excited about:
 - OTHERS from ResearchGate, including for where they were produced
 
 </details>
+
 
 <details> 
 <summary> Conferences </summary>
@@ -85,6 +88,7 @@ Just a holding space for recent things I'm excited about:
 
 <a href="https://scholar.google.co.uk/citations?user=578O47kAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.researchgate.net/profile/Joseph-Boyle-6?ev=hdr_xprf">ResearchGate</a>
 
+
 ### Arts
 <details> <summary> Writing </summary> 
 
@@ -101,6 +105,7 @@ Just a holding space for recent things I'm excited about:
 
 </details>
 
+
 <details> <summary> Artistic collaborations </summary> 
 
 - Giulia Gentili
@@ -113,6 +118,7 @@ Just a holding space for recent things I'm excited about:
 - Valerie Asiimwe Amani
 
 </details>
+
 
 ### Invited Talks
 
@@ -139,6 +145,7 @@ Just a holding space for recent things I'm excited about:
 
 </details>
 
+
 <details> 
 <summary> Podcasts </summary>
 
@@ -146,6 +153,7 @@ Just a holding space for recent things I'm excited about:
 - Conservation and Technology *GeogPod, Oxford University Geography Society* https://open.spotify.com/episode/6yf2tXQgLRxFxsb4ZPPfVa?si=6bb153c0e15445ea
 
 </details>
+
 
 <details> 
 <summary> Other </summary>
