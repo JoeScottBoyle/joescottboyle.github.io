@@ -28,7 +28,7 @@ Just a holding space for recent things I'm excited about:
 - Generación SEA (2024- , lead Kilómetro Uno)
 - Gripping a Wet Rock (2024-5, lead Giulia Gentili)
 - Biosecurity for Life (2021-2, lead RSPB Biosecurity for Life)
-- COP26 Nature-based Solutions Garden (2021, lead RSPB Giving Nature a Home Glasgow)
+- COP26 Nature-based Solutions Garden at Glasgow Botanic Gardens (2021, lead RSPB Giving Nature a Home Glasgow)
 
 </details> 
 
