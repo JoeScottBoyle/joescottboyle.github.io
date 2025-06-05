@@ -3,6 +3,37 @@ Researcher, science communicator, and diver supporting people as nature_
 
 Thanks for making it this far, I hope you find something interesting. This website is still under construction, so don't hesitate to let me know if something isn't working, I'd welcome any feedback.
 
+  <meta charset="UTF-8">
+  <title>Nested Collapsible List</title>
+  <style>
+    ul {
+      list-style-type: disc;
+      padding-left: 20px;
+    }
+
+    .collapsible {
+      cursor: pointer;
+      user-select: none;
+      display: inline-block;
+    }
+
+    .nested {
+      display: none;
+    }
+
+    .active + .nested {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+
+<ul>
+  <li>
+    <span class="collapsible">▶ Fruits</span>
+    <ul class="nested">
+      <li>Apples
+
 ### Featured Work
 Just a holding space for recent things I'm excited about:
 ##### Wedding, L.M., Agardy, T., Green, S., <b>Boyle, J.S.</b>, Frazão Santos, C., Malhi, Y., Crowder, L.B., 2025. Bridging Land and Seascape Restoration for Ecoscape Recovery. *npj Ocean Sustainability* www.nature.com/npjoceansustain/collections.
@@ -12,12 +43,12 @@ Just a holding space for recent things I'm excited about:
 <details> 
 <summary> Lead </summary>
   
-- Meadows, Memories, and Missing Layers (2022-)
+- Meadows, Memories, and Missing Layers (2022-) https://linktr.ee/seagrassSES
 - Just Maps (2023-)
 - Principles (2024-)
 - Green Connectors (2020-2?)
 - That festival with RSPB
-- Integrating Community Management of Green Space (2013-7)
+- Integrating Community Management of Green Space (2013-7) (interp photo and report)
 
 </details> 
 
@@ -25,10 +56,20 @@ Just a holding space for recent things I'm excited about:
 <details> 
 <summary> Support </summary>
 
-- Generación SEA (2024- , lead Kilómetro Uno)
-- Gripping a Wet Rock (2024-5, lead Giulia Gentili)
-- Biosecurity for Life (2021-2, lead RSPB Biosecurity for Life)
-- COP26 Nature-based Solutions Garden at Glasgow Botanic Gardens (2021, lead RSPB Giving Nature a Home Glasgow)
+- Generación SEA (2024- , led by Kilómetro Uno)
+- Gripping a Wet Rock (2024-5, led by Giulia Gentili)
+- Biosecurity for Life (2021-2, led by RSPB Biosecurity for Life)
+- COP26 Nature-based Solutions Garden at Glasgow Botanic Gardens (2021, led by RSPB Giving Nature a Home Glasgow)
+
+</details> 
+
+
+<details> 
+<summary> Community </summary>
+
+- Edinburgh Student Housing Co-operative (2013-7)
+- Friends of the Meadows and Bruntsfield Links (2014-7)
+- Skills for Change (2013-5)
 
 </details> 
 
@@ -125,10 +166,10 @@ Just a holding space for recent things I'm excited about:
 - Mapping the Sea: Place, Power, and Participation (with participatory mapping workshop). CETYS University, Tijuana, Mexico, 10/4/25
 - Just Maps: Critical Cartography at Sea. The University of Oxford, Oxford, UK, 12/3/25
 - Practices and principles of re-engaging young people with nature (with Kim Polgreen). Healthy Ecosystem Restoration in Oxfordshire, Oxford, UK, 12/3/25
-- Mapping Seagrass Space and Place. Project Seagrass, online 14/1/25
+- Mapping Seagrass Space and Place. Project Seagrass, online, 14/1/25
 - Meadows, Memories, and Missing Layers. Oxford Deep Blue, Oxford, UK, 26/11/24
-- Critical Cartography. Oxford Action for Palestine Summer School, UK, 28/8/24
-- Mapping & Resistance. Oxford Liberated Zone, UK, 20/5/24
+- Critical Cartography. Oxford Action for Palestine Summer School, online, 28/8/24
+- Mapping & Resistance. Liberated Zone, Oxford, UK, 20/5/24
 - Meadows, Memories, and Missing Layers. Leverhulme Centre for Nature Recovery, Oxford, UK, 8/2/24
 - Mapping Seagrass Space and Place. Orkney Seagrass Gathering, Kirkwall, UK, 19/6/23
 - The Flora of the Changing Arctic. South London Botanical Institute, London, UK, 14/11/20
@@ -160,6 +201,8 @@ Just a holding space for recent things I'm excited about:
 
 - Interpretation panels and things?
 - Seagrass intepretation panel for Sanday Heritage Centre, funded by the North Isles Landscape Partnership Scheme, https://rgdoi.net/10.13140/RG.2.2.28965.82402
+- Animation
+- Original usic
 - List
 
 </details>
@@ -187,6 +230,13 @@ Just a holding space for recent things I'm excited about:
 - Hurghada, Egypt (2018)
 - Yukon, Canada (2015)
 - Straits of Gibraltar, Spain (2013, 2014)
+
+### Awards & Grants
+<details> 
+<summary> Lead </summary>
+</details>
+
+- See LinkedIn
 
 ### CV
 
