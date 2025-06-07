@@ -3,51 +3,28 @@ Researcher, science communicator, and diver supporting people as nature_
 
 Thanks for making it this far, I hope you find something interesting. This website is still under construction, so don't hesitate to let me know if something isn't working, I'd welcome any feedback.
 
-  <meta charset="UTF-8">
-  <title>Nested Collapsible List</title>
-  <style>
-    ul {
-      list-style-type: disc;
-      padding-left: 20px;
-    }
-
-    .collapsible {
-      cursor: pointer;
-      user-select: none;
-      display: inline-block;
-    }
-
-    .nested {
-      display: none;
-    }
-
-    .active + .nested {
-      display: block;
-    }
-  </style>
-</head>
-<body>
-
-<ul>
-  <li>
-    <span class="collapsible">▶ Fruits</span>
-    <ul class="nested">
-      <li>Apples
 
 ### Featured Work
 Just a holding space for recent things I'm excited about:
-##### Wedding, L.M., Agardy, T., Green, S., <b>Boyle, J.S.</b>, Frazão Santos, C., Malhi, Y., Crowder, L.B., 2025. Bridging Land and Seascape Restoration for Ecoscape Recovery. *npj Ocean Sustainability* www.nature.com/npjoceansustain/collections.
+##### Project: Meadows, Memories, and Missing Layers
+##### Paper: [Bridging Land and Seascape Restoration for Ecoscape Recovery](https://rdcu.be/epSO1). *npj Ocean Sustainability*
+##### Talk: Mapping the Sea: Place, Power, and Participation at CETYS University PHOTOS
+
+<!-- Elfsight LinkedIn Feed | Untitled LinkedIn Feed -->
+<script src="https://static.elfsight.com/platform/platform.js" async></script>
+<div class="elfsight-app-9e664c79-7991-4350-993a-065e447cf21a" data-elfsight-app-lazy></div>
 
 
 ### Projects
 <details> 
 <summary> Lead </summary>
   
-- Meadows, Memories, and Missing Layers (2022-) https://linktr.ee/seagrassSES
-- Just Maps (2023-)
-- Principles (2024-)
-- Green Connectors (2020-2?)
-- That festival with RSPB
+- Meadows, Memories, and Missing Layers (2022- ) https://linktr.ee/seagrassSES
+- Just Maps (2023- )
+- Principles for Engaging UK Schools with Nature, co-produced with over 40 practitioners (2024-)
+- Sanday's Seagrass and SDGs: co-design from beach to classroom (2024-5)
+- Green Connectors (2020-2?), including Pedal-Powered Planting Party
+- Brock Burn Festival (2021-2)
 - Integrating Community Management of Green Space (2013-7) (interp photo and report)
 
 </details> 
@@ -56,10 +33,12 @@ Just a holding space for recent things I'm excited about:
 <details> 
 <summary> Support </summary>
 
-- Generación SEA (2024- , led by Kilómetro Uno)
-- Gripping a Wet Rock (2024-5, led by Giulia Gentili)
-- Biosecurity for Life (2021-2, led by RSPB Biosecurity for Life)
-- COP26 Nature-based Solutions Garden at Glasgow Botanic Gardens (2021, led by RSPB Giving Nature a Home Glasgow)
+- Authentic Brew Foundation, rewilding people and places (2024- , I lead conservation and biodiversity, project led by Authentic Brew)
+- Generación SEA (2024- , I lead the paper write-up, project led by Kilómetro Uno)
+- Gripping a Wet Rock (2024-5, I co-wrote the exhibition text and co-led the workshop, project led by Giulia Gentili)
+- Biosecurity for Life (2021-2, I led the co-designed education package and paper write-up, project led by RSPB Biosecurity for Life)
+- COP26 Nature-based Solutions Garden at Glasgow Botanic Gardens (2021, I led operations and volunteer management - project led by RSPB Giving Nature a Home Glasgow)
+- Tooting Common Heritage Project (2019, I led outdor activities and managed community hub - project led by Enable Leisure & Culture)
 
 </details> 
 
@@ -98,7 +77,6 @@ Just a holding space for recent things I'm excited about:
 - <b>Boyle, J.S.</b>, Lilley, R.J., Thomsen, E., Wedding, L.W., 2024. Meadows, Memories & Missing Layers: Transdisciplinary seagrass mapping towards restorative marine spatial planning (WSC2024), https://doi.org/10.13140/RG.2.2.25890.44482
 - <b>Boyle, J.S.</b>, Angers-Blondin, S., Assmann, J.J., Myers-Smith, I.H., 2020. Summer and autumn temperatures – but not growing season length – influence growth of a dwarf willow in coastal Arctic tundra (ArcticNet 2020 poster award), https://doi.org/10.13140/RG.2.2.31734.01601/1 
 - <b>Boyle, J.S.</b>, 2019. Biological Monitoring on Tooting Common (London Recorders’ Day 2019), https://doi.org/10.13140/RG.2.2.15114.08646
-- OTHERS from ResearchGate, including for where they were produced
 
 </details>
 
@@ -182,6 +160,7 @@ Just a holding space for recent things I'm excited about:
 - City Nature Challenge at Worcester, 2024. *Worcester Magazine* https://www.worc.ox.ac.uk/wp-content/uploads/2024/08/WORCESTER-Magazine-2024.pdf
 - Super-whales, metalmarks, and troubling charisma in conservation, 2023. *The Oxford Scientist* https://oxsci.org/super-whales_metalmarks_and_troubling_charisma_in_conservation/
 - Build a Bug Hotel, 2017. *ABC Magazine* LINK (pdf on desktop)
+- Senior Science Writer at _The Student_, 2015-2017
 - What else?
 
 </details>
@@ -237,6 +216,8 @@ Just a holding space for recent things I'm excited about:
 </details>
 
 - See LinkedIn
+
+### Map
 
 ### CV
 
