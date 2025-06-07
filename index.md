@@ -8,7 +8,7 @@ Thanks for making it this far, I hope you find something interesting. This websi
 Just a holding space for recent things I'm excited about:
 ##### Project: [Meadows, Memories, and Missing Layers](https://linktr.ee/seagrassSES)
 ##### Paper: [Bridging Land and Seascape Restoration for Ecoscape Recovery](https://rdcu.be/epSO1). *npj Ocean Sustainability*
-##### Talk: Mapping the Sea: Place, Power, and Participation at CETYS University
+##### Talk: [Mapping the Sea: Place, Power, and Participation](https://www.linkedin.com/posts/joe-scott-boyle_seascapes-restoration-education-activity-7317603816294473729-jrbu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtlBu0B9jiQdLU8wedipHkzT2SqlafIHEk) at CETYS University
 
 <!-- Elfsight LinkedIn Feed | Untitled LinkedIn Feed -->
 <script src="https://static.elfsight.com/platform/platform.js" async></script>
