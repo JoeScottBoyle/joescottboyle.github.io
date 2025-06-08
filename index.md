@@ -21,7 +21,8 @@ Just a holding space for recent things I'm excited about:
   
 - [Meadows, Memories, and Missing Layers](https://linktr.ee/seagrassSES) (2022- )
 - Just Maps (2023- )
-- Principles for Engaging UK Schools with Nature, co-produced with over 40 practitioners (2024-)
+- Co-Producing Principles for Engaging UK Schools with Nature (2024- )
+- Citizen Science with City Nature Challenge and iNaturalist (2021- ), as organiser for Edinburgh and Glasgow, and as a community engagement and biodiversity survey activity with Worcester College, Oxford and Kilómetro Uno
 - [Sanday's Seagrass and SDGs: co-design from beach to classroom](https://www.rgs.org/in-the-field/grants/teacher-grants/innovative-geography-teaching-grants#:~:text=2024%3A%20Joseph%20Boyle%20(University%20of%20Oxford)%2C%20Kate%20Hooper%20and%20Joanna%20Jones%20(Sanday%20Community%20School).%C2%A0%27Sanday%27s%20Seagrass%20and%20SDGs%3A%20co%2Ddesign%20from%20beach%20to%20classroom%27) (2024-5) Royal Geographic Society Innovative Geography Teaching Grant
 - [Green Connectors](https://community.rspb.org.uk/ourwork/b/scotland/posts/green-connectors-community-planting-day-in-glasgow) (2020-2?), including Pedal-Powered Planting Party
 - <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FgoConnectatglenoaks%2Fposts%2Fpfbid0o73F98V9F1TEQmdT44KEZ6ifsD9WxmM4j3dvcLATqxBcwmKNWpJp2mGBE6JXj1QJl&show_text=true&width=500" width="500" height="635" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> (2021-2)
@@ -34,11 +35,11 @@ Just a holding space for recent things I'm excited about:
 <summary> Support </summary>
 
 - Authentic Brew Foundation, rewilding people and places (2024- , I lead conservation and biodiversity, project led by Authentic Brew)
-- Generación SEA (2024- , I lead the paper write-up, project led by Kilómetro Uno)
+- Generación SEA (2024- , I lead the research write-up, project led by Kilómetro Uno)
 - Gripping a Wet Rock (2024-5, I co-wrote the exhibition text and co-led the workshop, project led by Giulia Gentili)
 - Biosecurity for Life (2021-2, I led the co-designed education package and paper write-up, project led by RSPB Biosecurity for Life)
-- COP26 Nature-based Solutions Garden at Glasgow Botanic Gardens (2021, I led operations and volunteer management - project led by RSPB Giving Nature a Home Glasgow)
-- Tooting Common Heritage Project (2019, I led outdor activities and managed community hub - project led by Enable Leisure & Culture)
+- COP26 Nature-based Solutions Garden at Glasgow Botanic Gardens (2021, I led operations and volunteer management, project led by RSPB Giving Nature a Home Glasgow)
+- Tooting Common Heritage Project (2019, I led outdor activities and managed community hub, project led by Enable Leisure & Culture)
 
 </details> 
 
@@ -46,8 +47,8 @@ Just a holding space for recent things I'm excited about:
 <details> 
 <summary> Community </summary>
 
-- Edinburgh Student Housing Co-operative (2013-7)
-- Friends of the Meadows and Bruntsfield Links (2014-7)
+- [Edinburgh Student Housing Co-operative](https://www.eshc.coop/) (2013-7)
+- [Friends of the Meadows and Bruntsfield Links](https://www.fombl.org.uk/) (2014-7)
 - Skills for Change (2013-5)
 
 </details> 
@@ -57,7 +58,7 @@ Just a holding space for recent things I'm excited about:
 <details> 
 <summary> Publications </summary>
   
-- Wedding, L.M., Agardy, T., Green, S., <b>Boyle, J.S.</b>, Frazão Santos, C., Malhi, Y., Crowder, L.B., 2025. Bridging Land and Seascape Restoration for Ecoscape Recovery. *npj Ocean Sustainability* www.nature.com/npjoceansustain/collections.
+- Wedding, L.M., Agardy, T., Green, S., <b>Boyle, J.S.</b>, Frazão Santos, C., Malhi, Y., Crowder, L.B., 2025. Bridging Land and Seascape Restoration for Ecoscape Recovery. *npj Ocean Sustainability 4*, 31, s44183-025-00133–6. https://doi.org/10.1038/s44183-025-00133-6
 - Wu, H., Soleiman, J., Bolam, J., <b>Boyle, J.S.</b>, 2025. Exploring a unified definition of ecological complexity towards restoration. *Total Environment Advances 14*, 200125. https://doi.org/10.1016/j.teadva.2025.200125
 - Wilhelm, K., Lomax, T., McCarthy, L., <b>Boyle, J.S.</b>, Menon, S., Hart, A., Coombes, M., Cox, T., Hall, J., Freebody, J., 2025. The role of hybrid green spaces in secure psychiatric care. Department of Psychiatry, University of Oxford.
 - Wright-Arora, G., James, M., Troiano, M., Sidwell, N., <b>Boyle, J.S.</b>, Barbrook-Johnson, P., Hirons, M., 2024. The role of publics and deliberation at the environmental science-policy interface. Agile Initiative, Oxford Martin School. https://dx.doi.org/10.5287/ora-4rgdzpjnd
@@ -105,22 +106,52 @@ Just a holding space for recent things I'm excited about:
 
 </details>
 
+
+<details> <summary> Research collaborations </summary> 
+
+- [Kilómetro Uno](https://www.kilometrouno.org/)
+- [Oxford Seascape Ecology Lab](https://www.oxfordseascapeecologylab.com/)
+- [Healthy Ecosystem Restoration in Oxfordshire](https://www.biodiversity.ox.ac.uk/project/hero/)
+- [Ecological Collective Flourishing](https://oxfordhealthbrc.nihr.ac.uk/research/flourishing-wellbeing/)
+- [The Large-scale Seagrass Mapping and Management Initiative](https://www.lasmmi.org)
+- [The Agile Initiative](https://www.agile-initiative.ox.ac.uk/)
+- [Project Seagrass](https://www.projectseagrass.org/)
+- Project Sjøgras
+- [The North Isles Landscape Partnership Scheme](https://www.nilps.co.uk)
+- [Leverhulme Centre for Nature Recovery](https://naturerecovery.ox.ac.uk/)
+- [RSPB](https://www.rspb.org.uk/?__cf_chl_rt_tk=IzKvWIpKs6dydwAcI.4aibyymaEWb0Snttjdj0zKx5k-1749394150-1.0.1.1-oeyWMTnfMJGzfPEpF0Y52SgVF36.joR3QwNX4k12VGc)
+- [Biosecurity for Life](https://biosecurityforlife.org.uk/)
+- [Team Shrub](https://teamshrub.com/)
+- [Conservación, Información y Estudio sobre Cetáceos](https://circe.info)
+
+</details>
+
+
 <a href="https://scholar.google.co.uk/citations?user=578O47kAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.researchgate.net/profile/Joseph-Boyle-6?ev=hdr_xprf">ResearchGate</a>
 
 
 ### Arts
+<details> <summary> Exhibitions </summary> 
+
+- Gentili, G., <b>Boyle, J.S.</b>, Zurowski, M., 2025. Gripping a Wet Rock. Exhibition at Mote102 Gallery, Edinburgh, now held within The University of Edinburgh Collection.
+- <b>Boyle, J.S.</b>, 2023. [Mapping seagrass and the human seascape in Orkney](https://www.socsci.ox.ac.uk/seascapes). Exhibition at Oxford Festival of Social Sciences.
+- Team Shrub, 2017. [Arctic from Above](https://teamshrub.com/2017/04/10/team-shrub-at-the-edinburgh-science-festival/). Exhibition at Edinburgh Science Festival.
+
+</details> 
+
 <details> <summary> Writing </summary> 
 
-- Gentili, G., <b>Boyle, J.S.</b>, Zurowski, M., 2025. Gripping a Wet Rock. Exhibition at Mote102 Gallery, Edinburgh, now held within The University of Edinburgh Collection. Text available here: LINK
-- <b>Boyle, J.S.</b>, Randhawa, H., 2024. Who Grieves for Rivers? A Correspondence. *Art Review Oxford*. https://artreviewoxford.com/issues/ARO%208.pdf
+- Gentili, G., <b>Boyle, J.S.</b>, 2025. Gripping a Wet Rock. Exhibition at Mote102 Gallery, Edinburgh, now held within The University of Edinburgh Collection. Text available on request
+- <b>Boyle, J.S.</b>, Randhawa, H., 2024. [Who Grieves for Rivers? A Correspondence.](https://artreviewoxford.com/issues/ARO%208.pdf) *Art Review Oxford*.
 
 </details> 
 
 <details> <summary> Workshops </summary> 
 
-- Gentili, G., <b>Boyle, J.S.</b>, 2025. Gripping a Wet Rock. Emotion mapping workshop at Mote102 Gallery, Edinburgh, supporting the exhibition.  
-- <b>Boyle, J.S.</b>, Randhawa, H., Stanković, A.T., 2024. Floating Leaves and Unsettled Seeds. Workshop in Oxford. LINK to poster
-- <b>Boyle, J.S.</b>, Randhawa, H., Stanković, A.T., 2024. Critical Cartographies: Mapping & Resistance. Workshop in Oxford. LINK to poster
+- Gentili, G., <b>Boyle, J.S.</b>, 2025. Gripping a Wet Rock. Emotion mapping workshop at Mote102 Gallery, Edinburgh, supporting the exhibition.
+- <b>Boyle, J.S.</b>, Randhawa, H., Stanković, A.T., 2024. Floating Leaves and Unsettled Seeds. Workshop in Oxford.
+- <b>Boyle, J.S.</b>, Randhawa, H., Stanković, A.T., 2024. Critical Cartographies: Mapping & Resistance. Workshop in Oxford.
+
 
 </details>
 
@@ -135,6 +166,8 @@ Just a holding space for recent things I'm excited about:
 - Ross Taylor
 - Xinyue Liu
 - Valerie Asiimwe Amani
+- Bill McArthur
+- Archie Crofton
 
 </details>
 
@@ -147,7 +180,7 @@ Just a holding space for recent things I'm excited about:
 - Mapping Seagrass Space and Place. Project Seagrass, online, 14/1/25
 - Meadows, Memories, and Missing Layers. Oxford Deep Blue, Oxford, UK, 26/11/24
 - Critical Cartography. Oxford Action for Palestine Summer School, online, 28/8/24
-- Mapping & Resistance. Liberated Zone, Oxford, UK, 20/5/24
+- [Mapping & Resistance](https://www.linkedin.com/posts/joe-scott-boyle_we-gave-a-teach-in-at-oxfords-liberated-activity-7198728560683929601-wijW?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtlBu0B9jiQdLU8wedipHkzT2SqlafIHEk). Liberated Zone, Oxford, UK, 20/5/24
 - Meadows, Memories, and Missing Layers. Leverhulme Centre for Nature Recovery, Oxford, UK, 8/2/24
 - Mapping Seagrass Space and Place. Orkney Seagrass Gathering, Kirkwall, UK, 19/6/23
 - The Flora of the Changing Arctic. South London Botanical Institute, London, UK, 14/11/20
@@ -157,11 +190,10 @@ Just a holding space for recent things I'm excited about:
 <details> 
 <summary> Writing </summary>
 
-- City Nature Challenge at Worcester, 2024. *Worcester Magazine* https://www.worc.ox.ac.uk/wp-content/uploads/2024/08/WORCESTER-Magazine-2024.pdf
-- Super-whales, metalmarks, and troubling charisma in conservation, 2023. *The Oxford Scientist* https://oxsci.org/super-whales_metalmarks_and_troubling_charisma_in_conservation/
+- [City Nature Challenge at Worcester](https://www.worc.ox.ac.uk/wp-content/uploads/2024/08/WORCESTER-Magazine-2024.pdf), 2024. *Worcester Magazine* 
+- [Super-whales, metalmarks, and troubling charisma in conservation](https://oxsci.org/super-whales_metalmarks_and_troubling_charisma_in_conservation/), 2023. *The Oxford Scientist* 
 - Build a Bug Hotel, 2017. *ABC Magazine* LINK (pdf on desktop)
-- Senior Science Writer at _The Student_, 2015-2017
-- What else?
+- Senior Science Writer at _The Student_, 2015-2017.
 
 </details>
 
@@ -169,8 +201,8 @@ Just a holding space for recent things I'm excited about:
 <details> 
 <summary> Podcasts </summary>
 
-- Sustainability and Biodiversity *ProvCast, Worcester College* https://podcasts.ox.ac.uk/index.php/joseph-boyle
-- Conservation and Technology *GeogPod, Oxford University Geography Society* https://open.spotify.com/episode/6yf2tXQgLRxFxsb4ZPPfVa?si=6bb153c0e15445ea
+- [Sustainability and Biodiversity](https://podcasts.ox.ac.uk/index.php/joseph-boyle) *ProvCast, Worcester College* 
+- [Conservation and Technology](https://open.spotify.com/episode/6yf2tXQgLRxFxsb4ZPPfVa?si=6bb153c0e15445ea) *GeogPod, Oxford University Geography Society* 
 
 </details>
 
@@ -178,50 +210,35 @@ Just a holding space for recent things I'm excited about:
 <details> 
 <summary> Other </summary>
 
-- Interpretation panels and things?
-- Seagrass intepretation panel for Sanday Heritage Centre, funded by the North Isles Landscape Partnership Scheme, https://rgdoi.net/10.13140/RG.2.2.28965.82402
-- Animation
-- Original usic
-- List
+- [Seagrass intepretation panel](https://rgdoi.net/10.13140/RG.2.2.28965.82402) for Sanday Heritage Centre, funded by the North Isles Landscape Partnership Scheme
+- [Seagrass animation](https://tr.ee/Y2QCWOpoud)
+- Original music, featured in the animation
 
 </details>
 
 
 ### Education & Engagement
 
-- Kilómetro Uno (2024-)
-- RGS project (2024)
+- [Kilómetro Uno](https://www.kilometrouno.org/) (2024-)
+- [Sanday's Seagrass and SDGs: co-design from beach to classroom](https://www.rgs.org/in-the-field/grants/teacher-grants/innovative-geography-teaching-grants#:~:text=2024%3A%20Joseph%20Boyle%20(University%20of%20Oxford)%2C%20Kate%20Hooper%20and%20Joanna%20Jones%20(Sanday%20Community%20School).%C2%A0%27Sanday%27s%20Seagrass%20and%20SDGs%3A%20co%2Ddesign%20from%20beach%20to%20classroom%27) (2024-5) Royal Geographic Society Innovative Geography Teaching Grant
 - University of Oxford (2023-5)
 - RSPB (2019-22)
-- Tooting Common Heritage Project (2019)
+- [Tooting Common Heritage Project](https://www.wandsworth.gov.uk/leisure-and-culture/local-history-and-heritage/tooting-common-heritage-project/) (2019)
 - Mozambique Wildlife Conservation (2018)
 - Skills for Change (2013-7)
-- Summary of prior experience
 
 ### Fieldwork & Outdoor Leadership
 
-- Orkney/Cairngorms/Renfrewshire, Scotland (2017-)
+- Orkney/Cairngorms/Renfrewshire/Clyde, Scotland (2017-)
 - Tijuana, Mexico (2024, 2025)
 - Thailand (2025)
-- Poros, Greece (2024)
+- [Poros](https://www.linkedin.com/posts/emily-jones-631458239_posidonia-anthropocene-seascapes-ugcPost-7256284531454885888-_OW7?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtlBu0B9jiQdLU8wedipHkzT2SqlafIHEk), Greece (2024)
 - Oxford, UK (2022-5)
 - Tete Province, Mozambique (2018)
 - Hurghada, Egypt (2018)
 - Yukon, Canada (2015)
 - Straits of Gibraltar, Spain (2013, 2014)
 
-### Awards & Grants
-<details> 
-<summary> Lead </summary>
-</details>
-
-- See LinkedIn
-
-### Map
-
-### CV
-
-- Upload file to GitHub
 
 ### Contact
 
@@ -231,8 +248,3 @@ Just a holding space for recent things I'm excited about:
 - <a href="https://www.inaturalist.org/people/4331911">iNaturalist</a>
 - <a href="https://x.com/JoeScottBoyle">Twitter</a>
 - <a href="https://orcid.org/0000-0001-6694-1020">ORCID</a>
-
-### Partnerships
-
-- Current (Oxford, LCNR, KM1, WMF)
-- Former (University of Edinburgh, RSPB, TCHP (Enable), Project Seagrass, Mozambique Wildlife Conservation, Conservación, Información y Estudio sobre Cetáceos)
