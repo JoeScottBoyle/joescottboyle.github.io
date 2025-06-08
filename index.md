@@ -10,10 +10,7 @@ Just a holding space for recent things I'm excited about:
 ##### Paper: [Bridging Land and Seascape Restoration for Ecoscape Recovery](https://rdcu.be/epSO1). *npj Ocean Sustainability*
 ##### Talk: [Mapping the Sea: Place, Power, and Participation](https://www.linkedin.com/posts/joe-scott-boyle_seascapes-restoration-education-activity-7317603816294473729-jrbu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtlBu0B9jiQdLU8wedipHkzT2SqlafIHEk) at CETYS University
 
-<!-- Elfsight LinkedIn Feed | Untitled LinkedIn Feed -->
-<script src="https://static.elfsight.com/platform/platform.js" async></script>
-<div class="elfsight-app-9e664c79-7991-4350-993a-065e447cf21a" data-elfsight-app-lazy></div>
-
+<div class='sk-ww-linkedin-profile-post' data-embed-id='25565270'></div><script src='https://widgets.sociablekit.com/linkedin-profile-posts/widget.js' defer></script>
 
 ### Projects
 <details> 
