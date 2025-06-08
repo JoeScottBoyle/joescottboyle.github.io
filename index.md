@@ -26,7 +26,7 @@ Just a holding space for recent things I'm excited about:
 - [Sanday's Seagrass and SDGs: co-design from beach to classroom](https://www.rgs.org/in-the-field/grants/teacher-grants/innovative-geography-teaching-grants#:~:text=2024%3A%20Joseph%20Boyle%20(University%20of%20Oxford)%2C%20Kate%20Hooper%20and%20Joanna%20Jones%20(Sanday%20Community%20School).%C2%A0%27Sanday%27s%20Seagrass%20and%20SDGs%3A%20co%2Ddesign%20from%20beach%20to%20classroom%27) (2024-5) Royal Geographic Society Innovative Geography Teaching Grant
 - [Green Connectors](https://community.rspb.org.uk/ourwork/b/scotland/posts/green-connectors-community-planting-day-in-glasgow) (2020-2?), including Pedal-Powered Planting Party
 - <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FgoConnectatglenoaks%2Fposts%2Fpfbid0o73F98V9F1TEQmdT44KEZ6ifsD9WxmM4j3dvcLATqxBcwmKNWpJp2mGBE6JXj1QJl&show_text=true&width=500" width="500" height="635" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> (2021-2)
-- [Integrated Community Management of Green Space](https://drive.google.com/open?id=1xpuQTXay520DxCK7fhQyr8PKAMOn1YHO) (2013-7)
+- [Integrated Community Management of Green Space](https://drive.google.com/open?id=1xpuQTXay520DxCK7fhQyr8PKAMOn1YHO) (2013-7), _Fombling Around_ [blog](https://fomblingaround.blogspot.com/)
 
 </details> 
 
@@ -38,7 +38,7 @@ Just a holding space for recent things I'm excited about:
 - Generación SEA (2024- , I lead the research write-up, project led by Kilómetro Uno)
 - Gripping a Wet Rock (2024-5, I co-wrote the exhibition text and co-led the workshop, project led by Giulia Gentili)
 - Biosecurity for Life (2021-2, I led the co-designed education package and paper write-up, project led by RSPB Biosecurity for Life)
-- COP26 Nature-based Solutions Garden at Glasgow Botanic Gardens (2021, I led operations and volunteer management, project led by RSPB Giving Nature a Home Glasgow)
+- COP26 [Nature-based Solutions Garden](https://x.com/RSPBGlasgow/status/1468188540064260098) at Glasgow Botanic Gardens (2021, I led operations and volunteer management, project led by RSPB Giving Nature a Home Glasgow)
 - Tooting Common Heritage Project (2019, I led outdor activities and managed community hub, project led by Enable Leisure & Culture)
 
 </details> 
@@ -158,16 +158,16 @@ Just a holding space for recent things I'm excited about:
 
 <details> <summary> Artistic collaborations </summary> 
 
-- Giulia Gentili
-- Harmanpreet Randhawa
+- [Giulia Gentili](https://www.giuliagentili.com/)
+- [Harmanpreet Randhawa](https://www.instagram.com/h_a_r_m_a_n_art/?hl=en)
 - Anka Stanković
-- Liz Willoughby
-- Jonny Circles
-- Ross Taylor
-- Xinyue Liu
-- Valerie Asiimwe Amani
-- Bill McArthur
-- Archie Crofton
+- [Liz Willoughby](https://www.lizwilloughby.com/)
+- [Jonny Circles](https://soundcloud.com/jonnycircles)
+- [Ross Taylor](https://www.instagram.com/ross.p.taylor/?hl=en)
+- [Xinyue Liu](https://www.liuxinyue.com/)
+- [Valerie Asiimwe Amani](https://www.valerieamani.com/)
+- [Bill McArthur](https://www.seascape-art-orkney.co.uk/)
+- [Archie Crofton](https://www.weintrigue.com/)
 
 </details>
 
@@ -192,7 +192,8 @@ Just a holding space for recent things I'm excited about:
 
 - [City Nature Challenge at Worcester](https://www.worc.ox.ac.uk/wp-content/uploads/2024/08/WORCESTER-Magazine-2024.pdf), 2024. *Worcester Magazine* 
 - [Super-whales, metalmarks, and troubling charisma in conservation](https://oxsci.org/super-whales_metalmarks_and_troubling_charisma_in_conservation/), 2023. *The Oxford Scientist* 
-- Build a Bug Hotel, 2017. *ABC Magazine* LINK (pdf on desktop)
+- [Build a Bug Hotel](https://drive.google.com/file/d/1Tv6SYlGUn7tqZyqtIow-VhElTF-UvEdD/view?usp=sharing), 2017. *ABC Magazine*
+- _Fombling Around_ [blog](https://fomblingaround.blogspot.com/) for Friends of the Meadows and Bruntsfield Links (FoMBL)
 - Senior Science Writer at _The Student_, 2015-2017.
 
 </details>
@@ -212,14 +213,14 @@ Just a holding space for recent things I'm excited about:
 
 - [Seagrass intepretation panel](https://rgdoi.net/10.13140/RG.2.2.28965.82402) for Sanday Heritage Centre, funded by the North Isles Landscape Partnership Scheme
 - [Seagrass animation](https://tr.ee/Y2QCWOpoud)
-- Original music, featured in the animation
+- Original music, featured in the animation above
 
 </details>
 
 
 ### Education & Engagement
 
-- [Kilómetro Uno](https://www.kilometrouno.org/) (2024-)
+- [Generación SEA](https://www.kilometrouno.org/programas) with [Kilómetro Uno](https://www.kilometrouno.org/) (2024-)
 - [Sanday's Seagrass and SDGs: co-design from beach to classroom](https://www.rgs.org/in-the-field/grants/teacher-grants/innovative-geography-teaching-grants#:~:text=2024%3A%20Joseph%20Boyle%20(University%20of%20Oxford)%2C%20Kate%20Hooper%20and%20Joanna%20Jones%20(Sanday%20Community%20School).%C2%A0%27Sanday%27s%20Seagrass%20and%20SDGs%3A%20co%2Ddesign%20from%20beach%20to%20classroom%27) (2024-5) Royal Geographic Society Innovative Geography Teaching Grant
 - University of Oxford (2023-5)
 - RSPB (2019-22)
@@ -229,15 +230,15 @@ Just a holding space for recent things I'm excited about:
 
 ### Fieldwork & Outdoor Leadership
 
-- Orkney/Cairngorms/Renfrewshire/Clyde, Scotland (2017-)
-- Tijuana, Mexico (2024, 2025)
-- Thailand (2025)
-- [Poros](https://www.linkedin.com/posts/emily-jones-631458239_posidonia-anthropocene-seascapes-ugcPost-7256284531454885888-_OW7?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtlBu0B9jiQdLU8wedipHkzT2SqlafIHEk), Greece (2024)
-- Oxford, UK (2022-5)
-- Tete Province, Mozambique (2018)
-- Hurghada, Egypt (2018)
-- Yukon, Canada (2015)
-- Straits of Gibraltar, Spain (2013, 2014)
+- Orkney/Cairngorms/Renfrewshire/Clyde, Scotland (2017- ). Various SCUBA, snorkel, boat, drone, alpine, community engagement, curriculum-focused learning, volunteer management, reserve management
+- Tijuana, Mexico (2024, 2025). Snorkel and community engagement
+- Thailand (2025). SCUBA guiding and instructing
+- [Poros](https://www.linkedin.com/posts/emily-jones-631458239_posidonia-anthropocene-seascapes-ugcPost-7256284531454885888-_OW7?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtlBu0B9jiQdLU8wedipHkzT2SqlafIHEk), Greece (2024). Dive safety officer and researcher
+- Oxford, UK (2022-5). Various field lab work, outdoor guiding for university and community field courses
+- Tete Province, Mozambique (2018). Supporting anti-poaching unit and designing long-term community monitoring protocols
+- Hurghada, Egypt (2018). SCUBA guiding and instructing
+- Yukon, Canada (2015). Research assistant for remote island and alpine work with [Team Shrub](https://teamshrub.com/)
+- Straits of Gibraltar, Spain (2013, 2014). Cetacean research assistant and boathand
 
 
 ### Contact
