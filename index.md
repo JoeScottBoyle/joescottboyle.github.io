@@ -116,20 +116,21 @@ Just a holding space for recent things I'm excited about:
 
 <details> <summary> Research collaborations </summary> 
 <ul>
-<li> <a href="https://www.kilometrouno.org/">Kilómetro Uno</a></li>
-<li> <a href="https://www.oxfordseascapeecologylab.com/">Oxford Seascape Ecology Lab</a></li>
-<li> <a href="https://www.biodiversity.ox.ac.uk/project/hero/">Healthy Ecosystem Restoration in Oxfordshire</a></li>
-<li> <a href="https://oxfordhealthbrc.nihr.ac.uk/research/flourishing-wellbeing/">Ecological Collective Flourishing</a></li>
-<li> <a href="https://www.lasmmi.org">The Large-scale Seagrass Mapping and Management Initiative</a></li>
-<li> <a href="https://www.agile-initiative.ox.ac.uk/">The Agile Initiative</a></li>
-<li> <a href="https://www.projectseagrass.org/">Project Seagrass</a></li>
+<li><a href="https://www.kilometrouno.org/">Kilómetro Uno</a></li>
+<li><a href="https://www.oxfordseascapeecologylab.com/">Oxford Seascape Ecology Lab</a></li>
+<li><a href="https://www.biodiversity.ox.ac.uk/project/hero/">Healthy Ecosystem Restoration in Oxfordshire</a></li>
+<li><a href="https://oxfordhealthbrc.nihr.ac.uk/research/flourishing-wellbeing/">Ecological Collective Flourishing, Univeristy of OXford Deprtment of Psychiatry</a></li>
+<li><a href="https://www.lasmmi.org">The Large-scale Seagrass Mapping and Management Initiative</a></li>
+<li><a href="https://www.agile-initiative.ox.ac.uk/">The Agile Initiative</a></li>
+<li><a href="https://www.projectseagrass.org/">Project Seagrass</a></li>
 <li>Project Sjøgras</li> 
-<li> <a href="https://www.nilps.co.uk">The North Isles Landscape Partnership Scheme</a></li>
-<li> <a href="https://naturerecovery.ox.ac.uk/">Leverhulme Centre for Nature Recovery</a></li>
-<li> <a href="https://www.rspb.org.uk/">RSPB</a></li>
-<li> <a href="https://biosecurityforlife.org.uk/">Biosecurity for Life</a></li>
-<li> <a href="https://teamshrub.com/">Team Shrub</a></li>
-<li> <a href="https://circe.info">Conservación, Información y Estudio sobre Cetáceos</a></li>
+<li><a href="https://www.nilps.co.uk">The North Isles Landscape Partnership Scheme</a></li>
+<li><a href="https://naturerecovery.ox.ac.uk/">Leverhulme Centre for Nature Recovery</a></li>
+<li><a href="https://www.rgs.org/">The Royal Geographic Society</a></li>
+<li><a href="https://www.rspb.org.uk/">RSPB</a></li>
+<li><a href="https://biosecurityforlife.org.uk/">Biosecurity for Life</a></li>
+<li><a href="https://teamshrub.com/">Team Shrub</a></li>
+<li><a href="https://circe.info">Conservación, Información y Estudio sobre Cetáceos</a></li>
 </ul>
 </details>
 
@@ -142,43 +143,43 @@ Just a holding space for recent things I'm excited about:
 <summary> <b>Arts</b>
 </summary>
 <details> <summary> Exhibitions </summary> 
-
-- Gentili, G., <b>Boyle, J.S.</b>, Zurowski, M., 2025. Gripping a Wet Rock. Exhibition at Mote102 Gallery, Edinburgh, now held within The University of Edinburgh Collection.
-- <b>Boyle, J.S.</b>, 2023. [Mapping seagrass and the human seascape in Orkney](https://www.socsci.ox.ac.uk/seascapes). Exhibition at Oxford Festival of Social Sciences.
-- Team Shrub, 2017. [Arctic from Above](https://teamshrub.com/2017/04/10/team-shrub-at-the-edinburgh-science-festival/). Exhibition at Edinburgh Science Festival.
-
+<ul>
+<li>Gentili, G., <b>Boyle, J.S.</b>, Zurowski, M., 2025. Gripping a Wet Rock. Exhibition at Mote102 Gallery, Edinburgh, now held within The University of Edinburgh Collection.</li>
+<li>- <b>Boyle, J.S.</b>, 2023. <a href="https://www.socsci.ox.ac.uk/seascapes">Mapping seagrass and the human seascape in Orkney</a>. Exhibition at Oxford Festival of Social Sciences.</li>
+<li>- Team Shrub, 2017. <a href="https://teamshrub.com/2017/04/10/team-shrub-at-the-edinburgh-science-festival/">Arctic from Above</a>. Exhibition at Edinburgh Science Festival.</li>
+</ul>
 </details> 
 
 <details> <summary> Writing </summary> 
-
-- Gentili, G., <b>Boyle, J.S.</b>, 2025. Gripping a Wet Rock. Exhibition at Mote102 Gallery, Edinburgh, now held within The University of Edinburgh Collection. Text available on request
-- <b>Boyle, J.S.</b>, Randhawa, H., 2024. [Who Grieves for Rivers? A Correspondence.](https://artreviewoxford.com/issues/ARO%208.pdf) *Art Review Oxford*.
-
+<ul>
+<li>Gentili, G., <b>Boyle, J.S.</b>, 2025. Gripping a Wet Rock. Exhibition at Mote102 Gallery, Edinburgh, now held within The University of Edinburgh Collection. Text available on request</li>
+<li><b>Boyle, J.S.</b>, Randhawa, H., 2024.  <a href="https://artreviewoxford.com/issues/ARO%208.pdf">Who Grieves for Rivers? A Correspondence.</a> <i>Art Review Oxford</i>.</li>
+</ul>
 </details> 
 
 <details> <summary> Workshops </summary> 
-
-- Gentili, G., <b>Boyle, J.S.</b>, 2025. Gripping a Wet Rock. Emotion mapping workshop at Mote102 Gallery, Edinburgh, supporting the exhibition.
-- <b>Boyle, J.S.</b>, Randhawa, H., Stanković, A.T., 2024. Floating Leaves and Unsettled Seeds. Workshop in Oxford.
-- <b>Boyle, J.S.</b>, Randhawa, H., Stanković, A.T., 2024. Critical Cartographies: Mapping & Resistance. Workshop in Oxford.
-
+<ul>
+<li>Gentili, G., <b>Boyle, J.S.</b>, 2025. Gripping a Wet Rock. Emotion mapping workshop at Mote102 Gallery, Edinburgh, supporting the exhibition.</li>
+<li><b>Boyle, J.S.</b>, Randhawa, H., Stanković, A.T., 2024. Floating Leaves and Unsettled Seeds. Workshop in Oxford.</li>
+<li><b>Boyle, J.S.</b>, Randhawa, H., Stanković, A.T., 2024. Critical Cartographies: Mapping & Resistance. Workshop in Oxford.</li>
+</ul>
 
 </details>
 
 
 <details> <summary> Artistic collaborations </summary> 
-
-- [Giulia Gentili](https://www.giuliagentili.com/)
-- [Harmanpreet Randhawa](https://www.instagram.com/h_a_r_m_a_n_art/?hl=en)
-- Anka Stanković
-- [Liz Willoughby](https://www.lizwilloughby.com/)
-- [Jonny Circles](https://soundcloud.com/jonnycircles)
-- [Ross Taylor](https://www.instagram.com/ross.p.taylor/?hl=en)
-- [Xinyue Liu](https://www.liuxinyue.com/)
-- [Valerie Asiimwe Amani](https://www.valerieamani.com/)
-- [Bill McArthur](https://www.seascape-art-orkney.co.uk/)
-- [Archie Crofton](https://www.weintrigue.com/)
-
+<ul>
+<li><a href="https://www.giuliagentili.com/">Giulia Gentili</a></li>
+<li><a href="https://www.instagram.com/h_a_r_m_a_n_art/?hl=en">Harmanpreet Randhawa</a></li>
+<li>Anka Stanković</li>
+<li><a href="https://www.lizwilloughby.com/">Liz Willoughby</a></li>
+<li><a href="https://soundcloud.com/jonnycircles">Jonny Circles</a></li>
+<li><a href="https://www.instagram.com/ross.p.taylor/?hl=en">Ross Taylor</a></li>
+<li><a href="https://www.liuxinyue.com/">Xinyue Liu</a></li>
+<li><a href="https://www.valerieamani.com/">Valerie Asiimwe Amani</a></li>
+<li><a href="https://www.seascape-art-orkney.co.uk/">Bill McArthur</a></li>
+<li><a href="https://www.weintrigue.com/">Archie Crofton</a></li>
+</ul>
 </details>
 </details>
 
@@ -186,19 +187,19 @@ Just a holding space for recent things I'm excited about:
 <details> 
 <summary> <b>Invited talks</b>
 </summary>
-  
-- Mapping the Sea: Place, Power, and Participation (with participatory mapping workshop). CETYS University, Tijuana, Mexico, 10/4/25
-- Just Maps: Critical Cartography at Sea. The University of Oxford, Oxford, UK, 12/3/25
-- Practices and principles of re-engaging young people with nature (with Kim Polgreen). Healthy Ecosystem Restoration in Oxfordshire, Oxford, UK, 12/3/25
-- Mapping Seagrass Space and Place. Project Seagrass, online, 14/1/25
-- Meadows, Memories, and Missing Layers. Oxford Deep Blue, Oxford, UK, 26/11/24
-- Critical Cartography. Oxford Action for Palestine Summer School, online, 28/8/24
-- [Mapping & Resistance](https://www.linkedin.com/posts/joe-scott-boyle_we-gave-a-teach-in-at-oxfords-liberated-activity-7198728560683929601-wijW?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtlBu0B9jiQdLU8wedipHkzT2SqlafIHEk). Liberated Zone, Oxford, UK, 20/5/24
-- Meadows, Memories, and Missing Layers. Leverhulme Centre for Nature Recovery, Oxford, UK, 8/2/24
-- Mapping Seagrass Space and Place. Orkney Seagrass Gathering, Kirkwall, UK, 19/6/23
-- The Flora of the Changing Arctic. South London Botanical Institute, London, UK, 14/11/20
-- Several talks, webinars, and sympsia organised independently, for the RSPB, and the University of Oxford.
-
+<ul> 
+<li>Mapping the Sea: Place, Power, and Participation (with participatory mapping workshop). CETYS University, Tijuana, Mexico, 10/4/25</li>
+<li>Just Maps: Critical Cartography at Sea. The University of Oxford, Oxford, UK, 12/3/25</li>
+<li>Practices and principles of re-engaging young people with nature (with Kim Polgreen). Healthy Ecosystem Restoration in Oxfordshire, Oxford, UK, 12/3/25</li>
+<li>Mapping Seagrass Space and Place. Project Seagrass, online, 14/1/25</li>
+<li>Meadows, Memories, and Missing Layers. Oxford Deep Blue, Oxford, UK, 26/11/24</li>
+<li>Critical Cartography. Oxford Action for Palestine Summer School, online, 28/8/24</li>
+<li><a href="https://www.linkedin.com/posts/joe-scott-boyle_we-gave-a-teach-in-at-oxfords-liberated-activity-7198728560683929601-wijW?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtlBu0B9jiQdLU8wedipHkzT2SqlafIHEk">Mapping & Resistance</a>. Liberated Zone, Oxford, UK, 20/5/24</li>
+<li>Meadows, Memories, and Missing Layers. Leverhulme Centre for Nature Recovery, Oxford, UK, 8/2/24</li>
+<li>Mapping Seagrass Space and Place. Orkney Seagrass Gathering, Kirkwall, UK, 19/6/23</li>
+<li>The Flora of the Changing Arctic. South London Botanical Institute, London, UK, 14/11/20</li>
+<li>Several talks, webinars, and sympsia organised independently, for the RSPB, and the University of Oxford.</li>
+</ul>
 </details>
 
 <details> 
@@ -206,31 +207,34 @@ Just a holding space for recent things I'm excited about:
 </summary>
   <details> 
 <summary> Writing </summary>
+<ul>
+<li><a href="https://www.worc.ox.ac.uk/wp-content/uploads/2024/08/WORCESTER-Magazine-2024.pdf">City Nature Challenge at Worcester</a>, 2024. <i>Worcester Magazine</i></li>
+<li><a href="https://oxsci.org/super-whales_metalmarks_and_troubling_charisma_in_conservation/">Super-whales, metalmarks, and troubling charisma in conservation</a>, 2024. <i>The Oxford Scientist</i></li>
+<li><a href="https://drive.google.com/file/d/1Tv6SYlGUn7tqZyqtIow-VhElTF-UvEdD/view?usp=sharing">Build a Bug Hotel</a>, 2017. <i>ABC Magazine</i></li>
+<li><a href="https://fomblingaround.blogspot.com/">Fombling around</a>, 2015-7, for Friends of the Meadows and Bruntsfield Links (FoMBL) </li>
+<li>Senior Science Writer at <i>The Student</i>, 2015-2017.</li>
+</ul>
 
-- [City Nature Challenge at Worcester](https://www.worc.ox.ac.uk/wp-content/uploads/2024/08/WORCESTER-Magazine-2024.pdf), 2024. *Worcester Magazine* 
-- [Super-whales, metalmarks, and troubling charisma in conservation](https://oxsci.org/super-whales_metalmarks_and_troubling_charisma_in_conservation/), 2023. *The Oxford Scientist* 
-- [Build a Bug Hotel](https://drive.google.com/file/d/1Tv6SYlGUn7tqZyqtIow-VhElTF-UvEdD/view?usp=sharing), 2017. *ABC Magazine*
-- _Fombling Around_ [blog](https://fomblingaround.blogspot.com/) for Friends of the Meadows and Bruntsfield Links (FoMBL)
-- Senior Science Writer at _The Student_, 2015-2017.
 
 </details>
 
 
 <details> 
 <summary> Podcasts </summary>
-
-- [Sustainability and Biodiversity](https://podcasts.ox.ac.uk/index.php/joseph-boyle) *ProvCast, Worcester College* 
-- [Conservation and Technology](https://open.spotify.com/episode/6yf2tXQgLRxFxsb4ZPPfVa?si=6bb153c0e15445ea) *GeogPod, Oxford University Geography Society* 
-
+<ul>
+<li><a href="https://podcasts.ox.ac.uk/index.php/joseph-boyle">Sustainability and Biodiversity</a>. <i>ProvCast, Worcester College</i></li>
+<li><a href="https://open.spotify.com/episode/6yf2tXQgLRxFxsb4ZPPfVa?si=6bb153c0e15445ea">Conservation and Technology</a>, 2024. <i>GeogPod, Oxford University Geography Society</i></li>
+</ul>
 </details>
 
 
 <details> 
 <summary> Other </summary>
-
-- [Seagrass intepretation panel](https://rgdoi.net/10.13140/RG.2.2.28965.82402) for Sanday Heritage Centre, funded by the North Isles Landscape Partnership Scheme
-- [Seagrass animation](https://tr.ee/Y2QCWOpoud)
-- Original music, featured in the animation above
+<ul>
+<li><a href="https://rgdoi.net/10.13140/RG.2.2.28965.82402">Seagrass intepretation panel</a> for Sanday Heritage Centre, funded by the North Isles Landscape Partnership Scheme</li>
+<li><a href="https://tr.ee/Y2QCWOpoud">Seagrass animation</a></li>
+<li>Original music, featured in the animation above</li>
+</ul>
 
 </details>
 </details>
@@ -238,39 +242,41 @@ Just a holding space for recent things I'm excited about:
 <details> 
 <summary> <b>Education & engagement</b>
 </summary>
-  
-- [Generación SEA](https://www.kilometrouno.org/programas) with [Kilómetro Uno](https://www.kilometrouno.org/) (2024-)
-- [Sanday's Seagrass and SDGs: co-design from beach to classroom](https://www.rgs.org/in-the-field/grants/teacher-grants/innovative-geography-teaching-grants#:~:text=2024%3A%20Joseph%20Boyle%20(University%20of%20Oxford)%2C%20Kate%20Hooper%20and%20Joanna%20Jones%20(Sanday%20Community%20School).%C2%A0%27Sanday%27s%20Seagrass%20and%20SDGs%3A%20co%2Ddesign%20from%20beach%20to%20classroom%27) (2024-5) Royal Geographic Society Innovative Geography Teaching Grant
-- University of Oxford (2023-5)
-- RSPB (2019-22)
-- [Tooting Common Heritage Project](https://www.wandsworth.gov.uk/leisure-and-culture/local-history-and-heritage/tooting-common-heritage-project/) (2019)
-- Mozambique Wildlife Conservation (2018)
-- Skills for Change (2013-7)
+<ul>
+<li><a href="https://www.kilometrouno.org/programas">Generación SEA</a> for Kilómetro Uno (2024- )</li>
+<li><a href="https://www.rgs.org/in-the-field/grants/teacher-grants/innovative-geography-teaching-grants#:~:text=2024%3A%20Joseph%20Boyle%20(University%20of%20Oxford)%2C%20Kate%20Hooper%20and%20Joanna%20Jones%20(Sanday%20Community%20School).%C2%A0%27Sanday%27s%20Seagrass%20and%20SDGs%3A%20co%2Ddesign%20from%20beach%20to%20classroom%27">Sanday's Seagrass and SDGs: co-design from beach to classroom</a> (2024-5) Royal Geographic Society Innovative Geography Teaching Grant</li>
+<li>University of Oxford (2023-5)</li>
+<li>RSPB (2019-22)</li>
+<li><a href="https://www.wandsworth.gov.uk/leisure-and-culture/local-history-and-heritage/tooting-common-heritage-project/">Tooting Common Heritage Project</a> (2019)</li>
+<li>Mozambique Wildlife Conservation (2018)</li>
+<li>Skills for Change (2013-7)</li>
+</ul>  
 
 </details>
 
 <details> 
 <summary> <b>Fieldwork & outdoor leadership</b>
 </summary>
-
-- Orkney/Cairngorms/Renfrewshire/Clyde, Scotland (2017- ). Various SCUBA, snorkel, boat, drone, alpine, community engagement, curriculum-focused learning, volunteer management, reserve management
-- Tijuana, Mexico (2024, 2025). Snorkel and community engagement
-- Thailand (2025). SCUBA guiding and instructing
-- [Poros](https://www.linkedin.com/posts/emily-jones-631458239_posidonia-anthropocene-seascapes-ugcPost-7256284531454885888-_OW7?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtlBu0B9jiQdLU8wedipHkzT2SqlafIHEk), Greece (2024). Dive safety officer and researcher
-- Oxford, UK (2022-5). Various field lab work, outdoor guiding for university and community field courses
-- Tete Province, Mozambique (2018). Supporting anti-poaching unit and designing long-term community monitoring protocols
-- Hurghada, Egypt (2018). SCUBA guiding and instructing
-- Yukon, Canada (2015). Research assistant for remote island and alpine work with [Team Shrub](https://teamshrub.com/)
-- Straits of Gibraltar, Spain (2013, 2014). Cetacean research assistant and boathand
-
+<ul>
+<li>Orkney/Cairngorms/Renfrewshire/Clyde, Scotland (2017- ). Various SCUBA, snorkel, boat, drone, alpine, community engagement, curriculum-focused learning, volunteer management, reserve management</li>
+<li>Tijuana, Mexico (2024, 2025). Snorkel and community engagement</li>
+<li>Thailand (2025). SCUBA guiding and instructing</li>
+<li><a href="https://www.linkedin.com/posts/emily-jones-631458239_posidonia-anthropocene-seascapes-ugcPost-7256284531454885888-_OW7?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtlBu0B9jiQdLU8wedipHkzT2SqlafIHEk">Poros</a>, Greece (2024). Dive safety officer and researcher</li>
+<li>Oxford, UK (2022-5). Various field lab work, outdoor guiding for university and community field courses</li>
+<li>Tete Province, Mozambique (2018). Supporting anti-poaching unit and designing long-term community monitoring protocols</li>
+<li>Hurghada, Egypt (2018). SCUBA guiding and instructing</li>
+<li>Yukon, Canada (2015). Research assistant for remote island and alpine work with [Team Shrub](https://teamshrub.com/)</li>
+<li>Straits of Gibraltar, Spain (2013, 2014). Cetacean research assistant and boathand</li>
+</ul>
 </details>
 
 ### Contact
-
-- <a href="tel:+447786416459">(+44) 7786 416 459</a>
-- <a href="mailto:joe.scott.boyle@gmail.com">joe.scott.boyle@gmail.com</a>
-- <a href="https://www.linkedin.com/in/joe-scott-boyle/">LinkedIn</a>
-- <a href="https://www.inaturalist.org/people/4331911">iNaturalist</a>
-- <a href="https://x.com/JoeScottBoyle">Twitter</a>
-- <a href="https://scholar.google.co.uk/citations?user=578O47kAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.researchgate.net/profile/Joseph-Boyle-6?ev=hdr_xprf">ResearchGate</a>
-- <a href="https://orcid.org/0000-0001-6694-1020">ORCID</a>
+<ul>
+<li><a href="tel:+447786416459">(+44) 7786 416 459</a></li>
+<li><a href="mailto:joe.scott.boyle@gmail.com">joe.scott.boyle@gmail.com</a></li>
+<li><a href="https://www.linkedin.com/in/joe-scott-boyle/">LinkedIn</a></li>
+<li><a href="https://www.inaturalist.org/people/4331911">iNaturalist</a></li>
+<li><a href="https://x.com/JoeScottBoyle">Twitter</a></li>
+<li><a href="https://scholar.google.co.uk/citations?user=578O47kAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.researchgate.net/profile/Joseph-Boyle-6?ev=hdr_xprf">ResearchGate</a></li>
+<li><a href="https://orcid.org/0000-0001-6694-1020">ORCID</a></li>
+</ul>
