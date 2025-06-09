@@ -16,8 +16,9 @@ Just a holding space for recent things I'm excited about:
 
 <details> 
 <summary> <b>Projects</b>
-</summary><details> 
-<summary> Lead </summary>
+</summary>
+  <details> 
+<summary> Lead </summary> <p>
   
 - [Meadows, Memories, and Missing Layers](https://linktr.ee/seagrassSES) (2022- )
 - Just Maps (2023- )
@@ -28,7 +29,7 @@ Just a holding space for recent things I'm excited about:
 - <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FgoConnectatglenoaks%2Fposts%2Fpfbid0o73F98V9F1TEQmdT44KEZ6ifsD9WxmM4j3dvcLATqxBcwmKNWpJp2mGBE6JXj1QJl&show_text=true&width=500" width="500" height="635" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> (2021-2)
 - [Integrated Community Management of Green Space](https://drive.google.com/open?id=1xpuQTXay520DxCK7fhQyr8PKAMOn1YHO) (2013-7), _Fombling Around_ [blog](https://fomblingaround.blogspot.com/)
 
-</details> 
+</p></details> 
 
 
 <details> 
