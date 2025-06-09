@@ -27,31 +27,32 @@ Just a holding space for recent things I'm excited about:
 <li><a href="https://www.rgs.org/in-the-field/grants/teacher-grants/innovative-geography-teaching-grants#:~:text=2024%3A%20Joseph%20Boyle%20(University%20of%20Oxford)%2C%20Kate%20Hooper%20and%20Joanna%20Jones%20(Sanday%20Community%20School).%C2%A0%27Sanday%27s%20Seagrass%20and%20SDGs%3A%20co%2Ddesign%20from%20beach%20to%20classroom%27)">Sanday's Seagrass and SDGs: co-design from beach to classroom</a> Royal Geographic Society Innovative Geography Teaching Grant (2024-5) </li>
 <li><a href="https://community.rspb.org.uk/ourwork/b/scotland/posts/green-connectors-community-planting-day-in-glasgow">Green Connectors</a> (2020-2), including Pedal-Powered Planting Party
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FgoConnectatglenoaks%2Fposts%2Fpfbid0o73F98V9F1TEQmdT44KEZ6ifsD9WxmM4j3dvcLATqxBcwmKNWpJp2mGBE6JXj1QJl&show_text=true&width=500" width="500" height="635" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> </li>
-<li><a href="https://drive.google.com/open?id=1xpuQTXay520DxCK7fhQyr8PKAMOn1YHO">Integrated Community Management of Green Space</a> (2013-7), _Fombling Around_ <a href="https://fomblingaround.blogspot.com/">blog</a></li>
+<li><a href="https://drive.google.com/open?id=1xpuQTXay520DxCK7fhQyr8PKAMOn1YHO">Integrated Community Management of Green Space</a> (2013-7), <i>Fombling Around</i> <a href="https://fomblingaround.blogspot.com/">blog</a></li>
 </ul>
 </p></details> 
 
 
 <details> 
 <summary> Support </summary>
-
-- Authentic Brew Foundation, rewilding people and places (2024- , I lead conservation and biodiversity, project led by Authentic Brew)
-- Generación SEA (2024- , I lead the research write-up, project led by Kilómetro Uno)
-- Gripping a Wet Rock (2024-5, I co-wrote the exhibition text and co-led the workshop, project led by Giulia Gentili)
-- Biosecurity for Life (2021-2, I led the co-designed education package and paper write-up, project led by RSPB Biosecurity for Life)
-- COP26 [Nature-based Solutions Garden](https://x.com/RSPBGlasgow/status/1468188540064260098) at Glasgow Botanic Gardens (2021, I led operations and volunteer management, project led by RSPB Giving Nature a Home Glasgow)
-- Tooting Common Heritage Project (2019, I led outdor activities and managed community hub, project led by Enable Leisure & Culture)
+<ul>
+<li>Authentic Brew Foundation, rewilding people and places (2024- , I lead conservation and biodiversity, project led by Authentic Brew)</li> 
+<li>Generación SEA (2024- , I lead the research write-up, project led by Kilómetro Uno)</li>
+<li>Gripping a Wet Rock (2024-5, I co-wrote the exhibition text and co-led the workshop, project led by Giulia Gentili)</li>
+<li>Biosecurity for Life (2021-2, I led the co-designed education package and paper write-up, project led by RSPB Biosecurity for Life)</li>
+<li>COP26 [Nature-based Solutions Garden](https://x.com/RSPBGlasgow/status/1468188540064260098) at Glasgow Botanic Gardens (2021, I led operations and volunteer management, project led by RSPB Giving Nature a Home Glasgow)</li>
+<li>Tooting Common Heritage Project (2019, I led outdor activities and managed community hub, project led by Enable Leisure & Culture)</li>
+</ul>
 
 </details> 
 
 
 <details> 
 <summary> Community </summary>
-
-- [Edinburgh Student Housing Co-operative](https://www.eshc.coop/) (2013-7)
-- [Friends of the Meadows and Bruntsfield Links](https://www.fombl.org.uk/) (2014-7)
-- Skills for Change (2013-5)
-
+<ul>
+<li> <a href="https://www.eshc.coop/">Edinburgh Student Housing Co-operative</a> (2013-7)</li>
+<li> <a href="https://www.fombl.org.uk/">Friends of the Meadows and Bruntsfield Links</a> (2014-7)</li>
+<li> Skills for Change (2013-5)</li>
+</ul>
 </details> 
 </details>
 
@@ -60,53 +61,55 @@ Just a holding space for recent things I'm excited about:
 </summary>  
 <details> 
 <summary> Publications </summary>
-  
-- Wedding, L.M., Agardy, T., Green, S., <b>Boyle, J.S.</b>, Frazão Santos, C., Malhi, Y., Crowder, L.B., 2025. Bridging Land and Seascape Restoration for Ecoscape Recovery. *npj Ocean Sustainability 4*, 31, s44183-025-00133–6. https://doi.org/10.1038/s44183-025-00133-6
-- Wu, H., Soleiman, J., Bolam, J., <b>Boyle, J.S.</b>, 2025. Exploring a unified definition of ecological complexity towards restoration. *Total Environment Advances 14*, 200125. https://doi.org/10.1016/j.teadva.2025.200125
-- Wilhelm, K., Lomax, T., McCarthy, L., <b>Boyle, J.S.</b>, Menon, S., Hart, A., Coombes, M., Cox, T., Hall, J., Freebody, J., 2025. The role of hybrid green spaces in secure psychiatric care. Department of Psychiatry, University of Oxford.
-- Wright-Arora, G., James, M., Troiano, M., Sidwell, N., <b>Boyle, J.S.</b>, Barbrook-Johnson, P., Hirons, M., 2024. The role of publics and deliberation at the environmental science-policy interface. Agile Initiative, Oxford Martin School. https://dx.doi.org/10.5287/ora-4rgdzpjnd
-- Wedding, L.M., Pittman, S.J., Lepczyk, C.A., Parrain, C., Puniwai, N., <b>Boyle, J.S.</b>, Goldberg, E.G., Young, M., Marty, P., Wilhelm, K., Taylor, S., Crowder, L.B., 2024. Integrating the multiple perspectives of people and nature in place-based marine spatial planning. *npj Ocean Sustain 3*, 43. https://doi.org/10.1038/s44183-024-00071-9
-- Troiano, M., Sidwell, N., <b>Boyle, J.S.</b>, James, M., Wright, G., Barbrook-Johnson, P., Hirons, M., 2024. Impact and collaboration in environmental research: moving universities from evidence producers to co-producers. Agile Initiative, Oxford Martin School. https://dx.doi.org/10.5287/ora-8rny1gaj9
-- <b>Boyle, J.S.</b>, 2023. Meadows, memories, and missing layers: transdisciplinary mapping of Sanday’s seagrass towards restorative marine spatial planning (MSc). The University of Oxford. https://rgdoi.net/10.13140/RG.2.2.12630.42567
-- <b>Boyle, J.S.</b>, Copley, L., 2022. Co-Design and Conservation: A Case-Study from RSPB Biosecurity for LIFE in Coastal and Island Primary Schools and Youth Groups Across Scotland. *Concept: The Journal of Contemporary Community Education Practice Theory 13*, 1–13. https://concept.lib.ed.ac.uk/Concept/article/view/7356
-- <b>Boyle, J.S.</b>, Angers-Blondin, S., Assmann, J.J., Myers-Smith, I.H., 2022. Summer temperature—but not growing season length—influences radial growth of Salix arctica in coastal Arctic tundra. *Polar Biol 45*, 1257–1270. https://doi.org/10.1007/s00300-022-03074-9
-- Buchwal, A., Sullivan, P.F., Macias-Fauria, M., Post, E., Myers-Smith, I.H., Stroeve, J.C., Blok, D., Tape, K.D., Forbes, B.C., Ropars, P., Lévesque, E., Elberling, B., Angers-Blondin, S., <b>Boyle, J.S.</b>, Boudreau, S., Boulanger-Lapointe, N., Gamm, C., Hallinger, M., Rachlewicz, G., Young, A., Zetterberg, P., Welker, J.M., 2020. Divergence of Arctic shrub growth associated with sea ice decline. *PNAS 117*, 33334–33344. https://doi.org/10.1073/pnas.2013311117
-- Myers-Smith, I.H., Grabowski, M.M., Thomas, H.J.D., Angers‐Blondin, S., Daskalova, G.N., Bjorkman, A.D., Cunliffe, A.M., Assmann, J.J., <b>Boyle, J.S.</b>, McLeod, E., McLeod, S., Joe, R., Lennie, P., Arey, D., Gordon, R.R., Eckert, C.D., 2019. Eighteen years of ecological monitoring reveals multiple lines of evidence for tundra vegetation change. *Ecological Monographs 89*, e01351. https://doi.org/10.1002/ecm.1351
+<ul>  
+<li>Wedding, L.M., Agardy, T., Green, S., <b>Boyle, J.S.</b>, Frazão Santos, C., Malhi, Y., Crowder, L.B., 2025. Bridging Land and Seascape Restoration for Ecoscape Recovery. *npj Ocean Sustainability 4*, 31, s44183-025-00133–6. https://doi.org/10.1038/s44183-025-00133-6</li> 
+<li>Wu, H., Soleiman, J., Bolam, J., <b>Boyle, J.S.</b>, 2025. Exploring a unified definition of ecological complexity towards restoration. *Total Environment Advances 14*, 200125. https://doi.org/10.1016/j.teadva.2025.200125</li>
+<li>Wilhelm, K., Lomax, T., McCarthy, L., <b>Boyle, J.S.</b>, Menon, S., Hart, A., Coombes, M., Cox, T., Hall, J., Freebody, J., 2025. The role of hybrid green spaces in secure psychiatric care. Department of Psychiatry, University of Oxford.</li> 
+<li>Wright-Arora, G., James, M., Troiano, M., Sidwell, N., <b>Boyle, J.S.</b>, Barbrook-Johnson, P., Hirons, M., 2024. The role of publics and deliberation at the environmental science-policy interface. Agile Initiative, Oxford Martin School. https://dx.doi.org/10.5287/ora-4rgdzpjnd</li> 
+<li>Wedding, L.M., Pittman, S.J., Lepczyk, C.A., Parrain, C., Puniwai, N., <b>Boyle, J.S.</b>, Goldberg, E.G., Young, M., Marty, P., Wilhelm, K., Taylor, S., Crowder, L.B., 2024. Integrating the multiple perspectives of people and nature in place-based marine spatial planning. *npj Ocean Sustain 3*, 43. https://doi.org/10.1038/s44183-024-00071-9</li> 
+<li>Troiano, M., Sidwell, N., <b>Boyle, J.S.</b>, James, M., Wright, G., Barbrook-Johnson, P., Hirons, M., 2024. Impact and collaboration in environmental research: moving universities from evidence producers to co-producers. Agile Initiative, Oxford Martin School. https://dx.doi.org/10.5287/ora-8rny1gaj9</li> 
+<li><b>Boyle, J.S.</b>, 2023. Meadows, memories, and missing layers: transdisciplinary mapping of Sanday’s seagrass towards restorative marine spatial planning (MSc). The University of Oxford. https://rgdoi.net/10.13140/RG.2.2.12630.42567</li> 
+<li><b>Boyle, J.S.</b>, Copley, L., 2022. Co-Design and Conservation: A Case-Study from RSPB Biosecurity for LIFE in Coastal and Island Primary Schools and Youth Groups Across Scotland. *Concept: The Journal of Contemporary Community Education Practice Theory 13*, 1–13. https://concept.lib.ed.ac.uk/Concept/article/view/7356</li> 
+<li><b>Boyle, J.S.</b>, Angers-Blondin, S., Assmann, J.J., Myers-Smith, I.H., 2022. Summer temperature—but not growing season length—influences radial growth of Salix arctica in coastal Arctic tundra. *Polar Biol 45*, 1257–1270. https://doi.org/10.1007/s00300-022-03074-9</li> 
+<li>Buchwal, A., Sullivan, P.F., Macias-Fauria, M., Post, E., Myers-Smith, I.H., Stroeve, J.C., Blok, D., Tape, K.D., Forbes, B.C., Ropars, P., Lévesque, E., Elberling, B., Angers-Blondin, S., <b>Boyle, J.S.</b>, Boudreau, S., Boulanger-Lapointe, N., Gamm, C., Hallinger, M., Rachlewicz, G., Young, A., Zetterberg, P., Welker, J.M., 2020. Divergence of Arctic shrub growth associated with sea ice decline. *PNAS 117*, 33334–33344. https://doi.org/10.1073/pnas.2013311117</li> 
+<li>Myers-Smith, I.H., Grabowski, M.M., Thomas, H.J.D., Angers‐Blondin, S., Daskalova, G.N., Bjorkman, A.D., Cunliffe, A.M., Assmann, J.J., <b>Boyle, J.S.</b>, McLeod, E., McLeod, S., Joe, R., Lennie, P., Arey, D., Gordon, R.R., Eckert, C.D., 2019. Eighteen years of ecological monitoring reveals multiple lines of evidence for tundra vegetation change. *Ecological Monographs 89*, e01351. https://doi.org/10.1002/ecm.1351</li>
+</ul>
 </details>
 
 
 <details> 
 <summary> Posters </summary>
 
-- <b>Boyle, J.S.</b>, Lilley, R.J., Thomsen, E., Wedding, L.W., 2024. Meadows, Memories & Missing Layers: Transdisciplinary seagrass mapping towards restorative marine spatial planning (WSC2024), https://doi.org/10.13140/RG.2.2.25890.44482
-- <b>Boyle, J.S.</b>, Angers-Blondin, S., Assmann, J.J., Myers-Smith, I.H., 2020. Summer and autumn temperatures – but not growing season length – influence growth of a dwarf willow in coastal Arctic tundra (ArcticNet 2020 poster award), https://doi.org/10.13140/RG.2.2.31734.01601/1 
-- <b>Boyle, J.S.</b>, 2019. Biological Monitoring on Tooting Common (London Recorders’ Day 2019), https://doi.org/10.13140/RG.2.2.15114.08646
-
+<ul>
+<li><b>Boyle, J.S.</b>, Lilley, R.J., Thomsen, E., Wedding, L.W., 2024. Meadows, Memories & Missing Layers: Transdisciplinary seagrass mapping towards restorative marine spatial planning (WSC2024), https://doi.org/10.13140/RG.2.2.25890.44482</li>
+<li><b>Boyle, J.S.</b>, Angers-Blondin, S., Assmann, J.J., Myers-Smith, I.H., 2020. Summer and autumn temperatures – but not growing season length – influence growth of a dwarf willow in coastal Arctic tundra (ArcticNet 2020 poster award), https://doi.org/10.13140/RG.2.2.31734.01601/1 </li>
+<li><b>Boyle, J.S.</b>, 2019. Biological Monitoring on Tooting Common (London Recorders’ Day 2019), https://doi.org/10.13140/RG.2.2.15114.08646</li>
+</ul>
 </details>
 
 
 <details> 
 <summary> Conferences </summary>
-
-- United Nations Ocean Conference, 2025, Nice, France **(workshop)**.
-  Affiliation: Kilómetro Uno x Walter Munk Foundation for the Oceans
-- Digital Dimensions of Nature Recovery, 2024, Oxford, UK.
-  Affiliation: University of Oxford
-- Equality, Diversity, and Inclusion in Environmental Research, 2024, Solihull, UK.
-  Affiliation: University of Oxford
-- The 2024 World Seagrass Conference (WSC2024) & 15th International Seagrass Biology Workshop (ISBW15), 2024, Napoli, Italy **(poster)**.
-  Affiliation: University of Oxford
-- American Association of Geographers' Annual Meeting, 2024, Honolulu, HI, USA **(talk)**.
-  Affiliation: University of Oxford
-- Complexity Theory and Systems Thinking with Government, 2023, Oxford, UK **(talk)**.
-  Affiliation: University of Oxford
-- COP26, 2021, Glasgow, UK **(community organising and activities)**.
-  Affiliation: RSPB
-- ArcticNet, 2020, online **(poster award)**.
-  Affiliation: University of Edinburgh
-- London Recorders’ Day, 2019, Natural History Museum, London, UK **(poster)**.
-  Affiliation: Tooting Common Heritage Project
-
+<ul>
+<li>United Nations Ocean Conference, 2025, Nice, France <b>(workshop)</b>.
+  Affiliation: Kilómetro Uno x Walter Munk Foundation for the Oceans</li>
+<li>Digital Dimensions of Nature Recovery, 2024, Oxford, UK.
+  Affiliation: University of Oxford</li>
+<li>Equality, Diversity, and Inclusion in Environmental Research, 2024, Solihull, UK.
+  Affiliation: University of Oxford</li>
+<li>The 2024 World Seagrass Conference (WSC2024) & 15th International Seagrass Biology Workshop (ISBW15), 2024, Napoli, Italy <b>(poster)</b>.
+  Affiliation: University of Oxford</li>
+<li>American Association of Geographers' Annual Meeting, 2024, Honolulu, HI, USA <b>(talk)</b>.
+  Affiliation: University of Oxford</li>
+<li>Complexity Theory and Systems Thinking with Government, 2023, Oxford, UK <b>(talk)</b>.
+  Affiliation: University of Oxford</li>
+<li>COP26, 2021, Glasgow, UK <b>(community organising and activities)</b>.
+  Affiliation: RSPB</li>
+<li>ArcticNet, 2020, online <b>(poster award)</b>.
+  Affiliation: University of Edinburgh</li>
+<li>London Recorders’ Day, 2019, Natural History Museum, London, UK <b>(poster)</b>.
+  Affiliation: Tooting Common Heritage Project</li>
+</ul>
 </details>
 
 
