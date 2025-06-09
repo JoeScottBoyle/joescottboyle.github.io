@@ -242,9 +242,8 @@ Just a holding space for recent things I'm excited about:
 
 </details>
 
-### 
 <details> 
-<summary> <b>Fieldwork & Outdoor Leadership</b>
+<summary> <b>Fieldwork & outdoor leadership</b>
 </summary>
 
 - Orkney/Cairngorms/Renfrewshire/Clyde, Scotland (2017- ). Various SCUBA, snorkel, boat, drone, alpine, community engagement, curriculum-focused learning, volunteer management, reserve management
