@@ -19,8 +19,8 @@ Just a holding space for recent things I'm excited about:
 </summary>
   <details> 
 <summary> Lead </summary> <p>
-  
-- [Meadows, Memories, and Missing Layers](https://linktr.ee/seagrassSES) (2022- )
+<ul>
+<li>[Meadows, Memories, and Missing Layers](https://linktr.ee/seagrassSES) (2022- )</li>
 - Just Maps (2023- )
 - Co-Producing Principles for Engaging UK Schools with Nature (2024- )
 - Citizen Science with City Nature Challenge and iNaturalist (2021- ), as organiser for Edinburgh and Glasgow, and as a community engagement and biodiversity survey activity with Worcester College, Oxford and Kilómetro Uno
@@ -28,7 +28,7 @@ Just a holding space for recent things I'm excited about:
 - [Green Connectors](https://community.rspb.org.uk/ourwork/b/scotland/posts/green-connectors-community-planting-day-in-glasgow) (2020-2?), including Pedal-Powered Planting Party
 - <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FgoConnectatglenoaks%2Fposts%2Fpfbid0o73F98V9F1TEQmdT44KEZ6ifsD9WxmM4j3dvcLATqxBcwmKNWpJp2mGBE6JXj1QJl&show_text=true&width=500" width="500" height="635" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> (2021-2)
 - [Integrated Community Management of Green Space](https://drive.google.com/open?id=1xpuQTXay520DxCK7fhQyr8PKAMOn1YHO) (2013-7), _Fombling Around_ [blog](https://fomblingaround.blogspot.com/)
-
+</ul>
 </p></details> 
 
 
