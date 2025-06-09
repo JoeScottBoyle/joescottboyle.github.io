@@ -39,7 +39,8 @@ Just a holding space for recent things I'm excited about:
 <li>Generación SEA (2024- , I lead the research write-up, project led by Kilómetro Uno)</li>
 <li>Gripping a Wet Rock (2024-5, I co-wrote the exhibition text and co-led the workshop, project led by Giulia Gentili)</li>
 <li>Biosecurity for Life (2021-2, I led the co-designed education package and paper write-up, project led by RSPB Biosecurity for Life)</li>
-<li>COP26 [Nature-based Solutions Garden](https://x.com/RSPBGlasgow/status/1468188540064260098) at Glasgow Botanic Gardens (2021, I led operations and volunteer management, project led by RSPB Giving Nature a Home Glasgow)</li>
+<li>COP26 <a href="https://x.com/RSPBGlasgow/status/1468188540064260098">Nature-based Solutions Garden</a> at Glasgow Botanic Gardens (2021, I led operations and volunteer management, project led by RSPB Giving Nature a Home Glasgow)</li>
+  <li> <a href="https://linktr.ee/seagrassSES">Meadows, Memories, and Missing Layers</a> (2022- )</li>
 <li>Tooting Common Heritage Project (2019, I led outdor activities and managed community hub, project led by Enable Leisure & Culture)</li>
 </ul>
 
@@ -62,17 +63,17 @@ Just a holding space for recent things I'm excited about:
 <details> 
 <summary> Publications </summary>
 <ul>  
-<li>Wedding, L.M., Agardy, T., Green, S., <b>Boyle, J.S.</b>, Frazão Santos, C., Malhi, Y., Crowder, L.B., 2025. Bridging Land and Seascape Restoration for Ecoscape Recovery. *npj Ocean Sustainability 4*, 31, s44183-025-00133–6. https://doi.org/10.1038/s44183-025-00133-6</li> 
-<li>Wu, H., Soleiman, J., Bolam, J., <b>Boyle, J.S.</b>, 2025. Exploring a unified definition of ecological complexity towards restoration. *Total Environment Advances 14*, 200125. https://doi.org/10.1016/j.teadva.2025.200125</li>
+<li>Wedding, L.M., Agardy, T., Green, S., <b>Boyle, J.S.</b>, Frazão Santos, C., Malhi, Y., Crowder, L.B., 2025. Bridging Land and Seascape Restoration for Ecoscape Recovery. <i>npj Ocean Sustainability 4</i>, 31, s44183-025-00133–6. https://doi.org/10.1038/s44183-025-00133-6</li> 
+<li>Wu, H., Soleiman, J., Bolam, J., <b>Boyle, J.S.</b>, 2025. Exploring a unified definition of ecological complexity towards restoration. <i>Total Environment Advances 14</i>, 200125. https://doi.org/10.1016/j.teadva.2025.200125</li>
 <li>Wilhelm, K., Lomax, T., McCarthy, L., <b>Boyle, J.S.</b>, Menon, S., Hart, A., Coombes, M., Cox, T., Hall, J., Freebody, J., 2025. The role of hybrid green spaces in secure psychiatric care. Department of Psychiatry, University of Oxford.</li> 
 <li>Wright-Arora, G., James, M., Troiano, M., Sidwell, N., <b>Boyle, J.S.</b>, Barbrook-Johnson, P., Hirons, M., 2024. The role of publics and deliberation at the environmental science-policy interface. Agile Initiative, Oxford Martin School. https://dx.doi.org/10.5287/ora-4rgdzpjnd</li> 
-<li>Wedding, L.M., Pittman, S.J., Lepczyk, C.A., Parrain, C., Puniwai, N., <b>Boyle, J.S.</b>, Goldberg, E.G., Young, M., Marty, P., Wilhelm, K., Taylor, S., Crowder, L.B., 2024. Integrating the multiple perspectives of people and nature in place-based marine spatial planning. *npj Ocean Sustain 3*, 43. https://doi.org/10.1038/s44183-024-00071-9</li> 
+<li>Wedding, L.M., Pittman, S.J., Lepczyk, C.A., Parrain, C., Puniwai, N., <b>Boyle, J.S.</b>, Goldberg, E.G., Young, M., Marty, P., Wilhelm, K., Taylor, S., Crowder, L.B., 2024. Integrating the multiple perspectives of people and nature in place-based marine spatial planning. <i>npj Ocean Sustain 3</i>, 43. https://doi.org/10.1038/s44183-024-00071-9</li> 
 <li>Troiano, M., Sidwell, N., <b>Boyle, J.S.</b>, James, M., Wright, G., Barbrook-Johnson, P., Hirons, M., 2024. Impact and collaboration in environmental research: moving universities from evidence producers to co-producers. Agile Initiative, Oxford Martin School. https://dx.doi.org/10.5287/ora-8rny1gaj9</li> 
 <li><b>Boyle, J.S.</b>, 2023. Meadows, memories, and missing layers: transdisciplinary mapping of Sanday’s seagrass towards restorative marine spatial planning (MSc). The University of Oxford. https://rgdoi.net/10.13140/RG.2.2.12630.42567</li> 
-<li><b>Boyle, J.S.</b>, Copley, L., 2022. Co-Design and Conservation: A Case-Study from RSPB Biosecurity for LIFE in Coastal and Island Primary Schools and Youth Groups Across Scotland. *Concept: The Journal of Contemporary Community Education Practice Theory 13*, 1–13. https://concept.lib.ed.ac.uk/Concept/article/view/7356</li> 
-<li><b>Boyle, J.S.</b>, Angers-Blondin, S., Assmann, J.J., Myers-Smith, I.H., 2022. Summer temperature—but not growing season length—influences radial growth of Salix arctica in coastal Arctic tundra. *Polar Biol 45*, 1257–1270. https://doi.org/10.1007/s00300-022-03074-9</li> 
-<li>Buchwal, A., Sullivan, P.F., Macias-Fauria, M., Post, E., Myers-Smith, I.H., Stroeve, J.C., Blok, D., Tape, K.D., Forbes, B.C., Ropars, P., Lévesque, E., Elberling, B., Angers-Blondin, S., <b>Boyle, J.S.</b>, Boudreau, S., Boulanger-Lapointe, N., Gamm, C., Hallinger, M., Rachlewicz, G., Young, A., Zetterberg, P., Welker, J.M., 2020. Divergence of Arctic shrub growth associated with sea ice decline. *PNAS 117*, 33334–33344. https://doi.org/10.1073/pnas.2013311117</li> 
-<li>Myers-Smith, I.H., Grabowski, M.M., Thomas, H.J.D., Angers‐Blondin, S., Daskalova, G.N., Bjorkman, A.D., Cunliffe, A.M., Assmann, J.J., <b>Boyle, J.S.</b>, McLeod, E., McLeod, S., Joe, R., Lennie, P., Arey, D., Gordon, R.R., Eckert, C.D., 2019. Eighteen years of ecological monitoring reveals multiple lines of evidence for tundra vegetation change. *Ecological Monographs 89*, e01351. https://doi.org/10.1002/ecm.1351</li>
+<li><b>Boyle, J.S.</b>, Copley, L., 2022. Co-Design and Conservation: A Case-Study from RSPB Biosecurity for LIFE in Coastal and Island Primary Schools and Youth Groups Across Scotland. <i>Concept: The Journal of Contemporary Community Education Practice Theory 13</i>, 1–13. https://concept.lib.ed.ac.uk/Concept/article/view/7356</li> 
+<li><b>Boyle, J.S.</b>, Angers-Blondin, S., Assmann, J.J., Myers-Smith, I.H., 2022. Summer temperature—but not growing season length—influences radial growth of Salix arctica in coastal Arctic tundra. <i>Polar Biology 45</i>, 1257–1270. https://doi.org/10.1007/s00300-022-03074-9</li> 
+<li>Buchwal, A., Sullivan, P.F., Macias-Fauria, M., Post, E., Myers-Smith, I.H., Stroeve, J.C., Blok, D., Tape, K.D., Forbes, B.C., Ropars, P., Lévesque, E., Elberling, B., Angers-Blondin, S., <b>Boyle, J.S.</b>, Boudreau, S., Boulanger-Lapointe, N., Gamm, C., Hallinger, M., Rachlewicz, G., Young, A., Zetterberg, P., Welker, J.M., 2020. Divergence of Arctic shrub growth associated with sea ice decline. <i>PNAS 117</i>, 33334–33344. https://doi.org/10.1073/pnas.2013311117</li> 
+<li>Myers-Smith, I.H., Grabowski, M.M., Thomas, H.J.D., Angers‐Blondin, S., Daskalova, G.N., Bjorkman, A.D., Cunliffe, A.M., Assmann, J.J., <b>Boyle, J.S.</b>, McLeod, E., McLeod, S., Joe, R., Lennie, P., Arey, D., Gordon, R.R., Eckert, C.D., 2019. Eighteen years of ecological monitoring reveals multiple lines of evidence for tundra vegetation change. <i>Ecological Monographs 89</i>, e01351. https://doi.org/10.1002/ecm.1351</li>
 </ul>
 </details>
 
@@ -114,22 +115,22 @@ Just a holding space for recent things I'm excited about:
 
 
 <details> <summary> Research collaborations </summary> 
-
-- [Kilómetro Uno](https://www.kilometrouno.org/)
-- [Oxford Seascape Ecology Lab](https://www.oxfordseascapeecologylab.com/)
-- [Healthy Ecosystem Restoration in Oxfordshire](https://www.biodiversity.ox.ac.uk/project/hero/)
-- [Ecological Collective Flourishing](https://oxfordhealthbrc.nihr.ac.uk/research/flourishing-wellbeing/)
-- [The Large-scale Seagrass Mapping and Management Initiative](https://www.lasmmi.org)
-- [The Agile Initiative](https://www.agile-initiative.ox.ac.uk/)
-- [Project Seagrass](https://www.projectseagrass.org/)
-- Project Sjøgras
-- [The North Isles Landscape Partnership Scheme](https://www.nilps.co.uk)
-- [Leverhulme Centre for Nature Recovery](https://naturerecovery.ox.ac.uk/)
-- [RSPB](https://www.rspb.org.uk/?__cf_chl_rt_tk=IzKvWIpKs6dydwAcI.4aibyymaEWb0Snttjdj0zKx5k-1749394150-1.0.1.1-oeyWMTnfMJGzfPEpF0Y52SgVF36.joR3QwNX4k12VGc)
-- [Biosecurity for Life](https://biosecurityforlife.org.uk/)
-- [Team Shrub](https://teamshrub.com/)
-- [Conservación, Información y Estudio sobre Cetáceos](https://circe.info)
-
+<ul>
+<li> <a href="https://www.kilometrouno.org/">Kilómetro Uno</a></li>
+<li> <a href="https://www.oxfordseascapeecologylab.com/">Oxford Seascape Ecology Lab</a></li>
+<li> <a href="https://www.biodiversity.ox.ac.uk/project/hero/">Healthy Ecosystem Restoration in Oxfordshire</a></li>
+<li> <a href="https://oxfordhealthbrc.nihr.ac.uk/research/flourishing-wellbeing/">Ecological Collective Flourishing</a></li>
+<li> <a href="https://www.lasmmi.org">The Large-scale Seagrass Mapping and Management Initiative</a></li>
+<li> <a href="https://www.agile-initiative.ox.ac.uk/">The Agile Initiative</a></li>
+<li> <a href="https://www.projectseagrass.org/">Project Seagrass</a></li>
+<li>Project Sjøgras</li> 
+<li> <a href="https://www.nilps.co.uk">The North Isles Landscape Partnership Scheme</a></li>
+<li> <a href="https://naturerecovery.ox.ac.uk/">Leverhulme Centre for Nature Recovery</a></li>
+<li> <a href="https://www.rspb.org.uk/">RSPB</a></li>
+<li> <a href="https://biosecurityforlife.org.uk/">Biosecurity for Life</a></li>
+<li> <a href="https://teamshrub.com/">Team Shrub</a></li>
+<li> <a href="https://circe.info">Conservación, Información y Estudio sobre Cetáceos</a></li>
+</ul>
 </details>
 
 
