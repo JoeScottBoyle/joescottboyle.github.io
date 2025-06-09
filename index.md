@@ -6,6 +6,7 @@ Thanks for making it this far, I hope you find something interesting. This websi
 
 ### Featured Work
 Just a holding space for recent things I'm excited about:
+##### Talk: Gentili, G., <b>Boyle, J.S.</b>, Zurowski, M., 2025. Gripping a Wet Rock. Exhibition at Mote102 Gallery, Edinburgh, now held within The University of Edinburgh Collection
 ##### Project: [Meadows, Memories, and Missing Layers](https://linktr.ee/seagrassSES)
 ##### Paper: [Bridging Land and Seascape Restoration for Ecoscape Recovery](https://rdcu.be/epSO1). *npj Ocean Sustainability*
 ##### Talk: [Mapping the Sea: Place, Power, and Participation](https://www.linkedin.com/posts/joe-scott-boyle_seascapes-restoration-education-activity-7317603816294473729-jrbu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtlBu0B9jiQdLU8wedipHkzT2SqlafIHEk) at CETYS University
@@ -145,8 +146,8 @@ Just a holding space for recent things I'm excited about:
 <details> <summary> Exhibitions </summary> 
 <ul>
 <li>Gentili, G., <b>Boyle, J.S.</b>, Zurowski, M., 2025. Gripping a Wet Rock. Exhibition at Mote102 Gallery, Edinburgh, now held within The University of Edinburgh Collection.</li>
-<li>- <b>Boyle, J.S.</b>, 2023. <a href="https://www.socsci.ox.ac.uk/seascapes">Mapping seagrass and the human seascape in Orkney</a>. Exhibition at Oxford Festival of Social Sciences.</li>
-<li>- Team Shrub, 2017. <a href="https://teamshrub.com/2017/04/10/team-shrub-at-the-edinburgh-science-festival/">Arctic from Above</a>. Exhibition at Edinburgh Science Festival.</li>
+<li><b>Boyle, J.S.</b>, 2023. <a href="https://www.socsci.ox.ac.uk/seascapes">Mapping seagrass and the human seascape in Orkney</a>. Exhibition at Oxford Festival of Social Sciences.</li>
+<li>Team Shrub, 2017. <a href="https://teamshrub.com/2017/04/10/team-shrub-at-the-edinburgh-science-festival/">Arctic from Above</a>. Exhibition at Edinburgh Science Festival.</li>
 </ul>
 </details> 
 
@@ -188,7 +189,7 @@ Just a holding space for recent things I'm excited about:
 <summary> <b>Invited talks</b>
 </summary>
 <ul> 
-<li>Mapping the Sea: Place, Power, and Participation (with participatory mapping workshop). CETYS University, Tijuana, Mexico, 10/4/25</li>
+<li>[Mapping the Sea: Place, Power, and Participation](https://www.linkedin.com/posts/joe-scott-boyle_seascapes-restoration-education-activity-7317603816294473729-jrbu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtlBu0B9jiQdLU8wedipHkzT2SqlafIHEk). CETYS University, Tijuana, Mexico, 10/4/25</li>
 <li>Just Maps: Critical Cartography at Sea. The University of Oxford, Oxford, UK, 12/3/25</li>
 <li>Practices and principles of re-engaging young people with nature (with Kim Polgreen). Healthy Ecosystem Restoration in Oxfordshire, Oxford, UK, 12/3/25</li>
 <li>Mapping Seagrass Space and Place. Project Seagrass, online, 14/1/25</li>
