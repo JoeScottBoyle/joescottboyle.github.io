@@ -266,4 +266,5 @@ Just a holding space for recent things I'm excited about:
 - <a href="https://www.linkedin.com/in/joe-scott-boyle/">LinkedIn</a>
 - <a href="https://www.inaturalist.org/people/4331911">iNaturalist</a>
 - <a href="https://x.com/JoeScottBoyle">Twitter</a>
+- <a href="https://scholar.google.co.uk/citations?user=578O47kAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.researchgate.net/profile/Joseph-Boyle-6?ev=hdr_xprf">ResearchGate</a>
 - <a href="https://orcid.org/0000-0001-6694-1020">ORCID</a>
