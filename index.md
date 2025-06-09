@@ -20,7 +20,7 @@ Just a holding space for recent things I'm excited about:
   <details> 
 <summary> Lead </summary> <p>
 <ul>
-<li> <a>href="https://linktr.ee/seagrassSES">Meadows, Memories, and Missing Layers</a> (2022- )</li>
+<li> <a href="https://linktr.ee/seagrassSES">Meadows, Memories, and Missing Layers</a> (2022- )</li>
 <li>Just Maps (2023- )</li>
 <li>Co-Producing Principles for Engaging UK Schools with Nature (2024- ) </li>
 <li>Citizen Science with City Nature Challenge and iNaturalist (2021- ), as organiser for Edinburgh and Glasgow, and as a community engagement and biodiversity survey activity with Worcester College, Oxford and Kilómetro Uno</li>
