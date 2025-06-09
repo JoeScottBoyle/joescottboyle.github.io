@@ -19,11 +19,11 @@ Just a holding space for recent things I'm excited about:
 </summary><details> 
 <summary> Lead </summary>
   
-* [Meadows, Memories, and Missing Layers](https://linktr.ee/seagrassSES) (2022- )
-* Just Maps (2023- )
-* Co-Producing Principles for Engaging UK Schools with Nature (2024- )
-* Citizen Science with City Nature Challenge and iNaturalist (2021- ), as organiser for Edinburgh and Glasgow, and as a community engagement and biodiversity survey activity with Worcester College, Oxford and Kilómetro Uno
-* [Sanday's Seagrass and SDGs: co-design from beach to classroom](https://www.rgs.org/in-the-field/grants/teacher-grants/innovative-geography-teaching-grants#:~:text=2024%3A%20Joseph%20Boyle%20(University%20of%20Oxford)%2C%20Kate%20Hooper%20and%20Joanna%20Jones%20(Sanday%20Community%20School).%C2%A0%27Sanday%27s%20Seagrass%20and%20SDGs%3A%20co%2Ddesign%20from%20beach%20to%20classroom%27) (2024-5) Royal Geographic Society Innovative Geography Teaching Grant
+- [Meadows, Memories, and Missing Layers](https://linktr.ee/seagrassSES) (2022- )
+- Just Maps (2023- )
+- Co-Producing Principles for Engaging UK Schools with Nature (2024- )
+- Citizen Science with City Nature Challenge and iNaturalist (2021- ), as organiser for Edinburgh and Glasgow, and as a community engagement and biodiversity survey activity with Worcester College, Oxford and Kilómetro Uno
+- [Sanday's Seagrass and SDGs: co-design from beach to classroom](https://www.rgs.org/in-the-field/grants/teacher-grants/innovative-geography-teaching-grants#:~:text=2024%3A%20Joseph%20Boyle%20(University%20of%20Oxford)%2C%20Kate%20Hooper%20and%20Joanna%20Jones%20(Sanday%20Community%20School).%C2%A0%27Sanday%27s%20Seagrass%20and%20SDGs%3A%20co%2Ddesign%20from%20beach%20to%20classroom%27) (2024-5) Royal Geographic Society Innovative Geography Teaching Grant
 - [Green Connectors](https://community.rspb.org.uk/ourwork/b/scotland/posts/green-connectors-community-planting-day-in-glasgow) (2020-2?), including Pedal-Powered Planting Party
 - <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FgoConnectatglenoaks%2Fposts%2Fpfbid0o73F98V9F1TEQmdT44KEZ6ifsD9WxmM4j3dvcLATqxBcwmKNWpJp2mGBE6JXj1QJl&show_text=true&width=500" width="500" height="635" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> (2021-2)
 - [Integrated Community Management of Green Space](https://drive.google.com/open?id=1xpuQTXay520DxCK7fhQyr8PKAMOn1YHO) (2013-7), _Fombling Around_ [blog](https://fomblingaround.blogspot.com/)
@@ -52,7 +52,7 @@ Just a holding space for recent things I'm excited about:
 - Skills for Change (2013-5)
 
 </details> 
-
+</details>
 
 <details> 
 <summary> <b>Research</b>
