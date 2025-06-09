@@ -54,7 +54,9 @@ Just a holding space for recent things I'm excited about:
 </details> 
 
 
-### Research 
+<details> 
+<summary> <b>Research</b>
+</summary>  
 <details> 
 <summary> Publications </summary>
   
