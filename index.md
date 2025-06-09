@@ -14,8 +14,9 @@ Just a holding space for recent things I'm excited about:
 <script src="https://static.elfsight.com/platform/platform.js" async></script>
 <div class="elfsight-app-9e664c79-7991-4350-993a-065e447cf21a" data-elfsight-app-lazy></div>
 
-### Projects
 <details> 
+<summary> <b>Projects</b>
+</summary><details> 
 <summary> Lead </summary>
   
 - [Meadows, Memories, and Missing Layers](https://linktr.ee/seagrassSES) (2022- )
@@ -128,8 +129,11 @@ Just a holding space for recent things I'm excited about:
 
 <a href="https://scholar.google.co.uk/citations?user=578O47kAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.researchgate.net/profile/Joseph-Boyle-6?ev=hdr_xprf">ResearchGate</a>
 
+</details>
 
-### Arts
+<details> 
+<summary> <b>Arts</b>
+</summary>
 <details> <summary> Exhibitions </summary> 
 
 - Gentili, G., <b>Boyle, J.S.</b>, Zurowski, M., 2025. Gripping a Wet Rock. Exhibition at Mote102 Gallery, Edinburgh, now held within The University of Edinburgh Collection.
@@ -169,10 +173,13 @@ Just a holding space for recent things I'm excited about:
 - [Archie Crofton](https://www.weintrigue.com/)
 
 </details>
+</details>
 
 
-### Invited Talks
-
+<details> 
+<summary> <b>Invited talks</b>
+</summary>
+  
 - Mapping the Sea: Place, Power, and Participation (with participatory mapping workshop). CETYS University, Tijuana, Mexico, 10/4/25
 - Just Maps: Critical Cartography at Sea. The University of Oxford, Oxford, UK, 12/3/25
 - Practices and principles of re-engaging young people with nature (with Kim Polgreen). Healthy Ecosystem Restoration in Oxfordshire, Oxford, UK, 12/3/25
@@ -185,8 +192,12 @@ Just a holding space for recent things I'm excited about:
 - The Flora of the Changing Arctic. South London Botanical Institute, London, UK, 14/11/20
 - Several talks, webinars, and sympsia organised independently, for the RSPB, and the University of Oxford.
 
-### Other Media
+</details>
+
 <details> 
+<summary> <b>Other media</b>
+</summary>
+  <details> 
 <summary> Writing </summary>
 
 - [City Nature Challenge at Worcester](https://www.worc.ox.ac.uk/wp-content/uploads/2024/08/WORCESTER-Magazine-2024.pdf), 2024. *Worcester Magazine* 
@@ -215,10 +226,12 @@ Just a holding space for recent things I'm excited about:
 - Original music, featured in the animation above
 
 </details>
+</details>
 
-
-### Education & Engagement
-
+<details> 
+<summary> <b>Education & engagement</b>
+</summary>
+  
 - [Generación SEA](https://www.kilometrouno.org/programas) with [Kilómetro Uno](https://www.kilometrouno.org/) (2024-)
 - [Sanday's Seagrass and SDGs: co-design from beach to classroom](https://www.rgs.org/in-the-field/grants/teacher-grants/innovative-geography-teaching-grants#:~:text=2024%3A%20Joseph%20Boyle%20(University%20of%20Oxford)%2C%20Kate%20Hooper%20and%20Joanna%20Jones%20(Sanday%20Community%20School).%C2%A0%27Sanday%27s%20Seagrass%20and%20SDGs%3A%20co%2Ddesign%20from%20beach%20to%20classroom%27) (2024-5) Royal Geographic Society Innovative Geography Teaching Grant
 - University of Oxford (2023-5)
@@ -227,7 +240,12 @@ Just a holding space for recent things I'm excited about:
 - Mozambique Wildlife Conservation (2018)
 - Skills for Change (2013-7)
 
-### Fieldwork & Outdoor Leadership
+</details>
+
+### 
+<details> 
+<summary> <b>Fieldwork & Outdoor Leadership</b>
+</summary>
 
 - Orkney/Cairngorms/Renfrewshire/Clyde, Scotland (2017- ). Various SCUBA, snorkel, boat, drone, alpine, community engagement, curriculum-focused learning, volunteer management, reserve management
 - Tijuana, Mexico (2024, 2025). Snorkel and community engagement
@@ -239,6 +257,7 @@ Just a holding space for recent things I'm excited about:
 - Yukon, Canada (2015). Research assistant for remote island and alpine work with [Team Shrub](https://teamshrub.com/)
 - Straits of Gibraltar, Spain (2013, 2014). Cetacean research assistant and boathand
 
+</details>
 
 ### Contact
 
