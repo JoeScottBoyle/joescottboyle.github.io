@@ -204,7 +204,7 @@ Just a holding space for recent things I'm excited about:
 </details>
 
 <details> 
-<summary> Residencies and Camps </summary>
+<summary><b>Residencies and Camps</b></summary>
 <ul>
 <li>Earthwatch Science Camp 2025, Oxford</li>
 <li>Climate Camp Scotland 2022, St Fittick's Park, Torry, Aberdeen</li>
@@ -281,7 +281,7 @@ Just a holding space for recent things I'm excited about:
 </details>
 
 <details> 
-<summary> Grants and Awards </summary>
+<summary> <b>Grants and Awards</b> </summary>
 <ul>
 <li>Examiner's Award</li>
 <li>PCER fund</li>
