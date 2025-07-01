@@ -204,6 +204,15 @@ Just a holding space for recent things I'm excited about:
 </details>
 
 <details> 
+<summary> Residencies and Camps </summary>
+<ul>
+<li>Earthwatch Science Camp 2025, Oxford</li>
+<li>Climate Camp Scotland 2022, St Fittick's Park, Torry, Aberdeen</li>
+<li>Climate Camp Scotland 2021, Mossmorran, Fife</li>
+</ul>
+</details>
+
+<details> 
 <summary> <b>Other media</b>
 </summary>
   <details> 
@@ -268,6 +277,15 @@ Just a holding space for recent things I'm excited about:
 <li>Hurghada, Egypt (2018). SCUBA guiding and instructing</li>
 <li>Yukon, Canada (2015). Research assistant for remote island and alpine work with [Team Shrub](https://teamshrub.com/)</li>
 <li>Straits of Gibraltar, Spain (2013, 2014). Cetacean research assistant and boathand</li>
+</ul>
+</details>
+
+<details> 
+<summary> Grants and Awards </summary>
+<ul>
+<li>Examiner's Award</li>
+<li>PCER fund</li>
+<li>James Rennie Bequest</li>
 </ul>
 </details>
 
