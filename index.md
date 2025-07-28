@@ -16,7 +16,7 @@ Just a holding space for recent things I'm excited about:
 <div class="elfsight-app-9e664c79-7991-4350-993a-065e447cf21a" data-elfsight-app-lazy></div>
 
 <details> 
-<summary> <b>Projects</b>
+<summary> <b> Projects</b>
 </summary>
   <details> 
 <summary> Lead </summary> <p>
@@ -59,7 +59,7 @@ Just a holding space for recent things I'm excited about:
 </details>
 
 <details> 
-<summary> <b>Research</b>
+<summary> <b> Research</b>
 </summary>  
 <details> 
 <summary> Publications </summary>
@@ -141,7 +141,7 @@ Just a holding space for recent things I'm excited about:
 </details>
 
 <details> 
-<summary> <b>Arts</b>
+<summary> <b> Arts</b>
 </summary>
 <details> <summary> Exhibitions </summary> 
 <ul>
@@ -186,7 +186,7 @@ Just a holding space for recent things I'm excited about:
 
 
 <details> 
-<summary> <b>Invited talks</b>
+<summary> <b> Invited talks</b>
 </summary>
 <ul> 
 <li>[Mapping the Sea: Place, Power, and Participation](https://www.linkedin.com/posts/joe-scott-boyle_seascapes-restoration-education-activity-7317603816294473729-jrbu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtlBu0B9jiQdLU8wedipHkzT2SqlafIHEk). CETYS University, Tijuana, Mexico, 10/4/25</li>
@@ -204,7 +204,7 @@ Just a holding space for recent things I'm excited about:
 </details>
 
 <details> 
-<summary><b>Residencies and Camps</b></summary>
+<summary><b> Residencies & camps</b></summary>
 <ul>
 <li>Earthwatch Science Camp 2025, Oxford</li>
 <li>Climate Camp Scotland 2022, St Fittick's Park, Torry, Aberdeen</li>
@@ -213,7 +213,7 @@ Just a holding space for recent things I'm excited about:
 </details>
 
 <details> 
-<summary> <b>Other media</b>
+<summary> <b> Other media</b>
 </summary>
   <details> 
 <summary> Writing </summary>
@@ -250,7 +250,7 @@ Just a holding space for recent things I'm excited about:
 </details>
 
 <details> 
-<summary> <b>Education & engagement</b>
+<summary> <b> Education & engagement</b>
 </summary>
 <ul>
 <li><a href="https://www.kilometrouno.org/programas">Generación SEA</a> for Kilómetro Uno (2024- )</li>
@@ -265,7 +265,7 @@ Just a holding space for recent things I'm excited about:
 </details>
 
 <details> 
-<summary> <b>Fieldwork & outdoor leadership</b>
+<summary> <b> Fieldwork & outdoor leadership</b>
 </summary>
 <ul>
 <li>Orkney/Cairngorms/Renfrewshire/Clyde, Scotland (2017- ). Various SCUBA, snorkel, boat, drone, alpine, community engagement, curriculum-focused learning, volunteer management, reserve management</li>
@@ -281,7 +281,7 @@ Just a holding space for recent things I'm excited about:
 </details>
 
 <details> 
-<summary> <b>Grants and Awards</b> </summary>
+<summary> <b> Grants & awards</b> </summary>
 <ul>
 <li>Examiner's Award</li>
 <li>PCER fund</li>
