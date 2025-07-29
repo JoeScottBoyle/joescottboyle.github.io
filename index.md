@@ -189,9 +189,9 @@ Just a holding space for recent things I'm excited about:
 <summary> <b> Invited talks</b>
 </summary>
 <ul> 
-<li>[Mapping the Sea: Place, Power, and Participation](https://www.linkedin.com/posts/joe-scott-boyle_seascapes-restoration-education-activity-7317603816294473729-jrbu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtlBu0B9jiQdLU8wedipHkzT2SqlafIHEk). CETYS University, Tijuana, Mexico, 10/4/25</li>
+<li><a href="https://www.linkedin.com/posts/joe-scott-boyle_seascapes-restoration-education-activity-7317603816294473729-jrbu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtlBu0B9jiQdLU8wedipHkzT2SqlafIHEk">Mapping the Sea: Place, Power, and Participation</a>. CETYS University, Tijuana, Mexico, 10/4/25</li>
 <li>Just Maps: Critical Cartography at Sea. The University of Oxford, Oxford, UK, 12/3/25</li>
-<li>Practices and principles of re-engaging young people with nature (with Kim Polgreen). Healthy Ecosystem Restoration in Oxfordshire, Oxford, UK, 12/3/25</li>
+<li><a href="https://www.youtube.com/watch?v=rQmT8nQdi1k">Practices and principles of re-engaging young people with nature (with Kim Polgreen)</a>. Healthy Ecosystem Restoration in Oxfordshire, Oxford, UK, 12/3/25</li> 
 <li>Mapping Seagrass Space and Place. Project Seagrass, online, 14/1/25</li>
 <li>Meadows, Memories, and Missing Layers. Oxford Deep Blue, Oxford, UK, 26/11/24</li>
 <li>Critical Cartography. Oxford Action for Palestine Summer School, online, 28/8/24</li>
