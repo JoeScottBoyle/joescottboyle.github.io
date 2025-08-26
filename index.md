@@ -155,6 +155,115 @@ Just a holding space for recent things I'm excited about:
 <ul>
 <li>Gentili, G., <b>Boyle, J.S.</b>, 2025. Gripping a Wet Rock. Exhibition at Mote102 Gallery, Edinburgh, now held within The University of Edinburgh Collection. Text available on request</li>
 <li><b>Boyle, J.S.</b>, Randhawa, H., 2024.  <a href="https://artreviewoxford.com/issues/ARO%208.pdf">Who Grieves for Rivers? A Correspondence.</a> <i>Art Review Oxford</i>.</li>
+  <details>
+    
+Dear Joe,
+
+Recently I came across this postcard at Modern Art Oxford that had an artwork by Kiki Smith, Pool of Tears II, which was shown as part of her show I am a Wanderer in 2020. With a young female figure swimming in the dark waters with a group of animals following/accompanying her from behind, I couldn't help but think about the story of the Skywoman when looking at this image. 
+
+The Skywoman, who fell from the Skyworld into a world full of darkness, water and no land with sweetgrass clenched in her hand. As Kimmerer brings to our attention in Braiding Sweetgrass the “original woman (Skywoman) was herself an immigrant” who descended on our world with “nothing but a handful of seeds and the slimmest of instructions to “use your gifts and dreams for good””. Another wanderer who wandered too far bearing gifts for the beings of the dark waters. Adham Faramawy’s recent film And these deceitful waters, 2023 comes to my mind too.
+
+In particular, I am reminded of the prints they made of film stills Welcome Newcomers III, in support of the Southward Day Centre for Asylum Seekers Charity. The photo pictures the performers knee-deep in the seawater on the shore of seven sisters, with their arms open welcoming the wanderers perhaps? 
+
+The Skywoman? The migrants? The refugees? All who are connected by or find themselves floating on and across the rivers and the seas? 
+
+Wondering and wandering 
+
+Harman 
+
+___________________________________________________________________________
+
+
+Dear Harman,
+
+Waters are many things to many people. To see them used as a weapon, especially by our government, breaks my heart.
+
+Today, at Port Meadow, I thought about Adham’s film. Funny that we see ‘waters’ as fixed relative to land, when the waters themselves pass through. From source to sea to sky and back through rock, bodies, and air, perhaps we need to confine them in some way. If waters can be deceitful, how do they think? I wonder how the Thames would consider its own history, between geologic meandering and a kingfisher’s splash. If the waters up here know those city waters. Whether these become those? I’d imagine rivers might feel mixed, enabling so much cruelty and so much beauty. It feels insensitive to bring them up together, but I suppose rivers are always dual: connecting and separating, quenching and submerging, giving and taking and all the time flowing. 
+
+Perhaps we could ask the Whanganui, Klamath, Mutuhekau Shipu, or any river living in Bangladesh. They’re all considered legal persons. The Amazon too, though recognised 22 years behind their slippery, twisted namesake. I wonder what a river might think about that. Maybe they’re more concerned with actions than words. One day we might know, I’m sure plenty of other people already do. What would a river’s date of birth be?
+
+Soaking and flooding define Port Meadow’s flat, open, dynamic ecology. Is the ecology the work of the river? Creativity? Mourning? Resistance? The sheer thrill of running over and through land? Maybe it’s none of them, or something incomprehensible (at least to me). 
+
+Yours swimmingly,
+Joe
+
+___________________________________________________________________________
+
+
+Dear Joe,
+
+It makes me happy to know how Adham’s film has stayed with you. A few weeks after seeing the film at the Frieze Art Fair I asked Adham about how having the chopped logs of Oak in the exhibition space as seats situated with the film that unearths a long history of imperial violence against nature. To that they responded, “I don’t think a clean-cut or comfortable narrative exists here”. So yes, our rivers must have very mixed feelings but I also wonder if the waters knew where the ships were going in the 15th century, and what the people on the ships were doing under the namesake of “explorers”, would they have let them across?
+
+Reading your text I remembered that I myself come from the land of 5 rivers, Punjab. Almost ashamed of not knowing their names from the top of my head I did not think that someone who lived on a land where life was built around the water bodies could feel so distant from them. Even if I wanted to I could have not gotten to know them all 5. Only Sutlej, Beas and Ravi flow through in today’s Punjab of India; Chenab and Jhelum separated from her sisters by the Radcliffe line now flow in the Punjab of Pakistan. 
+
+“They wanted a line before or on 15 August, so I drew them a line” 
+Cyril Radcliffe 
+
+How does a man who never even stepped on the land get to tear her apart like this? Like you ask I too wonder how the rivers felt of this… 
+
+
+With love,
+
+Harman 
+
+P.S. I am performing as a river figure in a performance at Modern Art Oxford tonight, I hope to see you there x
+
+P.P.S. Maybe we do have an answer to that. Earlier this year, heavy monsoon rain flooded hundreds of villages along Sutlej in both India and Pakistan. The river wept with anger across the lands bounded by the borders of the nation-state but, sadly the government officials found an excuse to turn this humanitarian crisis into a blame game of their own pointing fingers at the opposition parties.
+
+The colonial thirst for power remains prevalent in the state, and the caretakers of these natural bodies suffer the most.    
+
+___________________________________________________________________________
+
+
+Dear Harman,
+
+Just back from SEAXBURH, what a brilliant show! I loved your embodiment of the river figure as generous and dynamic but understated, moving fluidly, subtly, not dominating while powering so much. I think you’re just the person to ask how rivers might feel. Who might grieve for the rivers?
+Thinking of rivers, territory, and colonisation, The Gambia comes to mind. The smallest country on the continent most shaped by other peoples’ lines on other peoples’ maps, its borders were placed about 10 miles beyond the banks of the Gambia River, pushing upstream to the furthest navigable reaches. Beyond that point of impenetrability, the river continues into Senegal (which envelops The Gambia). Why draw a line beyond what you can exploit?
+The river made this land useful to the Portuguese, Dutch, British, French, and earlier the Arabs and Mali and Ghana Empires. Colonisers and merchants alike sailed these waters to steal or trade gold, ivory, and people from continental depths to global markets. Three million people over three centuries plus untold others. Following colonisation, half the population live in poverty as the river ecosystem collapses, bounded by some of Africa’s most-damaged forests. Floods, rising seas, sewage, and crocodiles plague The Gambia under climate change. Resilience is sought through restoring forests which once protected the land, waters, and people. 
+Some say ‘Gambia’ comes from the Portuguese ‘câmbio’, to exchange or trade. Stories tell of British boats firing cannons from the river, claiming everything within artillery range. These tales are historically accurate in spirit if not letter.
+
+Solemnly,
+Joe
+
+___________________________________________________________________________
+
+
+Dear Joe,
+
+It was quite the performance at MAO. As advertised on Instagram, the performance did involve a “boat, a large eel, a lot of lily petals and some surgical sewing”, how theatrical!
+
+Though, after speaking to some friends and mentors, I find myself questioning my involvement in it. Distressed by the nature of the performance and the (mis)use of the corpse of the eel in the basement of a white cube gallery, a friend found seeing me and my brown body in the performance very confusing. It was almost as if my racialised presence, even if peripheral in the performance, facilitated a sort of sitting-with-the-performance for them, when in fact they would have walked out of the room long before it finished. 
+
+Like the eel, I feel like a tool. 
+
+Except that I chose to be there and she did not. 
+
+I remember we went through an extensive Code of Conduct outlining the values we had to comply with when visiting the Department of Physiology, Anatomy and Genetics to do anatomical studies of human cadavers. Where was this document in the gallery where the corpse of the Eel was not just put on display but also handled in my and other performers' bare hands with surgical suturing being performed on it? It seems that in the act of weaving together of “stories of human and more-than-human encounters” the performance reproduces the same imperial patterns separating (white) human and the other. The other that is meant to be “captured, named, displayed, to define what it is, or rather what the (imperial) eye/I is not”.
+
+Going back to your question “Who might grieve for the rivers?” I think it is the beings who exist in this very category of the Other. I am thinking about the recurring images in Adham’s film where we see a triangle of Othered bodies connected by the water and air upheld by the earth beneath them. Moving with the river, they raise their hands in prayer, releasing them upward and outward. A sort of sharing/remembering of gifts takes place here.
+
+Remembering who we forgot, the Skywoman and the blessings she bestowed upon us
+
+
+Harman 
+
+___________________________________________________________________________
+
+
+Dear Harman,
+
+I often wonder about rivers from an ecologist’s standpoint. Fresh, liquid water covers 0.5% of Earth’s surface, but holds 1/10 known lifeforms and supports most of the rest. Maybe that twentyfold skew reflects where we settle/live/look, but I think there’s more to it. Rivers flow life. Lives twice as threatened as those playing out across lands or oceans, while receiving less research and policy attention. SEAXBURH’s focus, the marvellous and mysterious European eel, is critically endangered, declining up to 98% since the 70s. Might more people come to know rivers and the lives they hold? We’ll certainly all miss them.
+
+As waters lose life, they bring ever more death. Some through finger-pointing across misplaced lines drawn to control people, others through vain attempts to control water itself. I recently watched Vale? by Marcelo Barbosa and Paul Heritage, detailing the negligent horror of the Brumadinho dam disaster alongside local artists’ resilience in expressing their grief. Despite repeated safety warnings, the mining company who owned the dam killed 270 people with a flood of toxic waste-'water'. The company, Vale, was formerly known as Companhia Vale do Rio Doce (the Sweet River Valley Company). 11 people remain missing five years on, carried out of sight of those responsible and reach of those mourning. The same waters spread toxins throughout the São Francisco river basin, poisoning human and non-human communities.
+
+St Francis of Assisi is the patron saint of poor people and ecology. Poverty and ecology have always been linked, whether by tangible impacts of ecological harm on people (or ecologies recognised as people and vice versa), or neo-colonial conservation blaming Indigenous, traditional, or rural lifeways for ‘degradation’. Do some really consider interaction with poor people inherently degrading?
+
+I suppose those who grieve lost ecologies will always be the ‘others’ fighting to keep them alive, whether through story, care, harvest, reliance, or resistance.
+
+Take care,
+Joe
+
+  </details>
 </ul>
 </details> 
 
