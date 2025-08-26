@@ -5,7 +5,7 @@ Thanks for making it this far, I hope you find something interesting. This websi
 
 
 ### Featured Work
-Just a holding space for recent things I'm excited about:
+A holding space for recent things I'm excited about:
 ##### Art: Gripping a Wet Rock. Exhibition and workshop at Mote102 Gallery, Edinburgh, now held within The University of Edinburgh Collection
 ##### Project: [Meadows, Memories, and Missing Layers](https://linktr.ee/seagrassSES)
 ##### Paper: [Bridging Land and Seascape Restoration for Ecoscape Recovery](https://rdcu.be/epSO1). *npj Ocean Sustainability*
@@ -155,8 +155,7 @@ Just a holding space for recent things I'm excited about:
 <ul>
 <li>Gentili, G., <b>Boyle, J.S.</b>, 2025. Gripping a Wet Rock. Exhibition at Mote102 Gallery, Edinburgh, now held within The University of Edinburgh Collection. Text available on request</li>
 <li><b>Boyle, J.S.</b>, Randhawa, H., 2024.  <a href="https://artreviewoxford.com/issues/ARO%208.pdf">Who Grieves for Rivers? A Correspondence.</a> <i>Art Review Oxford</i>.</li>
-  <details>
-    
+  <details> <summary> Full text </summary> 
 Dear Joe,
 
 Recently I came across this postcard at Modern Art Oxford that had an artwork by Kiki Smith, Pool of Tears II, which was shown as part of her show I am a Wanderer in 2020. With a young female figure swimming in the dark waters with a group of animals following/accompanying her from behind, I couldn't help but think about the story of the Skywoman when looking at this image. 
