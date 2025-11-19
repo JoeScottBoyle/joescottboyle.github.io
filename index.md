@@ -6,7 +6,7 @@ Thanks for making it this far, I hope you find something interesting. This websi
 
 ### Featured Work
 A holding space for recent things I'm excited about:
-##### Art: Gripping a Wet Rock. Exhibition and workshop at Mote102 Gallery, Edinburgh, now held within The University of Edinburgh Collection
+##### Art: Gripping a Wet Rock. Exhibition and workshop at Mote102 Gallery, Edinburgh, now held within The University of Edinburgh Collection. Text available <a href="https://static1.squarespace.com/static/52f5eb0ee4b013e3f9433ecd/t/67d41dd5b88acd6f81400b59/1741954518356/Giulia+Gentili++booklet+low+res.pdf">here</a>.
 ##### Project: [Meadows, Memories, and Missing Layers](https://linktr.ee/seagrassSES)
 ##### Paper: [Bridging Land and Seascape Restoration for Ecoscape Recovery](https://rdcu.be/epSO1). *npj Ocean Sustainability*
 ##### Talk: [Mapping the Sea: Place, Power, and Participation](https://www.linkedin.com/posts/joe-scott-boyle_seascapes-restoration-education-activity-7317603816294473729-jrbu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtlBu0B9jiQdLU8wedipHkzT2SqlafIHEk) at CETYS University
@@ -23,8 +23,16 @@ A holding space for recent things I'm excited about:
 <ul>
 <li> <a href="https://linktr.ee/seagrassSES">Meadows, Memories, and Missing Layers</a> (2022- )</li>
 <li>Just Maps (2023- )</li>
+<li>Brighton’s Lost River (2024- )</li>
+  <details> <summary> Sample text </summary> 
+    When the house that my brother was born in was built, a river flowed past the bottom of the hill. Splashing in his birthing pool is my earliest memory. Fishing off the marina arm, my dad would tell stories of his first job in Brighton building these walls, of welding underwater, and working in and on the sea. Water has always been a guide for me, through to my current life as a diver and marine biologist. And despite this, I spent my childhood on the banks of a river I never knew existed.
+
+The Wellesbourne connected the downs to the sea each winter, from Patcham to Pool Valley, but hasn't flowed since 1899. Brighton’s 11th century name of Bristelmestune describes a settlement divided by water. Flows of a different kind still run along this riverbed, only now we call it London Road. 
+
+Modern ecology embraces human connections in an age of repair and deeper understanding of what's been lost. Restoring a seasonal river along a city's main road is unfeasible. But if we embrace ecosystems’ humanistic, cultural, and intangible personal values, is there benefit to imagining what such a river has been? Would be? Walking from source to sea, past great trees and iconic buildings that knew this river well, through a city that still bears its name, I feel there must be. The gentle meanders of the A23 tell me so.
+</details> 
 <li>Co-Producing Principles for Engaging UK Schools with Nature (2024- ) </li>
-<li>Citizen Science with City Nature Challenge and iNaturalist (2021- ), as organiser for Edinburgh and Glasgow, and as a community engagement and biodiversity survey activity with Worcester College, Oxford and Kilómetro Uno</li>
+<li>Citizen Science with City Nature Challenge and iNaturalist (2021- ), as an iNaturalist ambassador, organiser for Edinburgh and Glasgow, and for community engagement and biodiversity survey activities with Worcester College, Oxford and Kilómetro Uno</li>
 <li><a href="https://www.rgs.org/in-the-field/grants/teacher-grants/innovative-geography-teaching-grants#:~:text=2024%3A%20Joseph%20Boyle%20(University%20of%20Oxford)%2C%20Kate%20Hooper%20and%20Joanna%20Jones%20(Sanday%20Community%20School).%C2%A0%27Sanday%27s%20Seagrass%20and%20SDGs%3A%20co%2Ddesign%20from%20beach%20to%20classroom%27)">Sanday's Seagrass and SDGs: co-design from beach to classroom</a> Royal Geographic Society Innovative Geography Teaching Grant (2024-5) </li>
 <li><a href="https://community.rspb.org.uk/ourwork/b/scotland/posts/green-connectors-community-planting-day-in-glasgow">Green Connectors</a> (2020-2), including Pedal-Powered Planting Party
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FgoConnectatglenoaks%2Fposts%2Fpfbid0o73F98V9F1TEQmdT44KEZ6ifsD9WxmM4j3dvcLATqxBcwmKNWpJp2mGBE6JXj1QJl&show_text=true&width=500" width="500" height="635" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> </li>
@@ -38,7 +46,8 @@ A holding space for recent things I'm excited about:
 <ul>
 <li>Authentic Brew Foundation, rewilding people and places (2024- , I lead conservation and biodiversity, project led by Authentic Brew)</li> 
 <li>Generación SEA (2024- , I lead the research write-up, project led by Kilómetro Uno)</li>
-<li>Gripping a Wet Rock (2024-5, I co-wrote the exhibition text and co-led the workshop, project led by Giulia Gentili)</li>
+<li><a href="https://hotpoets.org/">Hot Poets</a> Wonder Thunder Blunder poetry collection (2025, I was seagrass consultant for poet <a href="https://www.ionalee.com/">Iona Lee</a>)</li>
+<li>Gripping a Wet Rock (2024-5, I co-wrote the exhibition <a href="https://static1.squarespace.com/static/52f5eb0ee4b013e3f9433ecd/t/67d41dd5b88acd6f81400b59/1741954518356/Giulia+Gentili++booklet+low+res.pdf">text</a> and co-led the workshop, project led by Giulia Gentili)</li>
 <li>Biosecurity for Life (2021-2, I led the co-designed education package and paper write-up, project led by RSPB Biosecurity for Life)</li>
 <li>COP26 <a href="https://x.com/RSPBGlasgow/status/1468188540064260098">Nature-based Solutions Garden</a> at Glasgow Botanic Gardens (2021, I led operations and volunteer management, project led by RSPB Giving Nature a Home Glasgow)</li>
   <li> <a href="https://linktr.ee/seagrassSES">Meadows, Memories, and Missing Layers</a> (2022- )</li>
@@ -64,6 +73,7 @@ A holding space for recent things I'm excited about:
 <details> 
 <summary> Publications </summary>
 <ul>  
+<li>Fälthammar De Jong, G., Gallois, E., <b>Boyle, J.S.</b>, Grenier, M., Myers‐Smith, I.H., Bjorkman, A., 2025. Time‐lapse cameras bridge the gap between remote sensing and in situ observations of tundra phenology. <i>Methods Ecol Evol</i> 2041–210X.70188. https://doi.org/10.1111/2041-210X.70188</li>
 <li>Wedding, L.M., Agardy, T., Green, S., <b>Boyle, J.S.</b>, Frazão Santos, C., Malhi, Y., Crowder, L.B., 2025. Bridging Land and Seascape Restoration for Ecoscape Recovery. <i>npj Ocean Sustainability 4</i>, 31, s44183-025-00133–6. https://doi.org/10.1038/s44183-025-00133-6</li> 
 <li>Wu, H., Soleiman, J., Bolam, J., <b>Boyle, J.S.</b>, 2025. Exploring a unified definition of ecological complexity towards restoration. <i>Total Environment Advances 14</i>, 200125. https://doi.org/10.1016/j.teadva.2025.200125</li>
 <li>Wilhelm, K., Lomax, T., McCarthy, L., <b>Boyle, J.S.</b>, Menon, S., Hart, A., Coombes, M., Cox, T., Hall, J., Freebody, J., 2025. The role of hybrid green spaces in secure psychiatric care. Department of Psychiatry, University of Oxford.</li> 
@@ -93,6 +103,16 @@ A holding space for recent things I'm excited about:
 <details> 
 <summary> Conferences </summary>
 <ul>
+<li>The Royal Society: Marine biodiversity loss, fishing and climate change, 2025, London, UK <b>(poster & talk)</b>.
+  Affiliation: University of Oxford</li>
+<li>Race Equality in Nature Conference, 2025, Bristol.
+  Affiliation: University of Oxford</li>
+<li>North American Association for Envirinonmental Education Conference, 2025, online <b>(receiving award)</b>.
+  Affiliation: independent</li>
+<li>Shaping the Future of AI for Conservation, 2025, Oxford, UK.
+  Affiliation: University of Oxford</li>
+<li>A Land Moot: Community Land Justice, 2025, Glasgow, UK <b>(poetry reading)</b>.
+  Affiliation: independent</li>
 <li>United Nations Ocean Conference, 2025, Nice, France <b>(workshop)</b>.
   Affiliation: Kilómetro Uno x Walter Munk Foundation for the Oceans</li>
 <li>Digital Dimensions of Nature Recovery, 2024, Oxford, UK.
@@ -105,7 +125,7 @@ A holding space for recent things I'm excited about:
   Affiliation: University of Oxford</li>
 <li>Complexity Theory and Systems Thinking with Government, 2023, Oxford, UK <b>(talk)</b>.
   Affiliation: University of Oxford</li>
-<li>COP26, 2021, Glasgow, UK <b>(community organising and activities)</b>.
+<li>COP26, 2021, Glasgow, UK <b>(community organising & activities)</b>.
   Affiliation: RSPB</li>
 <li>ArcticNet, 2020, online <b>(poster award)</b>.
   Affiliation: University of Edinburgh</li>
@@ -119,6 +139,7 @@ A holding space for recent things I'm excited about:
 <ul>
 <li><a href="https://www.kilometrouno.org/">Kilómetro Uno</a></li>
 <li><a href="https://www.oxfordseascapeecologylab.com/">Oxford Seascape Ecology Lab</a></li>
+<li><a href="https://sandaydt.org/">Sanday Development Trust</a></li>
 <li><a href="https://www.biodiversity.ox.ac.uk/project/hero/">Healthy Ecosystem Restoration in Oxfordshire</a></li>
 <li><a href="https://oxfordhealthbrc.nihr.ac.uk/research/flourishing-wellbeing/">Ecological Collective Flourishing, Univeristy of OXford Deprtment of Psychiatry</a></li>
 <li><a href="https://www.lasmmi.org">The Large-scale Seagrass Mapping and Management Initiative</a></li>
@@ -145,7 +166,7 @@ A holding space for recent things I'm excited about:
 </summary>
 <details> <summary> Exhibitions </summary> 
 <ul>
-<li>Gentili, G., <b>Boyle, J.S.</b>, Zurowski, M., 2025. Gripping a Wet Rock. Exhibition at Mote102 Gallery, Edinburgh, now held within The University of Edinburgh Collection.</li>
+<li>Gentili, G., <b>Boyle, J.S.</b>, Zurowski, M., 2025. Gripping a Wet Rock. Exhibition at Mote102 Gallery, Edinburgh, now held within The University of Edinburgh Collection. Text available <a href="https://static1.squarespace.com/static/52f5eb0ee4b013e3f9433ecd/t/67d41dd5b88acd6f81400b59/1741954518356/Giulia+Gentili++booklet+low+res.pdf">here</a>.</li>
 <li><b>Boyle, J.S.</b>, 2023. <a href="https://www.socsci.ox.ac.uk/seascapes">Mapping seagrass and the human seascape in Orkney</a>. Exhibition at Oxford Festival of Social Sciences.</li>
 <li>Team Shrub, 2017. <a href="https://teamshrub.com/2017/04/10/team-shrub-at-the-edinburgh-science-festival/">Arctic from Above</a>. Exhibition at Edinburgh Science Festival.</li>
 </ul>
@@ -153,7 +174,16 @@ A holding space for recent things I'm excited about:
 
 <details> <summary> Writing </summary> 
 <ul>
-<li>Gentili, G., <b>Boyle, J.S.</b>, 2025. Gripping a Wet Rock. Exhibition at Mote102 Gallery, Edinburgh, now held within The University of Edinburgh Collection. Text available on request</li>
+<li>Brighton’s Lost River (2024- )</li>
+  <details> <summary> Sample text </summary> 
+    When the house that my brother was born in was built, a river flowed past the bottom of the hill. Splashing in his birthing pool is my earliest memory. Fishing off the marina arm, my dad would tell stories of his first job in Brighton building these walls, of welding underwater, and working in and on the sea. Water has always been a guide for me, through to my current life as a diver and marine biologist. And despite this, I spent my childhood on the banks of a river I never knew existed.
+
+The Wellesbourne connected the downs to the sea each winter, from Patcham to Pool Valley, but hasn't flowed since 1899. Brighton’s 11th century name of Bristelmestune describes a settlement divided by water. Flows of a different kind still run along this riverbed, only now we call it London Road. 
+
+Modern ecology embraces human connections in an age of repair and deeper understanding of what's been lost. Restoring a seasonal river along a city's main road is unfeasible. But if we embrace ecosystems’ humanistic, cultural, and intangible personal values, is there benefit to imagining what such a river has been? Would be? Walking from source to sea, past great trees and iconic buildings that knew this river well, through a city that still bears its name, I feel there must be. The gentle meanders of the A23 tell me so.
+</details>
+<li><a href="https://hotpoets.org/">Hot Poets</a> Wonder Thunder Blunder poetry collection, as seagrass consultant for poet <a href="https://www.ionalee.com/">Iona Lee</a>)</li>
+<li>Gentili, G., <b>Boyle, J.S.</b>, 2025. Gripping a Wet Rock. Exhibition at Mote102 Gallery, Edinburgh, now held within The University of Edinburgh Collection. Text available <a href="https://static1.squarespace.com/static/52f5eb0ee4b013e3f9433ecd/t/67d41dd5b88acd6f81400b59/1741954518356/Giulia+Gentili++booklet+low+res.pdf">here</a>.</li>
 <li><b>Boyle, J.S.</b>, Randhawa, H., 2024.  <a href="https://artreviewoxford.com/issues/ARO%208.pdf">Who Grieves for Rivers? A Correspondence.</a> <i>Art Review Oxford</i>.</li>
   <details> <summary> Full text </summary> 
 Dear Joe,
@@ -281,6 +311,7 @@ Joe
 <li><a href="https://www.giuliagentili.com/">Giulia Gentili</a></li>
 <li><a href="https://www.instagram.com/h_a_r_m_a_n_art/?hl=en">Harmanpreet Randhawa</a></li>
 <li>Anka Stanković</li>
+<li><a href="https://www.ionalee.com/">Iona Lee</a></li>
 <li><a href="https://www.lizwilloughby.com/">Liz Willoughby</a></li>
 <li><a href="https://soundcloud.com/jonnycircles">Jonny Circles</a></li>
 <li><a href="https://www.instagram.com/ross.p.taylor/?hl=en">Ross Taylor</a></li>
@@ -297,6 +328,7 @@ Joe
 <summary> <b> Invited talks</b>
 </summary>
 <ul> 
+<li>Engaging schools with nature (with Kim Polgreen)</a>. OCR Subject Forum towards GCSE Natural History, Cambridge, UK, 24/11/25</li> 
 <li><a href="https://www.linkedin.com/posts/joe-scott-boyle_seascapes-restoration-education-activity-7317603816294473729-jrbu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtlBu0B9jiQdLU8wedipHkzT2SqlafIHEk">Mapping the Sea: Place, Power, and Participation</a>. CETYS University, Tijuana, Mexico, 10/4/25</li>
 <li>Just Maps: Critical Cartography at Sea. The University of Oxford, Oxford, UK, 12/3/25</li>
 <li><a href="https://www.youtube.com/watch?v=rQmT8nQdi1k">Practices and principles of re-engaging young people with nature (with Kim Polgreen)</a>. Healthy Ecosystem Restoration in Oxfordshire, Oxford, UK, 12/3/25</li> 
@@ -306,7 +338,7 @@ Joe
 <li><a href="https://www.linkedin.com/posts/joe-scott-boyle_we-gave-a-teach-in-at-oxfords-liberated-activity-7198728560683929601-wijW?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtlBu0B9jiQdLU8wedipHkzT2SqlafIHEk">Mapping & Resistance</a>. Liberated Zone, Oxford, UK, 20/5/24</li>
 <li>Meadows, Memories, and Missing Layers. Leverhulme Centre for Nature Recovery, Oxford, UK, 8/2/24</li>
 <li>Mapping Seagrass Space and Place. Orkney Seagrass Gathering, Kirkwall, UK, 19/6/23</li>
-<li>The Flora of the Changing Arctic. South London Botanical Institute, London, UK, 14/11/20</li>
+<li>2020 Hume Centenary Educational Lecture: The Flora of the Changing Arctic. South London Botanical Institute, London, UK, 14/11/20</li>
 <li>Several talks, webinars, and sympsia organised independently, for the RSPB, and the University of Oxford.</li>
 </ul>
 </details>
@@ -314,9 +346,11 @@ Joe
 <details> 
 <summary><b> Residencies & camps</b></summary>
 <ul>
-<li>Earthwatch Science Camp 2025, Oxford</li>
-<li>Climate Camp Scotland 2022, St Fittick's Park, Torry, Aberdeen</li>
-<li>Climate Camp Scotland 2021, Mossmorran, Fife</li>
+<li>Indigenous/Western Science interface writing workshop, 2025, Oxford</li>
+<li>Earthwatch Science Camp, 2025, Oxford</li>
+<li>Gaza Solidarity Camp, 2025, Oxford</li>
+<li>Climate Camp Scotland, 2022, St Fittick's Park, Torry, Aberdeen</li>
+<li>Climate Camp Scotland, 2021, Mossmorran, Fife</li>
 </ul>
 </details>
 
@@ -391,7 +425,9 @@ Joe
 <details> 
 <summary> <b> Grants & awards</b> </summary>
 <ul>
-<li>Examiner's Award</li>
+<li>NAAEE Environmental Educators <a href="https://naaee.org/programs/ee-30-under-30">30 under 30</a></li>
+<li>Royal Geographic Society <a href="https://www.rgs.org/exploration/grants/teaching-grants/innovative-geography-teaching-grants">innovative geography teaching grants</a></li>
+<li>University of Oxford Examiner's Award</li>
 <li>PCER fund</li>
 <li>James Rennie Bequest</li>
 </ul>
