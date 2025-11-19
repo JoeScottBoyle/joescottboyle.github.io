@@ -396,6 +396,7 @@ Take care,
 </summary>
 <ul>
 <li><a href="https://www.kilometrouno.org/programas">Generación SEA</a> for Kilómetro Uno (2024- )</li>
+<li><a href="https://www.youtube.com/watch?v=rQmT8nQdi1k">Practices and principles of re-engaging young people with nature (with Kim Polgreen)</a>.</li>
 <li><a href="https://www.rgs.org/in-the-field/grants/teacher-grants/innovative-geography-teaching-grants#:~:text=2024%3A%20Joseph%20Boyle%20(University%20of%20Oxford)%2C%20Kate%20Hooper%20and%20Joanna%20Jones%20(Sanday%20Community%20School).%C2%A0%27Sanday%27s%20Seagrass%20and%20SDGs%3A%20co%2Ddesign%20from%20beach%20to%20classroom%27">Sanday's Seagrass and SDGs: co-design from beach to classroom</a> (2024-5) Royal Geographic Society Innovative Geography Teaching Grant</li>
 <li>University of Oxford (2023-5)</li>
 <li>RSPB (2019-22)</li>
