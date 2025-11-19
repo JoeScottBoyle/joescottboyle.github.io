@@ -350,6 +350,7 @@ Take care,
 <li>Oxford Liberated Zone, Gaza Solidarity Camp, 2025, Oxford</li>
 <li>Climate Camp Scotland, 2022, St Fittick's Park, Torry, Aberdeen</li>
 <li>Climate Camp Scotland, 2021, Mossmorran, Fife</li>
+<li><a href="https://www.eshc.coop/">Edinburgh Student Housing Co-operative</a>, 2014-7, Edinburgh</li>
 </ul>
 </details>
 
