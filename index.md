@@ -26,9 +26,9 @@ A holding space for recent things I'm excited about:
 <li>Brighton’s Lost River (2024- )</li>
   <details> <summary> Sample text </summary> 
     When the house that my brother was born in was built, a river flowed past the bottom of the hill. Splashing in his birthing pool is my earliest memory. Fishing off the marina arm, my dad would tell stories of his first job in Brighton building these walls, of welding underwater, and working in and on the sea. Water has always been a guide for me, through to my current life as a diver and marine biologist. And despite this, I spent my childhood on the banks of a river I never knew existed.
-
+<br /><br />
 The Wellesbourne connected the downs to the sea each winter, from Patcham to Pool Valley, but hasn't flowed since 1899. Brighton’s 11th century name of Bristelmestune describes a settlement divided by water. Flows of a different kind still run along this riverbed, only now we call it London Road. 
-
+<br /><br />
 Modern ecology embraces human connections in an age of repair and deeper understanding of what's been lost. Restoring a seasonal river along a city's main road is unfeasible. But if we embrace ecosystems’ humanistic, cultural, and intangible personal values, is there benefit to imagining what such a river has been? Would be? Walking from source to sea, past great trees and iconic buildings that knew this river well, through a city that still bears its name, I feel there must be. The gentle meanders of the A23 tell me so.
 </details> 
 <li>Co-Producing Principles for Engaging UK Schools with Nature (2024- ) </li>
@@ -73,7 +73,7 @@ Modern ecology embraces human connections in an age of repair and deeper underst
 <details> 
 <summary> Publications </summary>
 <ul>  
-<li>Fälthammar De Jong, G., Gallois, E., <b>Boyle, J.S.</b>, Grenier, M., Myers‐Smith, I.H., Bjorkman, A., 2025. Time‐lapse cameras bridge the gap between remote sensing and in situ observations of tundra phenology. <i>Methods Ecol Evol</i> 2041–210X.70188. https://doi.org/10.1111/2041-210X.70188</li>
+<li>Fälthammar De Jong, G., Gallois, E., <b>Boyle, J.S.</b>, Grenier, M., Myers‐Smith, I.H., Bjorkman, A., 2025. Time‐lapse cameras bridge the gap between remote sensing and in situ observations of tundra phenology. <i>Methods Ecol Evol</i> 2041–210X.70188. <a>https://doi.org/10.1111/2041-210X.70188</a></li>
 <li>Wedding, L.M., Agardy, T., Green, S., <b>Boyle, J.S.</b>, Frazão Santos, C., Malhi, Y., Crowder, L.B., 2025. Bridging Land and Seascape Restoration for Ecoscape Recovery. <i>npj Ocean Sustainability 4</i>, 31, s44183-025-00133–6. https://doi.org/10.1038/s44183-025-00133-6</li> 
 <li>Wu, H., Soleiman, J., Bolam, J., <b>Boyle, J.S.</b>, 2025. Exploring a unified definition of ecological complexity towards restoration. <i>Total Environment Advances 14</i>, 200125. https://doi.org/10.1016/j.teadva.2025.200125</li>
 <li>Wilhelm, K., Lomax, T., McCarthy, L., <b>Boyle, J.S.</b>, Menon, S., Hart, A., Coombes, M., Cox, T., Hall, J., Freebody, J., 2025. The role of hybrid green spaces in secure psychiatric care. Department of Psychiatry, University of Oxford.</li> 
@@ -177,9 +177,9 @@ Modern ecology embraces human connections in an age of repair and deeper underst
 <li>Brighton’s Lost River (2024- )</li>
   <details> <summary> Sample text </summary> 
     When the house that my brother was born in was built, a river flowed past the bottom of the hill. Splashing in his birthing pool is my earliest memory. Fishing off the marina arm, my dad would tell stories of his first job in Brighton building these walls, of welding underwater, and working in and on the sea. Water has always been a guide for me, through to my current life as a diver and marine biologist. And despite this, I spent my childhood on the banks of a river I never knew existed.
-
+<br /><br />
 The Wellesbourne connected the downs to the sea each winter, from Patcham to Pool Valley, but hasn't flowed since 1899. Brighton’s 11th century name of Bristelmestune describes a settlement divided by water. Flows of a different kind still run along this riverbed, only now we call it London Road. 
-
+<br /><br />
 Modern ecology embraces human connections in an age of repair and deeper understanding of what's been lost. Restoring a seasonal river along a city's main road is unfeasible. But if we embrace ecosystems’ humanistic, cultural, and intangible personal values, is there benefit to imagining what such a river has been? Would be? Walking from source to sea, past great trees and iconic buildings that knew this river well, through a city that still bears its name, I feel there must be. The gentle meanders of the A23 tell me so.
 </details>
 <li><a href="https://hotpoets.org/">Hot Poets</a> Wonder Thunder Blunder poetry collection, as seagrass consultant for poet <a href="https://www.ionalee.com/">Iona Lee</a>)</li>
