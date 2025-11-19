@@ -30,6 +30,7 @@ A holding space for recent things I'm excited about:
 The Wellesbourne connected the downs to the sea each winter, from Patcham to Pool Valley, but hasn't flowed since 1899. Brighton’s 11th century name of Bristelmestune describes a settlement divided by water. Flows of a different kind still run along this riverbed, only now we call it London Road. 
 <br /><br />
 Modern ecology embraces human connections in an age of repair and deeper understanding of what's been lost. Restoring a seasonal river along a city's main road is unfeasible. But if we embrace ecosystems’ humanistic, cultural, and intangible personal values, is there benefit to imagining what such a river has been? Would be? Walking from source to sea, past great trees and iconic buildings that knew this river well, through a city that still bears its name, I feel there must be. The gentle meanders of the A23 tell me so.
+<br /><br />
 </details> 
 <li>Co-Producing Principles for Engaging UK Schools with Nature (2024- ) </li>
 <li>Citizen Science with City Nature Challenge and iNaturalist (2021- ), as an iNaturalist ambassador, organiser for Edinburgh and Glasgow, and for community engagement and biodiversity survey activities with Worcester College, Oxford and Kilómetro Uno</li>
@@ -74,17 +75,17 @@ Modern ecology embraces human connections in an age of repair and deeper underst
 <summary> Publications </summary>
 <ul>  
 <li>Fälthammar De Jong, G., Gallois, E., <b>Boyle, J.S.</b>, Grenier, M., Myers‐Smith, I.H., Bjorkman, A., 2025. Time‐lapse cameras bridge the gap between remote sensing and in situ observations of tundra phenology. <i>Methods Ecol Evol</i> 2041–210X.70188. <a>https://doi.org/10.1111/2041-210X.70188</a></li>
-<li>Wedding, L.M., Agardy, T., Green, S., <b>Boyle, J.S.</b>, Frazão Santos, C., Malhi, Y., Crowder, L.B., 2025. Bridging Land and Seascape Restoration for Ecoscape Recovery. <i>npj Ocean Sustainability 4</i>, 31, s44183-025-00133–6. https://doi.org/10.1038/s44183-025-00133-6</li> 
-<li>Wu, H., Soleiman, J., Bolam, J., <b>Boyle, J.S.</b>, 2025. Exploring a unified definition of ecological complexity towards restoration. <i>Total Environment Advances 14</i>, 200125. https://doi.org/10.1016/j.teadva.2025.200125</li>
+<li>Wedding, L.M., Agardy, T., Green, S., <b>Boyle, J.S.</b>, Frazão Santos, C., Malhi, Y., Crowder, L.B., 2025. Bridging Land and Seascape Restoration for Ecoscape Recovery. <i>npj Ocean Sustainability 4</i>, 31, s44183-025-00133–6. <a>https://doi.org/10.1038/s44183-025-00133-6</a></li> 
+<li>Wu, H., Soleiman, J., Bolam, J., <b>Boyle, J.S.</b>, 2025. Exploring a unified definition of ecological complexity towards restoration. <i>Total Environment Advances 14</i>, 200125. <a>https://doi.org/10.1016/j.teadva.2025.200125</a></li>
 <li>Wilhelm, K., Lomax, T., McCarthy, L., <b>Boyle, J.S.</b>, Menon, S., Hart, A., Coombes, M., Cox, T., Hall, J., Freebody, J., 2025. The role of hybrid green spaces in secure psychiatric care. Department of Psychiatry, University of Oxford.</li> 
-<li>Wright-Arora, G., James, M., Troiano, M., Sidwell, N., <b>Boyle, J.S.</b>, Barbrook-Johnson, P., Hirons, M., 2024. The role of publics and deliberation at the environmental science-policy interface. Agile Initiative, Oxford Martin School. https://dx.doi.org/10.5287/ora-4rgdzpjnd</li> 
-<li>Wedding, L.M., Pittman, S.J., Lepczyk, C.A., Parrain, C., Puniwai, N., <b>Boyle, J.S.</b>, Goldberg, E.G., Young, M., Marty, P., Wilhelm, K., Taylor, S., Crowder, L.B., 2024. Integrating the multiple perspectives of people and nature in place-based marine spatial planning. <i>npj Ocean Sustain 3</i>, 43. https://doi.org/10.1038/s44183-024-00071-9</li> 
-<li>Troiano, M., Sidwell, N., <b>Boyle, J.S.</b>, James, M., Wright, G., Barbrook-Johnson, P., Hirons, M., 2024. Impact and collaboration in environmental research: moving universities from evidence producers to co-producers. Agile Initiative, Oxford Martin School. https://dx.doi.org/10.5287/ora-8rny1gaj9</li> 
-<li><b>Boyle, J.S.</b>, 2023. Meadows, memories, and missing layers: transdisciplinary mapping of Sanday’s seagrass towards restorative marine spatial planning (MSc). The University of Oxford. https://rgdoi.net/10.13140/RG.2.2.12630.42567</li> 
-<li><b>Boyle, J.S.</b>, Copley, L., 2022. Co-Design and Conservation: A Case-Study from RSPB Biosecurity for LIFE in Coastal and Island Primary Schools and Youth Groups Across Scotland. <i>Concept: The Journal of Contemporary Community Education Practice Theory 13</i>, 1–13. https://concept.lib.ed.ac.uk/Concept/article/view/7356</li> 
-<li><b>Boyle, J.S.</b>, Angers-Blondin, S., Assmann, J.J., Myers-Smith, I.H., 2022. Summer temperature—but not growing season length—influences radial growth of Salix arctica in coastal Arctic tundra. <i>Polar Biology 45</i>, 1257–1270. https://doi.org/10.1007/s00300-022-03074-9</li> 
-<li>Buchwal, A., Sullivan, P.F., Macias-Fauria, M., Post, E., Myers-Smith, I.H., Stroeve, J.C., Blok, D., Tape, K.D., Forbes, B.C., Ropars, P., Lévesque, E., Elberling, B., Angers-Blondin, S., <b>Boyle, J.S.</b>, Boudreau, S., Boulanger-Lapointe, N., Gamm, C., Hallinger, M., Rachlewicz, G., Young, A., Zetterberg, P., Welker, J.M., 2020. Divergence of Arctic shrub growth associated with sea ice decline. <i>PNAS 117</i>, 33334–33344. https://doi.org/10.1073/pnas.2013311117</li> 
-<li>Myers-Smith, I.H., Grabowski, M.M., Thomas, H.J.D., Angers‐Blondin, S., Daskalova, G.N., Bjorkman, A.D., Cunliffe, A.M., Assmann, J.J., <b>Boyle, J.S.</b>, McLeod, E., McLeod, S., Joe, R., Lennie, P., Arey, D., Gordon, R.R., Eckert, C.D., 2019. Eighteen years of ecological monitoring reveals multiple lines of evidence for tundra vegetation change. <i>Ecological Monographs 89</i>, e01351. https://doi.org/10.1002/ecm.1351</li>
+<li>Wright-Arora, G., James, M., Troiano, M., Sidwell, N., <b>Boyle, J.S.</b>, Barbrook-Johnson, P., Hirons, M., 2024. The role of publics and deliberation at the environmental science-policy interface. Agile Initiative, Oxford Martin School. <a>https://dx.doi.org/10.5287/ora-4rgdzpjnd</a></li> 
+<li>Wedding, L.M., Pittman, S.J., Lepczyk, C.A., Parrain, C., Puniwai, N., <b>Boyle, J.S.</b>, Goldberg, E.G., Young, M., Marty, P., Wilhelm, K., Taylor, S., Crowder, L.B., 2024. Integrating the multiple perspectives of people and nature in place-based marine spatial planning. <i>npj Ocean Sustain 3</i>, 43. <a>https://doi.org/10.1038/s44183-024-00071-9</a></li> 
+<li>Troiano, M., Sidwell, N., <b>Boyle, J.S.</b>, James, M., Wright, G., Barbrook-Johnson, P., Hirons, M., 2024. Impact and collaboration in environmental research: moving universities from evidence producers to co-producers. Agile Initiative, Oxford Martin School. <a>https://dx.doi.org/10.5287/ora-8rny1gaj9</a></li> 
+<li><b>Boyle, J.S.</b>, 2023. Meadows, memories, and missing layers: transdisciplinary mapping of Sanday’s seagrass towards restorative marine spatial planning (MSc). The University of Oxford. <a>https://rgdoi.net/10.13140/RG.2.2.12630.42567</a></li> 
+<li><b>Boyle, J.S.</b>, Copley, L., 2022. Co-Design and Conservation: A Case-Study from RSPB Biosecurity for LIFE in Coastal and Island Primary Schools and Youth Groups Across Scotland. <i>Concept: The Journal of Contemporary Community Education Practice Theory 13</i>, 1–13. <a>https://concept.lib.ed.ac.uk/Concept/article/view/7356</a></li> 
+<li><b>Boyle, J.S.</b>, Angers-Blondin, S., Assmann, J.J., Myers-Smith, I.H., 2022. Summer temperature—but not growing season length—influences radial growth of Salix arctica in coastal Arctic tundra. <i>Polar Biology 45</i>, 1257–1270. <a>https://doi.org/10.1007/s00300-022-03074-9</a></li> 
+<li>Buchwal, A., Sullivan, P.F., Macias-Fauria, M., Post, E., Myers-Smith, I.H., Stroeve, J.C., Blok, D., Tape, K.D., Forbes, B.C., Ropars, P., Lévesque, E., Elberling, B., Angers-Blondin, S., <b>Boyle, J.S.</b>, Boudreau, S., Boulanger-Lapointe, N., Gamm, C., Hallinger, M., Rachlewicz, G., Young, A., Zetterberg, P., Welker, J.M., 2020. Divergence of Arctic shrub growth associated with sea ice decline. <i>PNAS 117</i>, 33334–33344. <a>https://doi.org/10.1073/pnas.2013311117</a></li> 
+<li>Myers-Smith, I.H., Grabowski, M.M., Thomas, H.J.D., Angers‐Blondin, S., Daskalova, G.N., Bjorkman, A.D., Cunliffe, A.M., Assmann, J.J., <b>Boyle, J.S.</b>, McLeod, E., McLeod, S., Joe, R., Lennie, P., Arey, D., Gordon, R.R., Eckert, C.D., 2019. Eighteen years of ecological monitoring reveals multiple lines of evidence for tundra vegetation change. <i>Ecological Monographs 89</i>, e01351. <a>https://doi.org/10.1002/ecm.1351</a></li>
 </ul>
 </details>
 
@@ -93,9 +94,9 @@ Modern ecology embraces human connections in an age of repair and deeper underst
 <summary> Posters </summary>
 
 <ul>
-<li><b>Boyle, J.S.</b>, Lilley, R.J., Thomsen, E., Wedding, L.W., 2024. Meadows, Memories & Missing Layers: Transdisciplinary seagrass mapping towards restorative marine spatial planning (WSC2024), https://doi.org/10.13140/RG.2.2.25890.44482</li>
-<li><b>Boyle, J.S.</b>, Angers-Blondin, S., Assmann, J.J., Myers-Smith, I.H., 2020. Summer and autumn temperatures – but not growing season length – influence growth of a dwarf willow in coastal Arctic tundra (ArcticNet 2020 poster award), https://doi.org/10.13140/RG.2.2.31734.01601/1 </li>
-<li><b>Boyle, J.S.</b>, 2019. Biological Monitoring on Tooting Common (London Recorders’ Day 2019), https://doi.org/10.13140/RG.2.2.15114.08646</li>
+<li><b>Boyle, J.S.</b>, Lilley, R.J., Thomsen, E., Wedding, L.W., 2024. Meadows, Memories & Missing Layers: Transdisciplinary seagrass mapping towards restorative marine spatial planning (WSC2024), <a>https://doi.org/10.13140/RG.2.2.25890.44482</a></li>
+<li><b>Boyle, J.S.</b>, Angers-Blondin, S., Assmann, J.J., Myers-Smith, I.H., 2020. Summer and autumn temperatures – but not growing season length – influence growth of a dwarf willow in coastal Arctic tundra (ArcticNet 2020 poster award), <a>https://doi.org/10.13140/RG.2.2.31734.01601/1</a></li>
+<li><b>Boyle, J.S.</b>, 2019. Biological Monitoring on Tooting Common (London Recorders’ Day 2019), <a>https://doi.org/10.13140/RG.2.2.15114.08646</a></li>
 </ul>
 </details>
 
@@ -181,117 +182,115 @@ Modern ecology embraces human connections in an age of repair and deeper underst
 The Wellesbourne connected the downs to the sea each winter, from Patcham to Pool Valley, but hasn't flowed since 1899. Brighton’s 11th century name of Bristelmestune describes a settlement divided by water. Flows of a different kind still run along this riverbed, only now we call it London Road. 
 <br /><br />
 Modern ecology embraces human connections in an age of repair and deeper understanding of what's been lost. Restoring a seasonal river along a city's main road is unfeasible. But if we embrace ecosystems’ humanistic, cultural, and intangible personal values, is there benefit to imagining what such a river has been? Would be? Walking from source to sea, past great trees and iconic buildings that knew this river well, through a city that still bears its name, I feel there must be. The gentle meanders of the A23 tell me so.
+<br /><br />
 </details>
 <li><a href="https://hotpoets.org/">Hot Poets</a> Wonder Thunder Blunder poetry collection, as seagrass consultant for poet <a href="https://www.ionalee.com/">Iona Lee</a>)</li>
 <li>Gentili, G., <b>Boyle, J.S.</b>, 2025. Gripping a Wet Rock. Exhibition at Mote102 Gallery, Edinburgh, now held within The University of Edinburgh Collection. Text available <a href="https://static1.squarespace.com/static/52f5eb0ee4b013e3f9433ecd/t/67d41dd5b88acd6f81400b59/1741954518356/Giulia+Gentili++booklet+low+res.pdf">here</a>.</li>
 <li><b>Boyle, J.S.</b>, Randhawa, H., 2024.  <a href="https://artreviewoxford.com/issues/ARO%208.pdf">Who Grieves for Rivers? A Correspondence.</a> <i>Art Review Oxford</i>.</li>
   <details> <summary> Full text </summary> 
 Dear Joe,
-
+<br/><br/>
 Recently I came across this postcard at Modern Art Oxford that had an artwork by Kiki Smith, Pool of Tears II, which was shown as part of her show I am a Wanderer in 2020. With a young female figure swimming in the dark waters with a group of animals following/accompanying her from behind, I couldn't help but think about the story of the Skywoman when looking at this image. 
-
+<br/><br/>
 The Skywoman, who fell from the Skyworld into a world full of darkness, water and no land with sweetgrass clenched in her hand. As Kimmerer brings to our attention in Braiding Sweetgrass the “original woman (Skywoman) was herself an immigrant” who descended on our world with “nothing but a handful of seeds and the slimmest of instructions to “use your gifts and dreams for good””. Another wanderer who wandered too far bearing gifts for the beings of the dark waters. Adham Faramawy’s recent film And these deceitful waters, 2023 comes to my mind too.
-
+<br/><br/>
 In particular, I am reminded of the prints they made of film stills Welcome Newcomers III, in support of the Southward Day Centre for Asylum Seekers Charity. The photo pictures the performers knee-deep in the seawater on the shore of seven sisters, with their arms open welcoming the wanderers perhaps? 
-
+<br/><br/>
 The Skywoman? The migrants? The refugees? All who are connected by or find themselves floating on and across the rivers and the seas? 
-
-Wondering and wandering 
-
-Harman 
-
+<br/><br/>
+Wondering and wandering,
+<br/>Harman 
+<br/><br/>
 ___________________________________________________________________________
 
-
+<br/><br/>
 Dear Harman,
-
+<br/><br/>
 Waters are many things to many people. To see them used as a weapon, especially by our government, breaks my heart.
-
+<br/><br/>
 Today, at Port Meadow, I thought about Adham’s film. Funny that we see ‘waters’ as fixed relative to land, when the waters themselves pass through. From source to sea to sky and back through rock, bodies, and air, perhaps we need to confine them in some way. If waters can be deceitful, how do they think? I wonder how the Thames would consider its own history, between geologic meandering and a kingfisher’s splash. If the waters up here know those city waters. Whether these become those? I’d imagine rivers might feel mixed, enabling so much cruelty and so much beauty. It feels insensitive to bring them up together, but I suppose rivers are always dual: connecting and separating, quenching and submerging, giving and taking and all the time flowing. 
-
+<br/><br/>
 Perhaps we could ask the Whanganui, Klamath, Mutuhekau Shipu, or any river living in Bangladesh. They’re all considered legal persons. The Amazon too, though recognised 22 years behind their slippery, twisted namesake. I wonder what a river might think about that. Maybe they’re more concerned with actions than words. One day we might know, I’m sure plenty of other people already do. What would a river’s date of birth be?
-
+<br/><br/>
 Soaking and flooding define Port Meadow’s flat, open, dynamic ecology. Is the ecology the work of the river? Creativity? Mourning? Resistance? The sheer thrill of running over and through land? Maybe it’s none of them, or something incomprehensible (at least to me). 
-
+<br/><br/>
 Yours swimmingly,
-Joe
-
+<br/>Joe
+<br/><br/>
 ___________________________________________________________________________
 
-
+<br/><br/>
 Dear Joe,
-
+<br/><br/>
 It makes me happy to know how Adham’s film has stayed with you. A few weeks after seeing the film at the Frieze Art Fair I asked Adham about how having the chopped logs of Oak in the exhibition space as seats situated with the film that unearths a long history of imperial violence against nature. To that they responded, “I don’t think a clean-cut or comfortable narrative exists here”. So yes, our rivers must have very mixed feelings but I also wonder if the waters knew where the ships were going in the 15th century, and what the people on the ships were doing under the namesake of “explorers”, would they have let them across?
-
+<br/><br/>
 Reading your text I remembered that I myself come from the land of 5 rivers, Punjab. Almost ashamed of not knowing their names from the top of my head I did not think that someone who lived on a land where life was built around the water bodies could feel so distant from them. Even if I wanted to I could have not gotten to know them all 5. Only Sutlej, Beas and Ravi flow through in today’s Punjab of India; Chenab and Jhelum separated from her sisters by the Radcliffe line now flow in the Punjab of Pakistan. 
-
+<br/><br/>
 “They wanted a line before or on 15 August, so I drew them a line” 
-Cyril Radcliffe 
-
+<br/>Cyril Radcliffe 
+<br/><br/>
 How does a man who never even stepped on the land get to tear her apart like this? Like you ask I too wonder how the rivers felt of this… 
-
-
+<br/><br/>
 With love,
-
+<br/>
 Harman 
-
+<br/><br/>
 P.S. I am performing as a river figure in a performance at Modern Art Oxford tonight, I hope to see you there x
-
+<br/><br/>
 P.P.S. Maybe we do have an answer to that. Earlier this year, heavy monsoon rain flooded hundreds of villages along Sutlej in both India and Pakistan. The river wept with anger across the lands bounded by the borders of the nation-state but, sadly the government officials found an excuse to turn this humanitarian crisis into a blame game of their own pointing fingers at the opposition parties.
-
+<br/><br/>
 The colonial thirst for power remains prevalent in the state, and the caretakers of these natural bodies suffer the most.    
-
+<br/><br/>
 ___________________________________________________________________________
 
-
+<br/><br/>
 Dear Harman,
-
+<br/><br/>
 Just back from SEAXBURH, what a brilliant show! I loved your embodiment of the river figure as generous and dynamic but understated, moving fluidly, subtly, not dominating while powering so much. I think you’re just the person to ask how rivers might feel. Who might grieve for the rivers?
+<br/><br/>
 Thinking of rivers, territory, and colonisation, The Gambia comes to mind. The smallest country on the continent most shaped by other peoples’ lines on other peoples’ maps, its borders were placed about 10 miles beyond the banks of the Gambia River, pushing upstream to the furthest navigable reaches. Beyond that point of impenetrability, the river continues into Senegal (which envelops The Gambia). Why draw a line beyond what you can exploit?
+<br/><br/>
 The river made this land useful to the Portuguese, Dutch, British, French, and earlier the Arabs and Mali and Ghana Empires. Colonisers and merchants alike sailed these waters to steal or trade gold, ivory, and people from continental depths to global markets. Three million people over three centuries plus untold others. Following colonisation, half the population live in poverty as the river ecosystem collapses, bounded by some of Africa’s most-damaged forests. Floods, rising seas, sewage, and crocodiles plague The Gambia under climate change. Resilience is sought through restoring forests which once protected the land, waters, and people. 
+<br/><br/>
 Some say ‘Gambia’ comes from the Portuguese ‘câmbio’, to exchange or trade. Stories tell of British boats firing cannons from the river, claiming everything within artillery range. These tales are historically accurate in spirit if not letter.
-
+<br/><br/>
 Solemnly,
-Joe
-
+<br/>Joe
+<br/><br/>
 ___________________________________________________________________________
-
-
+<br/><br/>
 Dear Joe,
-
+<br/><br/>
 It was quite the performance at MAO. As advertised on Instagram, the performance did involve a “boat, a large eel, a lot of lily petals and some surgical sewing”, how theatrical!
-
+<br/><br/>
 Though, after speaking to some friends and mentors, I find myself questioning my involvement in it. Distressed by the nature of the performance and the (mis)use of the corpse of the eel in the basement of a white cube gallery, a friend found seeing me and my brown body in the performance very confusing. It was almost as if my racialised presence, even if peripheral in the performance, facilitated a sort of sitting-with-the-performance for them, when in fact they would have walked out of the room long before it finished. 
-
+<br/><br/>
 Like the eel, I feel like a tool. 
-
+<br/><br/>
 Except that I chose to be there and she did not. 
-
+<br/><br/>
 I remember we went through an extensive Code of Conduct outlining the values we had to comply with when visiting the Department of Physiology, Anatomy and Genetics to do anatomical studies of human cadavers. Where was this document in the gallery where the corpse of the Eel was not just put on display but also handled in my and other performers' bare hands with surgical suturing being performed on it? It seems that in the act of weaving together of “stories of human and more-than-human encounters” the performance reproduces the same imperial patterns separating (white) human and the other. The other that is meant to be “captured, named, displayed, to define what it is, or rather what the (imperial) eye/I is not”.
-
+<br/><br/>
 Going back to your question “Who might grieve for the rivers?” I think it is the beings who exist in this very category of the Other. I am thinking about the recurring images in Adham’s film where we see a triangle of Othered bodies connected by the water and air upheld by the earth beneath them. Moving with the river, they raise their hands in prayer, releasing them upward and outward. A sort of sharing/remembering of gifts takes place here.
-
-Remembering who we forgot, the Skywoman and the blessings she bestowed upon us
-
-
-Harman 
-
+<br/><br/>
+Remembering who we forgot, the Skywoman and the blessings she bestowed upon us,
+<br/>Harman 
+<br/><br/>
 ___________________________________________________________________________
-
-
+<br/><br/>
 Dear Harman,
-
+<br/><br/>
 I often wonder about rivers from an ecologist’s standpoint. Fresh, liquid water covers 0.5% of Earth’s surface, but holds 1/10 known lifeforms and supports most of the rest. Maybe that twentyfold skew reflects where we settle/live/look, but I think there’s more to it. Rivers flow life. Lives twice as threatened as those playing out across lands or oceans, while receiving less research and policy attention. SEAXBURH’s focus, the marvellous and mysterious European eel, is critically endangered, declining up to 98% since the 70s. Might more people come to know rivers and the lives they hold? We’ll certainly all miss them.
-
+<br/><br/>
 As waters lose life, they bring ever more death. Some through finger-pointing across misplaced lines drawn to control people, others through vain attempts to control water itself. I recently watched Vale? by Marcelo Barbosa and Paul Heritage, detailing the negligent horror of the Brumadinho dam disaster alongside local artists’ resilience in expressing their grief. Despite repeated safety warnings, the mining company who owned the dam killed 270 people with a flood of toxic waste-'water'. The company, Vale, was formerly known as Companhia Vale do Rio Doce (the Sweet River Valley Company). 11 people remain missing five years on, carried out of sight of those responsible and reach of those mourning. The same waters spread toxins throughout the São Francisco river basin, poisoning human and non-human communities.
-
+<br/><br/>
 St Francis of Assisi is the patron saint of poor people and ecology. Poverty and ecology have always been linked, whether by tangible impacts of ecological harm on people (or ecologies recognised as people and vice versa), or neo-colonial conservation blaming Indigenous, traditional, or rural lifeways for ‘degradation’. Do some really consider interaction with poor people inherently degrading?
-
+<br/><br/>
 I suppose those who grieve lost ecologies will always be the ‘others’ fighting to keep them alive, whether through story, care, harvest, reliance, or resistance.
-
+<br/><br/>
 Take care,
-Joe
-
+<br/>Joe
+<br/><br/>
   </details>
 </ul>
 </details> 
