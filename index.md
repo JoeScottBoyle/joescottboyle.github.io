@@ -323,7 +323,7 @@ Preparing to present this work some years later, I wondered how I could convey l
 <br /><br />
 Built of weekly frames over an entire year (2018), I hope it conveys a sense of how I think shrubs might experience their seasonality. Each photo was taken at solar noon, with the changing angle perhaps due to snow, wind, wildlife (bears or muskoxen most likely), or permafrost shifting beneath the tripod. Mostly snow-covered and often dark, this is a strange world and one I’m very lucky to have peeked into.
 <br /><br />
-<iframe src="https://giphy.com/embed/GchluJn9LdrDkLxOo7" width="480" height="341" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/arctic-salix-arctica-GchluJn9LdrDkLxOo7">via GIPHY</a></p>
+<a href="https://giphy.com/gifs/arctic-salix-arctica-GchluJn9LdrDkLxOo7">via GIPHY</a>
 </details></li>
 </ul>
 </details>
