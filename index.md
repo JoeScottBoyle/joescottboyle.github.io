@@ -9,7 +9,7 @@ A holding space for recent things I'm excited about:
 ##### Art: Gripping a Wet Rock. Exhibition and workshop at Mote102 Gallery, Edinburgh, now held within The University of Edinburgh Collection. Text available <a href="https://static1.squarespace.com/static/52f5eb0ee4b013e3f9433ecd/t/67d41dd5b88acd6f81400b59/1741954518356/Giulia+Gentili++booklet+low+res.pdf">here</a>.
 ##### Project: [Meadows, Memories, and Missing Layers](https://linktr.ee/seagrassSES)
 ##### Paper: [Bridging Land and Seascape Restoration for Ecoscape Recovery](https://rdcu.be/epSO1). *npj Ocean Sustainability*
-##### Talk: [Mapping the Sea: Place, Power, and Participation](https://www.linkedin.com/posts/joe-scott-boyle_seascapes-restoration-education-activity-7317603816294473729-jrbu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtlBu0B9jiQdLU8wedipHkzT2SqlafIHEk) at CETYS University
+##### Talk: [Mapping the Sea: Place, Power, and Participation](https://www.linkedin.com/posts/joe-scott-boyle_seascapes-restoration-education-activity-7317603816294473729-jrbu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtlBu0B9jiQdLU8wedipHkzT2SqlafIHEk) at CETYS University, Tijuana
 
 <!-- Elfsight LinkedIn Feed | Untitled LinkedIn Feed -->
 <script src="https://static.elfsight.com/platform/platform.js" async></script>
