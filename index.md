@@ -306,7 +306,24 @@ Take care,
 <li><b>Boyle, J.S.</b>, Randhawa, H., Stanković, A.T., 2024. Floating Leaves and Unsettled Seeds. Workshop in Oxford.</li>
 <li><b>Boyle, J.S.</b>, Randhawa, H., Stanković, A.T., 2024. Critical Cartographies: Mapping & Resistance. Workshop in Oxford.</li>
 </ul>
+</details>
 
+<details> <summary> Writing </summary> 
+<ul>
+<li>The Road is a Riverbed (2026)</li>
+<li>A Year in the Tunrda (2022)</li>
+<details>I spent summer 2015 in Canada's Yukon Territory, researching tundra shrubs. This experience (with only satellite phone to reach loved ones) pushed me out of the constant companionship of my 106-person housing co-operative. Leaving an almost-warm Scotland for a nightless summer of single-digit temperatures was challenging, and we returned just in time for autumn.
+<br /><br />
+Qikiqtaruk (69.57 °N, 138.90 °W) is an 'island' in the Beaufort Sea, connected by ice to mainland North America for part of the year. This allows people and large mammals to cross by 'land' sometimes, othertimes requiring a weather-dependent boat or charter flight. It has no permanent residents, with seasonal rangers and researchers (including our Team Shrub - link) housed in tents and the cabins of a former whaling station. It felt to me a very fluid place, dis/connected and un/inhabited.
+<br /><br />
+This trip led to my first lead-author publication, investigating the lives of tundra shrubs under climate change ([Boyle et al., 2022](https://link.springer.com/10.1007/s00300-022-03074-9)), and the moment I first felt a 'real' scientist. Focused on the life history of <i>Salix arctica</i> I felt a deep connection to this plant and a parallel with my own development, but struggled to communicate such an extreme environment and lifestyle to other people. 
+<br /><br />
+Preparing to present this work some years later, I wondered how I could convey life as a tundra shrub. To illustrate the short and vigorous growing season, I made this GIF using remote camera data from another project I was working on ([Fålthammar de Jong et al., 2025](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.70188)).
+<br /><br />
+Built of weekly frames over an entire year (2018), I hope it conveys a sense of how I think shrubs might experience their seasonality. Each photo was taken at solar noon, with the changing angle perhaps due to snow, wind, wildlife (bears or muskoxen most likely), or permafrost shifting beneath the tripod. Mostly snow-covered and often dark, this is a strange world and one I’m very lucky to have peeked into.
+<br /><br />
+  <img src="/Users/joeboyle/Desktop/phenology.gif" alt="Description of GIF" />
+</ul>
 </details>
 
 
@@ -332,7 +349,7 @@ Take care,
 <summary> <b> Invited talks</b>
 </summary>
 <ul> 
-<li>Engaging schools with nature (with Kim Polgreen)</a>. OCR Subject Forum towards GCSE Natural History, Cambridge, UK, 24/11/25</li> 
+<li>Engaging schools with nature (with Kim Polgreen). OCR Subject Forum towards GCSE Natural History, Cambridge, UK, 24/11/25</li> 
 <li><a href="https://www.linkedin.com/posts/joe-scott-boyle_seascapes-restoration-education-activity-7317603816294473729-jrbu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtlBu0B9jiQdLU8wedipHkzT2SqlafIHEk">Mapping the Sea: Place, Power, and Participation</a>. CETYS University, Tijuana, Mexico, 10/4/25</li>
 <li>Just Maps: Critical Cartography at Sea. The University of Oxford, Oxford, UK, 12/3/25</li>
 <li><a href="https://www.youtube.com/watch?v=rQmT8nQdi1k">Practices and principles of re-engaging young people with nature (with Kim Polgreen)</a>. Healthy Ecosystem Restoration in Oxfordshire, Oxford, UK, 12/3/25</li> 
