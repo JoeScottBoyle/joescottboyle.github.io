@@ -311,8 +311,8 @@ Take care,
 <details> <summary> Other </summary> 
 <ul>
 <li>The Road is a Riverbed (2026)</li>
-<li>A Year in the Tunrda (2022)</li>
-<details>I spent summer 2015 in Canada's Yukon Territory, researching tundra shrubs. This experience (with only satellite phone to reach loved ones) pushed me out of the constant companionship of my 106-person housing co-operative. Leaving an almost-warm Scotland for a nightless summer of single-digit temperatures was challenging, and we returned just in time for autumn.
+<li>A Year in the Tundra (2022)</li>
+I spent summer 2015 in Canada's Yukon Territory, researching tundra shrubs. This experience (with only satellite phone to reach loved ones) pushed me out of the constant companionship of my 106-person housing co-operative. Leaving an almost-warm Scotland for a nightless summer of single-digit temperatures was challenging, and we returned just in time for autumn.
 <br /><br />
 Qikiqtaruk (69.57 °N, 138.90 °W) is an 'island' in the Beaufort Sea, connected by ice to mainland North America for part of the year. This allows people and large mammals to cross by 'land' sometimes, othertimes requiring a weather-dependent boat or charter flight. It has no permanent residents, with seasonal rangers and researchers (including our Team Shrub - link) housed in tents and the cabins of a former whaling station. It felt to me a very fluid place, dis/connected and un/inhabited.
 <br /><br />
@@ -324,7 +324,7 @@ Built of weekly frames over an entire year (2018), I hope it conveys a sense of 
 <br /><br />
 <iframe src="https://giphy.com/embed/GchluJn9LdrDkLxOo7" width="480" height="341" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/arctic-salix-arctica-GchluJn9LdrDkLxOo7">via GIPHY</a></p>
 </ul>
-</details>
+
 
 
 <details> <summary> Artistic collaborations </summary> 
