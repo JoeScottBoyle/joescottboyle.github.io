@@ -326,7 +326,7 @@ Built of weekly frames over an entire year (2018), I hope it conveys a sense of 
 <iframe src="https://giphy.com/embed/GchluJn9LdrDkLxOo7" width="480" height="341" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/arctic-salix-arctica-GchluJn9LdrDkLxOo7">via GIPHY</a></p>
 </details></li>
 </ul>
-
+</details>
 
 
 <details> <summary> Artistic collaborations </summary> 
